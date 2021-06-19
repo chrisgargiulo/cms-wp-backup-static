@@ -1,2 +1,2 @@
 # cms-wp-backup
-a backup of cms wp site
+a backup of cms wordpress site
