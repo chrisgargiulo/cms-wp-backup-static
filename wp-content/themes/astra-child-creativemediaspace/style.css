@@ -1,0 +1,925 @@
+@charset "UTF-8";
+/*
+ Theme Name:   Astra Child Creative Media Space 
+ Theme URI:    http://creativemedia.space
+ Description:  Astra Child Theme
+ Author:       CMS
+ Author URI:   http://creativemedia.space
+ Template:     astra
+ Version:      1.0.0
+ License:      Open Source Public Domain
+ Tags:         
+ Text Domain:  astra-child
+*/
+
+/* @import url("..//wp-content/themes/astra-child-creativemediaspace/astra-theme-inline-styles.css"); */
+
+/* ADOBE FONTS 
+font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+font-family: 'Kepler-Std',kepler-std,Georgia,serif;
+
+*/
+
+body {
+  line-height: 1.5;
+}
+
+/* #HEADINGS
+    Based on a Traditional Typographic Scale
+    48, 36, 24, 21, 18, 16
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0.5em 0;
+  font-weight: 700;
+}
+
+/* ASTRA TYPE OVERRIDES */
+/* Headings */
+/* h2, .entry-content h2,  */
+/* h3, .entry-content h3,  */
+h4, .entry-content h4, 
+h5, .entry-content h5, 
+h6, .entry-content h6, 
+.site-title, .site-title a {
+  font-weight: 700;
+}
+h3, .entry-content h3, 
+h4, .entry-content h4 { 
+  font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+} 
+
+h5, .entry-content h5, 
+h6, .entry-content h6 {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif;
+}
+
+.site-title {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+  margin: 0 auto;
+}
+
+.site-title {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+  font-weight: 700;
+}
+
+/* PAGE TITLES */
+
+h1, .entry-content h1,
+.ast-single-post .entry-title, 
+.page-title,
+.entry-content h1.cms-page-title,
+.entry-content h2.cms-page-title,
+.cms-page-title {
+  font-family: 'Kepler-Std',kepler-std,Georgia,serif;
+  font-size: 6em; /* 64px / 16px = 4em */
+  font-size: 6vw;
+  line-height: 1;
+  font-weight: 400;
+}
+
+.single .entry-header {
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+.single.single-lesson .entry-header {
+  margin-top: 2em;
+  margin-bottom: 0;
+}
+
+.entry-title, .entry-title a {
+  font-family: 'Kepler-Std',kepler-std,Georgia,serif;
+  font-weight: 400;
+  /* text-transform: uppercase; */
+  line-height: 1;
+}
+
+@media(max-width:767px) {
+  h1, .entry-content h1,
+  .ast-single-post .entry-title, 
+  .page-title,
+  .entry-content h1.cms-page-title,
+  .entry-content h2.cms-page-title,
+  .cms-page-title {
+    font-size: 3em; /* 64px / 16px = 4em */
+    font-size: 9vw;
+  }
+}
+
+@media(min-width:1200px) {
+  h1, .entry-content h1,
+  .ast-single-post .entry-title, 
+  .page-title,
+  .entry-content h1.cms-page-title,
+  .entry-content h2.cms-page-title,
+  .cms-page-title {
+    font-size: 6em; /* 64px / 16px = 4em */
+    /* font-size: 8vw; */
+  }
+}
+
+h2 {
+  font-size: 2.25em; /* 36px / 16px = 2.25em */
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 1.5em; /* 24px / 16px = 1.5em */
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: 1.3125em; /* 21px / 16px = 1.3125em */
+  line-height: 1.3;
+}
+
+h5 {
+  font-size: 1.125em; /* 18px / 16px = 1.125em */
+  line-height: 1.4;
+}
+
+h6 {
+  font-size: 1em; /* 16px / 16px = 1em */
+  line-height: 1.5;
+}
+
+.entry-content > h3:first-child {
+  max-width: 30em;
+}
+
+p {
+  line-height: 1.5;
+}
+
+p, li { max-width: 38em; }
+
+/* Links and buttons */
+
+a {
+  /* color: #2295ff; */
+  color: #7d7a1c;
+  text-decoration: none;
+}
+
+a:hover {
+  /* color: #0077e4; */
+  color: #585610;
+}
+.site-footer a {
+  
+}
+
+
+/* buttons */
+
+button,
+.button,
+.llms-button-action, 
+.llms-button-primary,
+.llms-button-secondary,
+.llms-button-action {
+  display: inline-block;
+  margin: 1em 0;
+  border-radius: 100px;
+  /* background: #2295ff; */
+  background: #7d7a1c;
+  /* background-color: #2295ff; */
+  background-color: #7d7a1c;
+  /* border-color: #2295ff; */
+  border-color: #7d7a1c;
+  padding: 1em 1.25em;
+  color: #fff;
+  line-height: 1;
+}
+
+button:hover,
+.button:hover {
+  /* background-color: #0077e4;
+  border-color: #0077e4; */
+  background-color: #585610;
+  border-color: #585610;
+}
+
+.llms-button-action:hover, .llms-button-action.clicked,
+.llms-button-primary:hover, .llms-button-primary.clicked,
+.llms-button-secondary:hover, .llms-button-secondary.clicked,
+.llms-button-action:hover, .llms-button-action.clicked {
+  /* background-color: #0077e4;
+  border-color: #0077e4; */
+  background-color: #585610;
+  border-color: #585610;
+  color: #fff;
+}
+
+.llms-quiz-buttons .llms-start-quiz-button {
+  line-height: 1;
+}
+
+.llms-quiz-buttons .llms-start-quiz-button:after {
+  font-size: 1em;
+}
+
+
+.uagb-button__wrapper,
+.uagb-buttons__outer-wrap .uagb-button__wrapper {
+  border-radius: 100px !important;
+  /* border-color: #2295ff !important; */
+  border-color: #7d7a1c !important;
+}
+
+.uagb-button__link,
+.uagb-buttons__outer-wrap .uagb-button__wrapper a.uagb-button__link, 
+.uagb-buttons__outer-wrap .uagb-button__wrapper .uagb-button__link {
+  padding: .6em 1.25em !important;
+  border-radius: 100px;
+  /* background: #2295ff; */
+  background: #7d7a1c;
+  /* background-color: #2295ff; */
+  background-color: #7d7a1c;
+  color: #fff;
+}
+
+.uagb-button__link:hover,
+.uagb-buttons__outer-wrap .uagb-button__wrapper a.uagb-button__link:hover, 
+.uagb-buttons__outer-wrap .uagb-button__wrapper .uagb-button__link:hover {
+  /* background: #0077e4;
+  background-color: #0077e4; */
+  background: #585610; 
+  background-color: #585610;
+  color: #fff !important;
+}
+
+/* Mobile Nav Adjustments */
+
+button.menu-toggle,
+button.search-submit {
+  margin: 0;
+}
+
+.menu-toggle-icon,
+.ast-button-wrap .menu-toggle .menu-toggle-icon {
+  line-height: 1;
+  font-size: 1.3em;
+  margin-top: -.2em;
+}
+
+.main-header-bar .main-header-bar-navigation.toggle-on {
+  padding-top: 0;
+}
+
+.main-navigation li {
+  max-width: none;
+}
+
+.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children>.ast-menu-toggle, .ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children>.ast-menu-toggle {
+  margin: 0;
+  border: none;
+}
+
+/* PAGE-SPECIFIC CSS */
+
+.home .hero h1 {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+  text-align:center; color: #fff; margin-bottom: .2em; max-width: none;
+}
+
+.home .hero p {
+  text-align:center; color: #fff; margin-left: auto; margin-right: auto;
+}
+
+.wp-block-pullquote,
+.wp-block-pullquote blockquote {
+  border: none;
+}
+
+/* ASTRA OVERRIDES */
+
+.ast-single-post-order .entry-title,
+.ast-single-post-order .entry-meta {
+  max-width: none;
+}
+
+/* Bread crumbs */
+.ast-header-break-point .main-header-bar.ast-header-breadcrumb {
+  border: none;
+}
+
+/* move the back to course link */
+
+.llms-parent-course-link {
+  position: absolute;
+  top: .5em; font-size: .8em;
+}
+
+/* .entry-content h1,
+.ast-single-post .entry-title, 
+.page-title,
+.entry-content h1.cms-page-title,
+.entry-content h2.cms-page-title,
+.cms-page-title {
+  max-width: none;
+} */
+
+
+
+/* TAG AND CATEGORY BUTTONS 
+.cat-links a,
+.tags-links a {
+  display: inline-block;
+  margin-top: 1em;
+  font-size: .8em;
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 15px;
+    padding: 0.5em 1em;
+}
+.cat-links a:hover
+.tags-links a:hover {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
+*/
+
+/* ASTRA TWEAKS AND OVERRIDES */
+
+@media (min-width: 768px) {
+  .site-header {
+      padding-top: 2em;
+  }
+}
+
+.narrow-centered,
+.margin-centered {
+margin-left: auto;
+margin-right: auto;
+}
+
+.narrow-centered  {
+  max-width: 600px;
+}
+
+.main-header-bar {
+  border-bottom-width: 0px;
+}
+
+.main-header-container{
+  border-bottom: 1px solid rgba(0,0,0,.2);
+}
+.ast-small-footer {
+  border-top-width: 0px;
+}
+
+/* LIFTER LMS SPECIFIC */
+.llms-loop-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+body .llms-syllabus-wrapper .llms-section-title {
+  background-color: transparent;
+  width: 100%;
+}
+
+body .llms-syllabus-wrapper .llms-lesson-preview .llms-lesson-link {
+  /* background-color: transparent; */
+}
+
+.llms-syllabus-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+body .llms-syllabus-wrapper .llms-lesson-preview {
+  width: 48%;
+  margin: 1%;
+}
+
+@media (min-width: 768px) {
+  body .llms-syllabus-wrapper .llms-lesson-preview {
+    width: 23%;
+    margin: 1%;
+  }
+} 
+
+body .llms-syllabus-wrapper .llms-lesson-preview .llms-lesson-link,
+.llms-lesson-preview .llms-lesson-link {
+  background: #eee;
+  padding: 10% 0;
+  border-radius: 10px;
+  height: 100%;
+}
+
+body .llms-syllabus-wrapper .llms-lesson-preview .llms-lesson-link:hover {
+  background: #ddd;
+}
+
+.llms-syllabus-wrapper .llms-lesson-preview .llms-extra {
+  float: none;
+  width: auto;
+}
+
+body .is-enrolled .llms-syllabus-wrapper .llms-lesson-preview .llms-main {
+  padding: 1em 0;
+}
+
+.llms-lesson-preview .llms-extra+.llms-main {
+  width: 100%;
+}
+
+body .llms-syllabus-wrapper .llms-lesson-preview .llms-lesson-title {
+  text-align: center;
+  font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+  line-height: 1.3;
+}
+
+.llms-h3, .entry-content .llms-h3, 
+.llms-h4, .entry-content .llms-h4, 
+.llms-h5, .entry-content .llms-h5, 
+.llms-h6, .entry-content .llms-h6,
+.llms-access-plan-title, .entry-content .llms-access-plan-title,
+.llms-notification-title, .entry-content .llms-notification-title,
+.llms-question-title, .entry-content .llms-question-title  {
+  font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+}
+
+.llms-access-plan-title, .entry-content .llms-access-plan-title {
+  background-color: #000;
+  color: #fff;
+}
+
+.llms-pre-text {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+}
+
+/* Progress bar colors */
+.llms-progress .progress-bar-complete {
+  background: #83c373;
+}
+
+/* Lesson Step Items */
+
+/* Inline numbes (inside of the media blocks) */
+.step-block {
+  /* margin */
+}
+
+.step-item {
+  font-size: 8em;
+  line-height: .8;
+  margin: 0;
+  padding: 0 0.1em .15em .1em;
+  font-weight: 700;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  border-bottom: .05em solid red;
+}
+
+.step-item span {
+  font-size: .125em;
+  display: block;
+  color: rgba(0,0,0,.5);
+  text-transform: uppercase;
+}
+
+/* Step Headings (seperate blocks) */
+
+.step-heading {
+  text-align: center;
+}
+
+.step-heading h2 {
+  font-size: 1em;
+  letter-spacing: .1em;
+  color: rgba(0,0,0,.75);
+  margin: 0;
+  margin-bottom: 0 !important;
+}
+
+.step-heading .uagb-separator {
+  display: none;
+}
+
+.step-heading p {
+  max-width: none;
+  font-size: 8em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0 .2em .2em .2em;
+  line-height: .8;
+  border-bottom: 10px solid red;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+/* Checkboxes on Quizes */
+.llms-question-wrapper ol.llms-question-choices li.llms-choice input:checked+.llms-marker {
+  background: #83c373;
+}
+
+/* Checkboxes on Widgets */
+.llms-widget-syllabus .llms-lesson-complete.done, 
+.llms-widget-syllabus .lesson-complete-placeholder.done {
+  color: #83c373;
+}
+
+/* Quiz-page - hide un-needed stuff */
+.llms-quiz-meta-info,
+.llms-quiz-results-history,
+.llms-quiz-meta-title {
+  display: none;
+}
+
+/* .llms-lesson-counter {
+  font-family: 'Kepler-Std',kepler-std,Georgia,serif;
+} */
+
+body .llms-progress .llms-progress-bar, body .widget_course_progress .llms-progress .llms-progress-bar {
+  /* border-radius: .7em; */
+  height: .9em;
+  top: .3em;
+}
+
+.ast-lifterlms-container .page-title {
+  text-align: center;
+}
+
+.llms-loop-item-content {
+  border-radius: 10px;
+  padding: 1em;
+}
+
+.ast-container ul.llms-loop-list li.llms-loop-item .llms-loop-item-footer, .ast-lifterlms-container ul.llms-loop-list li.llms-loop-item .llms-loop-item-footer, .llms-student-dashboard ul.llms-loop-list li.llms-loop-item .llms-loop-item-footer {
+  padding-bottom: 1em;
+}
+
+.ast-container ul.llms-loop-list li.llms-loop-item .llms-loop-title, .ast-lifterlms-container ul.llms-loop-list li.llms-loop-item .llms-loop-title, .llms-student-dashboard ul.llms-loop-list li.llms-loop-item .llms-loop-title {
+  font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+  margin-top: 1.3em;
+}
+
+.llms-access-plan-description p {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Fixes for Course Pages */
+.wp-block-llms-course-progress + .wp-block-llms-course-continue-button {
+  margin-top: 1em;
+}
+
+/* Hide breadcrumbs on all course pages */
+.single-course .ast-header-breadcrumb,
+.single-lesson .ast-header-breadcrumb {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+}
+
+/* Hide Footer Widgets on all course pages */
+.single-course .footer-adv,
+.single-lesson .footer-adv {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+}
+
+/* Hide Footer Widgets and breadcrumbs on all quiz pages */
+.single-llms_quiz .ast-header-breadcrumb,
+.single-llms_quiz .footer-adv{
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+
+/* Display Post List Styling */
+
+.display-posts-listing {
+  column-count: 2;
+  max-width: none;
+}
+.display-posts-thumblisting {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em -1%;
+  max-width: none;
+}
+.display-posts-thumblisting li {
+  list-style: none;
+  width: 50%;
+  padding: 1% 1% 1em 1%;
+}
+
+@media (min-width: 768px) {
+  .display-posts-thumblisting.jumbo li {
+    width: 33.3333%;
+  }
+  .display-posts-thumblisting li {
+    width: 20%;
+  }
+} 
+
+.display-posts-thumblisting .image,
+.display-posts-thumblisting .title {
+    display: block;
+    text-align: center;
+}
+
+.display-posts-thumblisting .title {
+  /* max-width: 150px; */
+  /* font-size: .8em; */
+  line-height: 1.2;
+  padding: .5em;
+}
+
+
+.display-posts-thumblisting.jumbo .title {
+  /* max-width: 300px; */
+}
+
+@media (max-width: 767px) {
+  .display-posts-thumblisting .image {
+      text-align: center;
+  }
+  .display-posts-thumblisting .title {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+  }
+}
+
+/* Ultimate Gutenberg addon specific */
+.entry-content .uagb-post__title {
+  font-family: 'Acumin-Pro',acumin-pro,Helvetica,Arial,sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.wp-block-uagb-advanced-heading {
+  margin-top: 4%;
+}
+
+.uagb-heading-text,
+.entry-content .uagb-heading-text {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+  max-width: none;
+  text-transform: uppercase;
+}
+
+.wp-block-uagb-advanced-heading .uagb-heading-text {
+  margin-top: 3em;
+}
+
+.wp-block-uagb-advanced-heading {
+  margin-bottom: 2em;
+}
+
+.uagb-post__image {
+  transition: all .3s ease;
+}
+
+.uagb-post__image:hover {
+  transform: scale(1.03);
+}
+
+.uagb-post-grid .uagb-post__image img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+/* WIDGET OVERRIDES */
+
+.widget-title {
+  font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
+  text-transform: uppercase;
+}
+
+.widget .sidebar-course-runninghead {
+  color: #ccc;
+  font-weight: 700;
+  font-size: .8em;
+  /* margin: 32% 0 0% 0; */
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  display: inline-block;
+}
+
+/* @media (min-width: 1200px) {
+  .widget .sidebar-course-runninghead {
+    margin: 10.5em 0 0 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .widget .sidebar-course-runninghead {
+    margin: 1em 0 0 0;
+  }
+} */
+
+.widget_tag_cloud .tagcloud {
+  display: block;
+}
+
+.widget_tag_cloud .tagcloud a {
+  display: block;
+  font-size: 1em !important;
+  border: 0;
+  padding: 0;
+  line-height: 1.3;
+}
+.footer-adv .tagcloud a:hover, 
+.footer-adv .tagcloud a.current-item {
+  background-color: transparent;
+  color: #000;
+}
+
+/* GISTS & CODEPENS */
+.gist,
+.cp_embed_wrapper {
+  margin-bottom: 2em;
+}
+
+/* HIDE COMMENTS */
+.comments-area {
+  display: none;
+}
+
+/* ANIMATION */
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0; 
+  }
+  100% {
+    opacity: 1; 
+  }
+}
+
+.fadeIn * {
+  animation: fadeIn 1s ease-out forwards;
+  opacity: 0;
+}
+
+@keyframes fadeanddropIn {
+  0% {
+    transform: translateY(-20px);
+    opacity: 0; 
+  }
+  100% {
+    transform: translateY(0px); 
+    opacity: 1; 
+  }
+}
+
+.fadeanddropIn * {
+  animation: fadeanddropIn 1s ease-out forwards;
+  opacity: 0;
+}
+
+
+@keyframes fadeandscaleIn {
+  0% {
+    transform: scale(.95);
+    opacity: 0; 
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.fadeandscaleIn * {
+  animation: fadeandscaleIn 1s ease-out forwards;
+  opacity: 0;
+}
+
+
+@keyframes fadeandslidefromleft {
+  0% {
+    transform: translateX(-10px);
+    opacity: 0; 
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.fadeandslidefromleft * {
+  animation: fadeandslidefromleft 1s ease-out forwards;
+  opacity: 0;
+}
+
+.main-header-container * {
+  animation: fadeIn 1s cubic-bezier(.7, 0, .2, 1) forwards;
+  opacity: 0;
+}
+
+.main-header-container *:nth-child(1) { animation-delay: 0s;}
+.main-header-container *:nth-child(2) { animation-delay: .25s;}
+.main-header-container *:nth-child(3) { animation-delay: .5s;}
+.main-header-container *:nth-child(4) { animation-delay: .75s;}
+.main-header-container *:nth-child(5) { animation-delay: 1s;}
+
+.main-header-container,
+.entry-header *,
+.entry-content > *,
+.uagb-post__items article .uagb-post__inner-wrap {
+  animation: fadeanddropIn 1s cubic-bezier(.7, 0, .2, 1) forwards;
+  opacity: 0;
+}
+
+.entry-header *:nth-child(1) { animation-delay: .25s;}
+.entry-header *:nth-child(2) { animation-delay: .5s;}
+.entry-header *:nth-child(3) { animation-delay: .75s;}
+.entry-header *:nth-child(4) { animation-delay: 1s;}
+
+.entry-content > * {
+  animation-delay: 1s;
+}
+.entry-content > *:nth-child(1) { animation-delay: .2s;}
+.entry-content > *:nth-child(2) { animation-delay: .4s;}
+.entry-content > *:nth-child(3) { animation-delay: .6;}
+.entry-content > *:nth-child(4) { animation-delay: .8s;}
+.entry-content > *:nth-child(5) { animation-delay: 1s;}
+.entry-content > *:nth-child(6) { animation-delay: 1.2s;}
+.entry-content > *:nth-child(7) { animation-delay: 1.4s;}
+
+.uagb-post__items article:nth-child(1) .uagb-post__inner-wrap { animation-delay: .2s;}
+.uagb-post__items article:nth-child(2) .uagb-post__inner-wrap { animation-delay: .4s;}
+.uagb-post__items article:nth-child(3) .uagb-post__inner-wrap { animation-delay: .6;}
+.uagb-post__items article:nth-child(4) .uagb-post__inner-wrap { animation-delay: .8s;}
+.uagb-post__items article:nth-child(5) .uagb-post__inner-wrap { animation-delay: 1s;}
+.uagb-post__items article:nth-child(6) .uagb-post__inner-wrap { animation-delay: 1.2s;}
+.uagb-post__items article:nth-child(7) .uagb-post__inner-wrap { animation-delay: 1.4s;}
+
+.site-branding *,
+.trail-items *,
+.ast-archive-description * {
+  animation: fadeandslidefromleft 1s cubic-bezier(.7, 0, .2, 1) forwards;
+  opacity: 0;
+}
+
+.trail-items *:nth-child(1) { animation-delay: 1s;}
+.trail-items *:nth-child(2) { animation-delay: .75s;}
+.trail-items *:nth-child(3) { animation-delay: .5s;}
+.trail-items *:nth-child(4) { animation-delay: .25s;}
+.trail-items *:nth-child(5) { animation-delay: 0;}
+
+/* .entry-header * {
+  animation: fadeandscaleIn 1s ease-out forwards;
+  opacity: 0;
+} */
+
+/* HIDE LMS CONTENT FROM MY ACCOUNT PAGE */
+.llms-sd-section.llms-my-achievements,
+.llms-sd-section.llms-my-certificates,
+.llms-sd-section.llms-my-memberships {
+  display: none;
+}
+
+/* HEADER SIGN IN MENU BAV BUTTONS */
+
+@media (min-width: 768px) {
+
+  .main-header-menu .llms-nav-item-signin a,
+  .main-header-menu .llms-nav-item-signout a {
+      border: 1px solid #beb93b;
+      border-radius: 1em;
+      padding: .75em;
+      line-height: 1;
+      height: auto;
+  }
+
+  .main-header-menu > .menu-item > a.menu-link {
+    /* height: auto !important; */
+    height: auto;
+  }
+  
+  .main-header-menu .llms-nav-item-signin a:hover,
+  .main-header-menu .llms-nav-item-signout a:hover {
+      background-color: #beb93b;
+      color: #fff;
+  }
+  
+  }

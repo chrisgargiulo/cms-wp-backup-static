@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Web Development &#8211; CMS</title>
+	<atom:link href="../course-tag/web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Wed, 04 Jan 2023 20:19:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Web Development &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Create a Static Student Website</title>
+		<link>..//course/student-site/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 04:32:58 +0000</pubDate>
+				<guid isPermaLink="false">..//?post_type=course#038;p=3464</guid>
+
+					<description><![CDATA[Build a simple personal website from scratch, writing every line of code by hand, from scratch. This is a beginner-level set of lessons, with a focus on the essential basics of front-end web development. It does not cover any advanced concepts or technologies. Through a combination of brief overview lessons and hands-on activities, students will &#8230;<p class="read-more"> <a class="" href="../course/student-site/"> <span class="screen-reader-text">Create a Static Student Website</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Build a simple personal website from scratch, writing every line of code by hand, from scratch. </h3>
+
+
+
+<p>This is a beginner-level set of lessons, with a focus on the essential basics of front-end web development. It does not cover any advanced concepts or technologies. Through a combination of brief overview lessons and hands-on activities, students will learn about core underlying web technologies and some best practices for front-end web development. Students go through the development process of coding a website from scratch. To succeed, students are encouraged to think critically and objectively about the underlying technologies of the web and to be open to various different factors and considerations that differentiate the medium of the web from other design media. Students will gain hands-on web design and development experience by designing and coding a simple, static web page writing each and every line of HTML and CSS by hand.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://youtu.be/fCJ22XtrK4o" target="_blank" rel="noreferrer noopener">View Course Introduction Video</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://github.com/sallysmithnma/studentsite" target="_blank" rel="noreferrer noopener">View a Completed Project Example</a></div>
+</div>
+
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="llms-meta-info">
+	<h3 class="llms-meta-title">
+		Course Information	</h3>
+
+<div class="llms-meta llms-difficulty">
+	<p>Difficulty: <span class="difficulty">Beginner</span></p>
+</div>
+
+<div class="llms-meta llms-tracks">
+	<p></p>
+</div>
+
+<div class="llms-meta llms-categories">
+	<p></p>
+</div>
+
+<div class="llms-meta llms-tags">
+	<p>Tags: <a href="../course-tag/web-design/" rel="tag">Web Design</a>, <a href="../course-tag/web-development/" rel="tag">Web Development</a></p>
+</div>
+
+</div><!-- .llms-meta-info -->
+
+
+
+<h3 class="wp-block-heading">Course Outcomes</h3>
+
+
+
+<p>Upon completion, students should be able to:</p>
+
+
+
+<ul>
+<li>Understand the basics of how the web works and the underlying core front-end web technologies used for web design and development.</li>
+
+
+
+<li>Apply best practices for user-centered web design by embracing web standards.</li>
+
+
+
+<li>Communicate project-related goals and deliverables in a clear, concise, and organized manner. </li>
+
+
+
+<li>Synthesize the basic concepts and principles of graphic design, web design, and web development through the creation of a custom website.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Course Content</h3>
+
+
+<div class="wp-block-llms-course-syllabus"><div class="clear"></div>
+
+<div class="llms-syllabus-wrapper">
+
+	
+		
+			
+							<h3 class="llms-h3 llms-section-title">Introduction</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-and-objectives/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro and Objectives</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-web-design-and-development-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Web Design and Development </h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Get Setup</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/github-and-netlify/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Github</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/setup-github-pages-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Get Setup on Github Pages</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/setup-local-dev-environment/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Setup a Local Dev Environment</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/initial-home-page/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Initial HTML Home Page</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/add-some-style-via-css/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">5 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Add Style with CSS</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Web Development Best Practices</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/html-core-essentials/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">HTML Essentials</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/exercise-markup-text-with-html-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Markup Text with HTML</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/activity-update-your-index-page-with-essential-html/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Update Your Home Page with Essential HTML</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/css-styling-essentials/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">CSS Essentials</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/styling-with-style-css-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">5 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Styling with Style.css</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Web Design Foundations</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/frontend-dev-site-structure-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Front-end Dev: Site Structure</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/front-end-dev-sub-pages-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Front-end Dev: Sub Pages</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/customize-the-ui/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Designing with Code</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">BONUS Lessons (Optional)</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/web-design-terminology-a-primer-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Web Design Terminology: A Primer</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/design-patterns-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Design Patterns</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-headers-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Headers</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-heros-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Heros</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/quality-assurance-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">5 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Quality Assurance</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-launch-3/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">6 of 6</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Launch!</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+	
+	<div class="clear"></div>
+
+</div></div>
+
+
+
+
+<div class="wp-block-llms-course-continue-button" style="text-align:center"></div>
+
+
+
+
+	
+	<section class="llms-access-plans cols-1">
+
+		
+		
+			
+<div class="llms-access-plan llms-access-plan-3466" id="llms-access-plan-3466">
+
+	<div class="llms-access-plan-featured">
+			&nbsp;
+	</div>
+
+	<div class="llms-access-plan-content">
+		<h4 class="llms-access-plan-title">Open Enrollment</h4>
+<div class="llms-access-plan-pricing regular">
+
+	<div class="llms-access-plan-price">
+
+		
+		<span class="price-regular"><span class="lifterlms-price">FREE</span></span>
+
+		
+	</div>
+
+	
+	
+	
+</div>
+<div class="llms-access-plan-description"><p>This is a free course that is open to everyone. To access and track your progress, you must login or create an account.</p>
+</div>
+	</div>
+
+	<div class="llms-access-plan-footer">
+
+		<div class="llms-access-plan-pricing trial">
+			&nbsp;
+	</div>
+	<a class="llms-button-action button" href="../purchase/?plan=3466">Begin Now</a>
+
+	</div>
+
+
+	
+</div>
+
+		
+		
+	</section>
+
+	
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Further Reading &amp; Learning Resources </h2>
+
+
+
+<h3 class="wp-block-heading" id="pre-approved">Pre-approved Websites</h3>
+
+
+
+<p>During breaks and downtime, the following websites are pre-approved for students to visit:</p>
+
+
+
+<ul>
+<li><a href="..//resources/">CreativeMedia.space (CMS) Resources</a>
+<ul>
+<li>Specific CMS lessons to check out:
+<ul>
+<li><a href="..//html-basics-elements-syntax-and-common-uses/">HTML Basics: Elements &amp; Syntax</a></li>
+
+
+
+<li><a href="..//css-basics-selectors-syntax-and-common-uses/">CSS Basics: Selectors and Syntax</a></li>
+
+
+
+<li><a href="..//web-design-dev-process/">The Web Design and Development Process</a></li>
+
+
+
+<li><a href="..//web-design-terminology/">Web Design Terminology: A Primer</a></li>
+
+
+
+<li><a href="..//introduction-to-front-end-development/">Intro to Front-end Web Development</a></li>
+
+
+
+<li><a href="..//box-model/">The Box Model</a></li>
+
+
+
+<li><a href="..//intro-to-git-using-github-2/">Intro to Git using Github</a></li>
+</ul>
+</li>
+
+
+
+<li>Specific CMS exercises to check out:
+<ul>
+<li><a href="..//simple-html-web-page/">Code a Simple HTML Web Page</a></li>
+
+
+
+<li><a href="..//simple-web-page-with-css/">Code a Simple Web Page with CSS</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://www.w3schools.com/">W3schools.com</a>
+<ul>
+<li><a href="https://www.w3schools.com/html/default.asp">W3Schools HTML Tutorial</a></li>
+
+
+
+<li><a href="https://www.w3schools.com/tags/default.asp">HTML Tag List</a></li>
+
+
+
+<li><a href="https://www.w3schools.com/css/default.asp">CSS Tutorial</a></li>
+
+
+
+<li><a href="https://www.w3schools.com/cssref/css_selectors.asp">CSS Selectors</a></li>
+
+
+
+<li><a href="https://www.w3schools.com/js/">JS Tutorial</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://codepen.io/">Codepen.io</a>
+<ul>
+<li><a href="https://codepen.io/kccnma/">Instructor&#8217;s pens (kccnma)</a></li>
+
+
+
+<li>Specific pens to check out:
+<ul>
+<li><a href="https://codepen.io/kccnma/pen/OzpyLP">Intro to HTML Exercise &#8211; Test without Markup</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/ZwOVbZ">Normal Flow: Block and Inline level elements</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/xMjyZK">Exercise: Simple Horizontal Centering</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/mvLzBw">Exercise: Simple Horizontal and Vertical Centering with Flexbox</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/geqbwR">Box Model and Box Sizing</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/XxNmLY">Base Typography with a Traditional Typographic Scale</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/xpemKN">Intro to Divs (Div Test) Exercise</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/KQKEzr">CSS Positioning Test: Inline-Blocks</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/ppQdmo?editors=1100">Simple HTML web page with base CSS</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/eMgPWY">Simple Header</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/aGbXXj">Custom Numbered List: Circled Numbers</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/yjyMNG">Custom Numbered List: Stacked Oversized Numbers</a></li>
+
+
+
+<li><a href="https://codepen.io/kccnma/pen/VEvajO">Layout Example: Media/Post Objects List &#8211; CSS Grid w/ Flexbox Fallback</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://www.sololearn.com/">Sololearn</a> (website &amp; mobile app)
+<ul>
+<li>Specific courses to check out:
+<ul>
+<li><a href="https://www.sololearn.com/Course/HTML/">HTML fundamentals</a></li>
+
+
+
+<li><a href="https://www.sololearn.com/Course/CSS/">CSS fundamentals</a></li>
+
+
+
+<li><a href="https://www.sololearn.com/Course/JavaScript/">JS Tutorial</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Web_standards">Web Standards</a> (Wikipedia definition)</li>
+
+
+
+<li><a href="https://www.w3.org/standards/">W3C</a>&nbsp;(World Wide Web Consortium).</li>
+
+
+
+<li><a href="https://html.com/">HTML.com</a></li>
+
+
+
+<li>Digital.com’s&nbsp;<a href="https://digital.com/tools/html-cheatsheet/">HTML Cheat Sheet</a></li>
+
+
+
+<li>Adam Marsden’s&nbsp;<a href="https://adam-marsden.co.uk/css-cheat-sheet">CSS Cheat Sheet</a></li>
+</ul>
+
+
+
+<ul>
+<li><a href="https://www.awwwards.com/">Awwwards.com</a></li>
+
+
+
+<li><a href="https://onepagelove.com/">One Page Love</a></li>
+
+
+
+<li><a href="https://www.underconsideration.com/artofthemenu/">Art of the Menu</a></li>
+</ul>
+
+
+
+<ul>
+<li><a href="http://nma.kcc.hawaii.edu/gargiulo/">Instructor&#8217;s teaching web site</a></li>
+</ul>
+
+
+
+<ul>
+<li>Books to check out:
+<ul>
+<li>Steve Krug&#8217;s <a href="..//dont-make-me-think-by-steve-krug/">Don&#8217;t Make Me Think</a></li>
+
+
+
+<li>John Duckett&#8217;s <a href="..//html-css/">HTML &amp; CSS</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-uagb-advanced-heading uagb-block-e7b4e0df" id="uagb-adv-heading-c6f3bf4e-4919-4e29-a12f-a653e4b380ac"><h2 class="uagb-heading-text">Fun Stuff</h2></div>
+
+
+
+<h2 class="wp-block-heading">Design &amp; Code Related Games</h2>
+
+
+
+<ul>
+<li><a href="https://type.method.ac/">Kern Type (a typography kerning game)</a></li>
+
+
+
+<li><a href="https://shape.method.ac/">Shape Type (a typography letter shaping game)</a></li>
+
+
+
+<li><a href="https://bezier.method.ac/">The Beziér Game (a pen tool game)</a></li>
+
+
+
+<li><a href="http://pixact.ly/">Pixact.ly (a pixel size guessing game)</a></li>
+
+
+
+<li><a href="http://flukeout.github.io/">CSS Diner (a CSS learning game)</a></li>
+
+
+
+<li><a href="http://flexboxfroggy.com/">Flexbox Froggy (a flexbox learning game)</a></li>
+
+
+
+<li><a href="http://www.flexboxdefense.com/">Flexbox Defense (a flexbox learning game)</a></li>
+
+
+
+<li><a href="http://www.rgbchallenge.com/">RGB Challenge (a color guessing game)</a></li>
+
+
+
+<li><a href="https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/">I Shot the Serif (a typography game)</a></li>
+
+
+
+<li><a href="https://codecombat.com/">Code Combat</a></li>
+
+
+
+<li><a href="https://fathom.info/ragtime/">Rag Time</a></li>
+
+
+
+<li><a href="http://typewar.com/">Type War</a></li>
+
+
+
+<li><a href="http://ilovetypography.com/ifontgame/">iFont Game</a></li>
+
+
+
+<li><a href="http://fontgame.ilovetypography.com/">Font Game</a></li>
+
+
+
+<li><a href="http://www.hexinvaders.com/">Hex Invaders</a></li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3464</post-id>	</item>
+		<item>
+		<title>Web Design for All Ages</title>
+		<link>..//course/web-design-for-all-ages/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 04 Aug 2019 05:46:44 +0000</pubDate>
+				<guid isPermaLink="false">http://www.chrisgargiulo.com/cms/?post_type=course&#038;p=3136</guid>
+
+					<description><![CDATA[An introduction-level web design and development course designed for students of all ages with no experience in design or coding. This is a beginner-level course with a focus on the essential basics of web design and development. It does not cover any advanced web design concepts or web development technologies. Through a combination of brief &#8230;<p class="read-more"> <a class="" href="../course/web-design-for-all-ages/"> <span class="screen-reader-text">Web Design for All Ages</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">An introduction-level web design and development course designed for students of all ages with no experience in design or coding. </h3>
+
+
+
+<p>This is a beginner-level course with a focus on the essential basics of web design and development. It does not cover any advanced web design concepts or web development technologies. Through a combination of brief overview lessons and hands-on activities, students students will learn about core underlying web technologies and best practices for web design and development. Students will go through the creative design process of drafting, designing, and developing a custom personal website from scratch. To succeed in this course, students are encouraged to think creatively and be willing to work on a series of different visual exercises, such as sketching with a pencil and paper, designing interfaces digitally with design software, and coding a simple, static web page writing each and every line of HTML and CSS by hand.</p>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://docs.google.com/document/d/1JLKCwui2HnwGL3JE7F_4Susr5VV9JqzpGRnNH5ianJE/edit?usp=sharing">View the Syllabus</a></div>
+
+
+
+<div class="llms-meta-info">
+	<h3 class="llms-meta-title">
+		Course Information	</h3>
+
+<div class="llms-meta llms-difficulty">
+	<p>Difficulty: <span class="difficulty">Beginner</span></p>
+</div>
+
+<div class="llms-meta llms-tracks">
+	<p></p>
+</div>
+
+<div class="llms-meta llms-categories">
+	<p></p>
+</div>
+
+<div class="llms-meta llms-tags">
+	<p>Tags: <a href="../course-tag/web-design/" rel="tag">Web Design</a>, <a href="../course-tag/web-development/" rel="tag">Web Development</a></p>
+</div>
+
+</div><!-- .llms-meta-info -->
+
+
+
+<h3 class="wp-block-heading">Course Outcomes</h3>
+
+
+
+<p>Upon completion, students should be able to:</p>
+
+
+
+<ul><li>Understand the basics of the how the web works and the underlying core technologies used for web design and development.</li><li>Apply best practices for user centered web design by embracing web standards and an iterative creative design process.</li><li>Communicate project-related goals and deliverables in a clear, concise, and organized manner. </li><li>Synthesize the basic concepts and principles of web design and development through the creation of a custom website.</li></ul>
+
+
+
+<h3 class="wp-block-heading">Course Content</h3>
+
+
+<div class="wp-block-llms-course-syllabus"><div class="clear"></div>
+
+<div class="llms-syllabus-wrapper">
+
+	
+		
+			
+							<h3 class="llms-h3 llms-section-title">Introduction</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-the-course/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to the Course</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-web-design-and-development/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Web Design and Development </h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Get Setup</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/github-and-github-pages/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Github &#038; Github Pages</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/setup-github-pages/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Get Setup on Github Pages</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-web-design-best-practices/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Setup a Local Dev Environment</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/the-home-page/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Initial HTML Home Page</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/add-somestyle-via-css/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">5 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Add Style with CSS</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Web Development Best Practices</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/html-essentials/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">HTML Essentials</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/exercise-markup-text-with-html/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Markup Text with HTML</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/activity-update-your-home-page-with-essential-html/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Update Your Home Page with Essential HTML</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/css-essentials/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">CSS Essentials</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/styling-with-style-css/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">5 of 5</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Styling with Style.css</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Web Design Foundations</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/frontend-dev-site-structure/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Front-end Dev: Site Structure</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/front-end-dev-sub-pages/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Front-end Dev: Sub Pages</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/customize/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Designing with Code</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Web Design Software</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-design-software-2/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Design Software</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intro-to-adobe-xd/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Intro to Adobe XD</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/intermediate-adobe-xd/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 3</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Prototyping in Adobe XD</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">User Experience Design (UX)</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/web-design-terminology-a-primer/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 4</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Web Design Terminology: A Primer</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/web-design-and-development-process/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 4</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Web Design and Dev Process</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/content-strategy/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">3 of 4</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Project Planning &#038; Content Strategy</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/design-patterns/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">4 of 4</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Design Patterns</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">User Interface Design (UI)</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-headers/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Headers</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-heros/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Heros</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+			
+							<h3 class="llms-h3 llms-section-title">Testing &#038; Delivery</h3>
+			
+						
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/quality-assurance/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">1 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Quality Assurance</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+					
+<div class="llms-lesson-preview is-free has-icon">
+	<a class="llms-lesson-link" href="../lesson/site-launch/">
+
+		
+										
+			<aside class="llms-extra">
+				<span class="llms-lesson-counter">2 of 2</span>
+				<span class="llms-icon-free">FREE</span>			</aside>
+
+		
+		<section class="llms-main">
+						<h5 class="llms-h5 llms-lesson-title">Site Launch!</h5>
+					</section>
+
+		<div class="clear"></div>
+
+		
+	</a>
+</div>
+
+				
+			
+		
+	
+	<div class="clear"></div>
+
+</div></div>
+
+
+
+
+<div class="wp-block-llms-course-continue-button" style="text-align:center"></div>
+
+
+
+
+	
+	<section class="llms-access-plans cols-1">
+
+		
+		
+			
+<div class="llms-access-plan llms-access-plan-3137" id="llms-access-plan-3137">
+
+	<div class="llms-access-plan-featured">
+			&nbsp;
+	</div>
+
+	<div class="llms-access-plan-content">
+		<h4 class="llms-access-plan-title">Open Enrollment</h4>
+<div class="llms-access-plan-pricing regular">
+
+	<div class="llms-access-plan-price">
+
+		
+		<span class="price-regular"><span class="lifterlms-price">FREE</span></span>
+
+		
+	</div>
+
+	
+	
+	
+</div>
+<div class="llms-access-plan-description"><p>This is a free course that is open to everyone. To access and track your progress, you must login or create an account.</p>
+</div>
+	</div>
+
+	<div class="llms-access-plan-footer">
+
+		<div class="llms-access-plan-pricing trial">
+			&nbsp;
+	</div>
+	<a class="llms-button-action button" href="../purchase/?plan=3137">Begin Now</a>
+
+	</div>
+
+
+	
+</div>
+
+		
+		
+	</section>
+
+	
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Further Reading &amp; Learning Resources </h2>
+
+
+
+<h3 class="wp-block-heading" id="pre-approved">Pre-approved Websites</h3>
+
+
+
+<p>During breaks and downtime, the following websites are pre-approved for students to visit:</p>
+
+
+
+<ul><li><a href="..//resources/">CreativeMedia.space (CMS) Resources</a><ul><li>Specific CMS lessons to check out:<ul><li><a href="..//html-basics-elements-syntax-and-common-uses/">HTML Basics: Elements &amp; Syntax</a></li><li><a href="..//css-basics-selectors-syntax-and-common-uses/">CSS Basics: Selectors and Syntax</a></li><li><a href="..//web-design-dev-process/">The Web Design and Development Process</a></li><li><a href="..//web-design-terminology/">Web Design Terminology: A Primer</a></li><li><a href="..//introduction-to-front-end-development/">Intro to Front-end Web Development</a></li><li><a href="..//box-model/">The Box Model</a></li><li><a href="..//intro-to-git-using-github-2/">Intro to Git using Github</a></li></ul></li><li>Specific CMS exercises to check out:<ul><li><a href="..//simple-html-web-page/">Code a Simple HTML Web Page</a></li><li><a href="..//simple-web-page-with-css/">Code a Simple Web Page with CSS</a></li></ul></li></ul></li></ul>
+
+
+
+<ul><li><a href="https://www.w3schools.com/">W3schools.com</a><ul><li><a href="https://www.w3schools.com/html/default.asp">W3Schools HTML Tutorial</a></li><li><a href="https://www.w3schools.com/tags/default.asp">HTML Tag List</a></li><li><a href="https://www.w3schools.com/css/default.asp">CSS Tutorial</a></li><li><a href="https://www.w3schools.com/cssref/css_selectors.asp">CSS Selectors</a></li><li><a href="https://www.w3schools.com/js/">JS Tutorial</a></li></ul></li></ul>
+
+
+
+<ul><li><a href="https://codepen.io/">Codepen.io</a><ul><li><a href="https://codepen.io/kccnma/">Instructor&#8217;s pens (kccnma)</a></li><li>Specific pens to check out:<ul><li><a href="https://codepen.io/kccnma/pen/OzpyLP">Intro to HTML Exercise &#8211; Test without Markup</a></li><li><a href="https://codepen.io/kccnma/pen/ZwOVbZ">Normal Flow: Block and Inline level elements</a></li><li><a href="https://codepen.io/kccnma/pen/xMjyZK">Exercise: Simple Horizontal Centering</a></li><li><a href="https://codepen.io/kccnma/pen/mvLzBw">Exercise: Simple Horizontal and Vertical Centering with Flexbox</a></li><li><a href="https://codepen.io/kccnma/pen/geqbwR">Box Model and Box Sizing</a></li><li><a href="https://codepen.io/kccnma/pen/XxNmLY">Base Typography with a Traditional Typographic Scale</a></li><li><a href="https://codepen.io/kccnma/pen/xpemKN">Intro to Divs (Div Test) Exercise</a></li><li><a href="https://codepen.io/kccnma/pen/KQKEzr">CSS Positioning Test: Inline-Blocks</a></li><li><a href="https://codepen.io/kccnma/pen/ppQdmo?editors=1100">Simple HTML web page with base CSS</a></li><li><a href="https://codepen.io/kccnma/pen/eMgPWY">Simple Header</a></li><li><a href="https://codepen.io/kccnma/pen/aGbXXj">Custom Numbered List: Circled Numbers</a></li><li><a href="https://codepen.io/kccnma/pen/yjyMNG">Custom Numbered List: Stacked Oversized Numbers</a></li><li><a href="https://codepen.io/kccnma/pen/VEvajO">Layout Example: Media/Post Objects List &#8211; CSS Grid w/ Flexbox Fallback</a></li></ul></li></ul></li></ul>
+
+
+
+<ul><li><a href="https://www.sololearn.com/">Sololearn</a> (website &amp; mobile app)<ul><li>Specific courses to check out:<ul><li><a href="https://www.sololearn.com/Course/HTML/">HTML fundamentals</a></li><li><a href="https://www.sololearn.com/Course/CSS/">CSS fundamentals</a></li><li><a href="https://www.sololearn.com/Course/JavaScript/">JS Tutorial</a></li></ul></li></ul></li></ul>
+
+
+
+<ul><li><a href="https://en.wikipedia.org/wiki/Web_standards">Web Standards</a> (Wikipedia definition)</li><li><a href="https://www.w3.org/standards/">W3C</a>&nbsp;(World Wide Web Consortium).</li><li><a href="https://html.com/">HTML.com</a></li><li>Digital.com’s&nbsp;<a href="https://digital.com/tools/html-cheatsheet/">HTML Cheat Sheet</a></li><li>Adam Marsden’s&nbsp;<a href="https://adam-marsden.co.uk/css-cheat-sheet">CSS Cheat Sheet</a></li></ul>
+
+
+
+<ul><li><a href="https://www.awwwards.com/">Awwwards.com</a></li><li><a href="https://onepagelove.com/">One Page Love</a></li><li><a href="https://www.underconsideration.com/artofthemenu/">Art of the Menu</a></li></ul>
+
+
+
+<ul><li><a href="http://nma.kcc.hawaii.edu/gargiulo/">Instructor&#8217;s teaching web site</a><ul><li>Specific NMA courses to check out:<ul><li><a href="http://nma.kcc.hawaii.edu/gargiulo/ip1.html">ART 128 Interface Programming 1</a></li><li><a href="http://nma.kcc.hawaii.edu/gargiulo/id1.html">ART 229 Interface Design 1</a></li></ul></li></ul></li></ul>
+
+
+
+<ul><li>Books to check out:<ul><li>Steve Krug&#8217;s <a href="..//dont-make-me-think-by-steve-krug/">Don&#8217;t Make Me Think</a></li><li>John Duckett&#8217;s <a href="..//html-css/">HTML &amp; CSS</a></li></ul></li></ul>
+
+
+
+<ul><li>Shared Photos (photos shot with the Canon 5D and GoPro)<ul><li><a href="https://photos.app.goo.gl/JehooihDjyGcFDac9">Our Shared Google Photos Album</a></li></ul></li></ul>
+
+
+
+<div class="wp-block-uagb-advanced-heading uagb-block-f6e1daab" id="uagb-adv-heading-c6f3bf4e-4919-4e29-a12f-a653e4b380ac"><h2 class="uagb-heading-text">Fun Fridays</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+
+
+
+<h2 class="wp-block-heading">Pre-Approved Sites for Fun Fridays</h2>
+
+
+
+<ul><li><a href="https://type.method.ac/">Kern Type (a typography kerning game)</a></li><li><a href="https://shape.method.ac/">Shape Type (a typography letter shaping game)</a></li><li><a href="https://bezier.method.ac/">The Beziér Game (a pen tool game)</a></li><li><a href="http://pixact.ly/">Pixact.ly (a pixel size guessing game)</a></li><li><a href="http://flukeout.github.io/">CSS Diner (a CSS learning game)</a></li><li><a href="http://flexboxfroggy.com/">Flexbox Froggy (a flexbox learning game)</a></li><li><a href="http://www.flexboxdefense.com/">Flexbox Defense (a flexbox learning game)</a></li><li><a href="http://www.rgbchallenge.com/">RGB Challenge (a color guessing game)</a></li><li><a href="https://www.tothepoint.co.uk/us/fun/i-shot-the-serif/">I Shot the Serif (a typography game)</a></li><li><a href="https://codecombat.com/">Code Combat</a></li><li><a href="https://fathom.info/ragtime/">Rag Time</a></li><li><a href="http://typewar.com/">Type War</a></li><li><a href="http://ilovetypography.com/ifontgame/">iFont Game</a></li><li><a href="http://fontgame.ilovetypography.com/">Font Game</a></li><li><a href="http://www.hexinvaders.com/">Hex Invaders</a></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-uagb-advanced-heading uagb-block-dfe6517c" id="uagb-adv-heading-8694bfe2-09ac-48a9-a23a-822b7f7c8611"><h2 class="uagb-heading-text">Student Sites</h2><div class="uagb-separator-wrap"><div class="uagb-separator"></div></div><p class="uagb-desc-text"></p></div>
+
+
+
+<div class="wp-block-columns has-2-columns is-layout-flex wp-container-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ol><li>Student: <a href="https://iwebstudent01.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent01/iwebstudent01.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent01">Codepen</a></li><li>Student: <a href="https://iwebstudent02.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent02/iwebstudent02.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent02">Codepen</a></li><li>Student: <a href="https://iwebstudent03.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent03/iwebstudent03.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent03">Codepen</a></li><li>Student: <a href="https://iwebstudent04.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent04/iwebstudent04.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent04">Codepen</a></li><li>Student: <a href="https://iwebstudent05.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent05/iwebstudent05.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent05">Codepen</a></li><li>Student: <a href="https://iwebstudent06.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent06/iwebstudent06.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent06">Codepen</a></li><li>Student: <a href="https://iwebstudent07.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent07/iwebstudent07.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent07">Codepen</a></li><li>Student: <a href="https://iwebstudent08.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent08/iwebstudent08.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent08">Codepen</a></li><li>Student: <a href="https://iwebstudent09.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent09/iwebstudent09.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent09">Codepen</a></li><li>Student: <a href="https://iwebstudent10.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent10/iwebstudent10.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent10">Codepen</a></li><li>Student: <a href="https://iwebstudent11.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent11/iwebstudent11.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent11">Codepen</a></li><li>Student: <a href="https://iwebstudent12.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent12/iwebstudent12.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent12">Codepen</a></li><li>Student: <a href="https://iwebstudent13.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent13/iwebstudent13.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent13">Codepen</a></li></ol>
+
+
+
+<ol start="31"><li>Student: <a href="https://iwebstudent31.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent31/iwebstudent31.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent31">Codepen</a></li></ol>
+
+
+
+<ul><li>iwebStudent001: <a href="https://iwebstudent001.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent001/iwebstudent001.github.io">Repo</a></li><li>iwebStudent14: <a href="https://iwebstudent14.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent14/iwebstudent14.github.io">Repo</a></li></ul>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<ol start="15"><li>Student: <a href="https://iwebstudent15.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent15/iwebstudent15.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent15">Codepen</a></li><li>Student: <a href="https://iwebstudent16.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent16/iwebstudent16.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent16">Codepen</a></li><li>Student: <a href="https://iwebstudent17.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent17/iwebstudent17.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent17">Codepen</a></li><li>Student: <a href="https://iwebstudent18.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent18/iwebstudent18.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent18">Codepen</a></li><li>Student: <a href="https://iwebstudent19.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent19/iwebstudent19.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent19">Codepen</a></li><li>Student: <a href="https://iwebstudent20.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent20/iwebstudent20.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent20">Codepen</a></li><li>Student: <a href="https://iwebstudent21.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent21/iwebstudent21.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent21">Codepen</a></li><li>Student: <a href="https://iwebstudent22.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent22/iwebstudent22.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent22">Codepen</a></li><li>Student: <a href="https://iwebstudent23.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent23/iwebstudent23.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent23">Codepen</a></li><li>Student: <a href="https://iwebstudent24.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent24/iwebstudent24.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent24">Codepen</a></li><li>Student: <a href="https://iwebstudent25.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent25/iwebstudent25.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent25">Codepen</a></li><li>Student: <a href="https://iwebstudent26.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent26/iwebstudent26.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent26">Codepen</a></li><li>Student: <a href="https://iwebstudent27.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent27/iwebstudent27.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent27">Codepen</a></li><li>Student: <a href="https://iwebstudent28.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent28/iwebstudent28.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent28">Codepen</a></li><li>Student: <a href="https://iwebstudent29.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent29/iwebstudent29.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent29">Codepen</a></li></ol>
+
+
+
+<ul><li>iwebstudent30: <a href="https://iwebstudent30.github.io/">Site</a> &#8211; <a href="https://github.com/iwebstudent30/iwebstudent30.github.io">Repo</a> &#8211; <a href="https://codepen.io/iwebstudent30">Codepen</a></li></ul>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3136</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Newsletters &#8211; CMS</title>
+	<atom:link href="../category/newsletters/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Tue, 03 Jan 2023 19:04:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Newsletters &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Typewolf</title>
+		<link>..//typewolf/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 21:01:19 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Newsletters]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2179</guid>
+
+					<description><![CDATA[Typewolf (https://www.typewolf.com)/ is an online web typography resource and newsletter (https://www.typewolf.com/newsletter) created by Jeremiah Shoaf (https://www.jeremiahshoaf.com/) for all things related to typography on the web from a designer&#8217;s perspective. Typewolf is an independent site/online resource that showcases typefaces from several different type foundries and sources.]]></description>
+										<content:encoded><![CDATA[
+<p>Typewolf (<a href="https://www.typewolf.com/">https://www.typewolf.com/</a>) is an online web typography resource and newsletter (<a href="https://www.typewolf.com/newsletter">https://www.typewolf.com/newsletter</a>) created by Jeremiah Shoaf (<a href="https://www.jeremiahshoaf.com/">https://www.jeremiahshoaf.com/</a>) for all things related to typography on the web from a designer&#8217;s perspective. Typewolf is an independent site/online resource that showcases typefaces from several different type foundries and sources. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2179</post-id>	</item>
+		<item>
+		<title>UI Animation Newsletter</title>
+		<link>..//ui-animation-newsletter/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 06 Sep 2018 18:48:45 +0000</pubDate>
+				<category><![CDATA[Newsletters]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2031</guid>
+
+					<description><![CDATA[A great source for motion UI inspiration by Val Head. You can subscribe on her UI Animation Newsletter web page.]]></description>
+										<content:encoded><![CDATA[<p>A great source for motion UI inspiration by <a href="https://valhead.com/">Val Head</a>. You can subscribe on her <a href="https://valhead.com/newsletter/">UI Animation Newsletter</a> web page.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2031</post-id>	</item>
+		<item>
+		<title>Web Designer Depot Newsletter</title>
+		<link>..//web-designer-depot-newsletter/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 22:34:39 +0000</pubDate>
+				<category><![CDATA[Newsletters]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/web-designer-depot-newsletter/</guid>
+
+					<description><![CDATA[The Web Designer Depot Newsletter contains quick bits of industry news, inspirational resources, as well as information regarding new products and services for designers.]]></description>
+										<content:encoded><![CDATA[<p>The <a href="//www.webdesignerdepot.com/newsletter/“">Web Designer Depot Newsletter</a> contains quick bits of industry news, inspirational resources, as well as information regarding new products and services for designers.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">218</post-id>	</item>
+		<item>
+		<title>Smashing Magazine Email Newsletter</title>
+		<link>..//smashing-magazine-email-newsletter/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 22:28:43 +0000</pubDate>
+				<category><![CDATA[Newsletters]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/smashing-magazine-email-newsletter/</guid>
+
+					<description><![CDATA[The Smashing Magazine Email Newsletter is an editorial email newsletter sent twice a month with useful tips, tricks and resources for designers and developers — thoroughly collected, written and edited by Smashing Magazine editors exclusively for Smashing Magazine readers.]]></description>
+										<content:encoded><![CDATA[<p>The <a href="https://www.smashingmagazine.com/the-smashing-newsletter/">Smashing Magazine Email Newsletter</a> is an editorial email newsletter sent twice a month with useful tips, tricks and resources for designers and developers — thoroughly collected, written and edited by Smashing Magazine editors exclusively for Smashing Magazine readers.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">215</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,2761 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lessons &#8211; CMS</title>
+	<atom:link href="../category/lessons/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 14 Apr 2022 18:21:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Lessons &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Intro to Design Patterns</title>
+		<link>..//intro-to-design-patterns/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 02:04:15 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">..//?p=4221</guid>
+
+					<description><![CDATA[Reusable Solutions to Known Problems In web design, a design pattern is not a visual &#8220;pattern&#8221; (e.g. a background image of repeating shapes and colors). It&#8217;s easy to see how one might immediately think of this when they put the words design and pattern together. Originating from software engineering, a web (UX, UI) design pattern &#8230;<p class="read-more"> <a class="" href="../intro-to-design-patterns/"> <span class="screen-reader-text">Intro to Design Patterns</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Reusable Solutions to Known Problems</h3>
+
+
+
+<p>In web design, a design pattern is not a <em>visual</em> &#8220;pattern&#8221; (e.g. a background image of repeating shapes and colors). It&#8217;s easy to see how one might immediately think of this when they put the words <em>design</em> and <em>pattern</em> together. Originating from software engineering, a <strong>web (UX, UI) design pattern</strong> is a <em>reusable solution</em> to a <em>known problem</em>. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>User interface design patterns are descriptions of&nbsp;best practices&nbsp;within user interface design. They are general, reusable solutions to commonly occurring problems. As such, they form the backbone of “technical support.” However, as design patterns can be applied to a wide variety of instances, designers should adapt them to the&nbsp;specific context&nbsp;of use within&nbsp;each&nbsp;design project.</p><cite><a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">Interaction Design Foundation</a></cite></blockquote>
+
+
+
+<h2 class="wp-block-heading">Common Examples of Interactive UX/UI Design Patterns</h2>
+
+
+
+<ul><li>Common Site Structural Design Patterns / Components:<ul><li>Site Headers</li><li>Site Primary Navigation Bars</li><li>Site Hero Sections aka Banners, Billboards, etc</li><li>Site Footers</li><li>Site Sidebars</li></ul></li><li><a href="http://ui-patterns.com/patterns/modal-windows">Modals</a>/Modal Windows/Overlays (related: Lightboxes)<ul><li>Example implementation: <a href="https://fancyapps.com/fancybox/3/">Fancybox</a></li></ul></li><li><a href="http://ui-patterns.com/patterns/Carousel">Carousels</a> (related:Sliders, <a href="http://ui-patterns.com/patterns/Slideshow">Slideshows</a>)<ul><li>Example implementation: <a href="https://idangero.us/swiper/">Swiper</a></li></ul></li><li><a href="http://ui-patterns.com/patterns/ModuleTabs">Module Tabs</a></li><li>Accordions (e.g. <a href="http://ui-patterns.com/patterns/AccordionMenu">Accordion Menus</a>)</li><li><a href="http://ui-patterns.com/patterns/Breadcrumbs">Breadcrumbs</a></li><li>Drop-down Menus (e.g. <a href="http://ui-patterns.com/patterns/VerticalDropdownMenu">Vertical</a>, <a href="http://ui-patterns.com/patterns/HorizontalDropdownMenu">Horizontal</a>)</li><li>Image <a href="http://ui-patterns.com/patterns/Gallery">Galleries</a> and <a href="http://ui-patterns.com/patterns/Thumbnail">Thumbnails</a></li><li>Mobile Toggle Navs<ul><li>Example: <a href="https://codepen.io/bradfrost/full/sHvaz">Toggle Menu Codepen</a></li></ul></li><li>Etc.</li><li><em>&#8230; (there are many, many more)</em></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Design Pattern Example: Site Headers</h3>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; Site Branding, Identity, &amp; Navigation</h4>
+
+
+
+<p>There are many different ways to structure and style your site header. Since it is is at the top of the interface, the site header plays an important role in establishing the site brand, identity, and navigational system. Below are a few different options to consider when customizing your site header.</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; Information Architecture (IA)</h4>
+
+
+
+<p>When it comes to site headers, one of the first decisions that web designers need to make is what content will be included within the header. Common elements and related concerns often times include:</p>
+
+
+
+<ul><li>Site Name<ul><li>often times located in the top-left corner</li><li>clickable/linkable to the home page (e.g. href=&#8221;index.html&#8221;)</li></ul></li><li>Logo<ul><li>if there are multiple versions, which version of the logo should be included here?</li><li>Logo + Site name? Logo only?</li><li>Responsive logo? (e.g. see <a href="http://responsivelogos.co.uk/">responsive logos</a>)</li></ul></li><li>Navigation (Main Menu)<ul><li>How many sub pages should be included?</li><li>Should a link to &#8220;Home&#8221; also be included within the nav?</li><li>Should third-level pages also be included (e.g. via drop down menus)?</li><li>Any call-to-action buttons (e.g. &#8220;Sign in&#8221;)</li></ul></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; User Experience Design (UX)</h4>
+
+
+
+<p>How will the user interact with the header? How should the site header behave? Should it always be fixed at the top? or scroll away? Should it appear large at first when the user is at the top of the page, but then shrink in size as the user scrolls down? Should the header expand when the user hovers or clicks on certain parts of it (e.g. navigation items)? Where should the site identity/logo be placed? Top center? Top Left? How will users know what page they are on? Should the site header include a visual indicator to provide feedback to the user what page you are on? Will there be any changes to the user experience for small screens? extra large screens?</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; User Interface Design (UI)</h4>
+
+
+
+<p>What color should the site header be? What color should the text be? What typography works well to both communicate the brand and be usable/readable/legible? Should the site identity text be different (e.g. larger? bolder?) than the navigation text? What should the layout be? Header left-aligned and navigation right-aligned? Both centered and stacked? Should each element align to a grid? Should they align to a baseline? How should the site look on small screens? extra large screens?</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Header Visual Examples</h4>
+
+
+
+<p>Below are a few examples of site headers that visually illustrate some of the concepts and questions from above.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1027" height="442" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=1027%2C442&#038;ssl=1" alt="" class="wp-image-3662" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?w=1027&amp;ssl=1 1027w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=300%2C129&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=768%2C331&amp;ssl=1 768w" sizes="(max-width: 1027px) 100vw, 1027px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1043" height="572" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=1043%2C572&#038;ssl=1" alt="" class="wp-image-3661" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?w=1043&amp;ssl=1 1043w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1043px) 100vw, 1043px" data-recalc-dims="1" /></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/eMgPWY">Simple Header</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='eMgPWY' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/eMgPWY/">Simple Header</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/dqQPor">Simple Header: Responsive w/ Flexbox</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='dqQPor' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/dqQPor/">Simple Header: Responsive w/ Flexbox</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/RMKYOK">Simple Header w/ Inline Image Logo</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='RMKYOK' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/RMKYOK/">Simple Header w/ Inline Image Logo</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/aYJZYE">Simple Header with Inline Image Logo and Hidden HTML Text</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='aYJZYE' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/aYJZYE/">Simple Header with Inline Image Logo and Hidden HTML Text</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/BrpqRP">Simple Header w/ CSS Image Background Logo (Leahy Technique)</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='BrpqRP' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/BrpqRP/">Simple Header w/ CSS Image Background Logo (Leahy Technique)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/bPOaYV">Simple Header with CSS3 Animation</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='bPOaYV' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/bPOaYV/">Simple Header with CSS3 Animation</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Design Pattern Example: Site Hero Sections</h3>
+
+
+
+<h4 class="wp-block-heading">Site Hero Sections aka Large Image Banners</h4>
+
+
+
+<p>Website hero sections, also known as hero banners and hero images, are typically large, prominently placed images and text that are often times the first thing that a user sees and therefore an opportunity for web designers and content creators to communicate important messages to the user. Similar to advertisements, hero sections often times will contain targeted marketing material, visually powerful imagery, creative copywriting, and distinct calls to action (e.g. large buttons).</p>
+
+
+
+<blockquote class="wp-block-quote"><p>In web design, a&nbsp;<strong>hero image</strong>&nbsp;is a large&nbsp;<a href="https://en.wikipedia.org/wiki/Web_banner">web banner</a>&nbsp;image, prominently placed on a web page, generally in the front and center.&nbsp;The hero image is often the first visual element a visitor encounters on the site; it presents an overview of the site&#8217;s most important content. A hero image often consists of image and text, and can be static or dynamic (e.g. a rotating list of images and/or topics).<br>The content presented varies with the purpose of the site: it can be relevant news about the site, specific site-links, or—in the case of e-commerce—the best-selling or strategically placed products or services.</p><cite><a href="https://en.wikipedia.org/wiki/Hero_image">Wikipedia</a></cite></blockquote>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Qualities</h4>
+
+
+
+<ul><li><strong>Prominently positioned</strong> at prime real estate locations of web pages: typically at the <em>top</em> and <em>centered</em> </li><li><strong>Prominently sized</strong> often times with <em>large imagery </em>and<em> large typography</em></li><li>Often times <em>the first thing a user sees</em></li><li>Provides an opportunity to:<ul><li>highlight important content</li><li>communicate an important message</li><li>direct a users to important parts of a site</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Content Variations</h4>
+
+
+
+<p>The content for hero sections will vary from site to site, often times with a combination of the following:</p>
+
+
+
+<ul><li>Large Imagery<ul><li>Photography</li><li>Illustration </li><li>Product(s)</li><li>Large Logos, Icons, &amp; Infographics </li></ul></li><li>Large Imagery + Text<ul><li>Photography as Background Image (CSS), Text on Top (HTML)</li><li>Text + Call-to-Action (CTA) Button(s)</li></ul></li><li>Large Videos + Text<ul><li>Promotional Videos</li><li>Aesthetic Background Videos</li><li>Motion Graphics</li><li>Animated InfoGraphics</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Layout Variations</h4>
+
+
+
+<p>The layout and presentational style of hero sections will vary depending upon the content. Below are some common hero section layout variations:</p>
+
+
+
+<ul><li>Centered <em>Vertically</em> + <em>Horizontally</em></li><li>Split Layouts (dual content)<ul><li>Vertical Split: E.g. Image Left, Text Right (and vice versa)</li><li>Horizontal Split: E.g. Image Top, Text Bottom (and vice versa)</li></ul></li><li>Extra Large<ul><li>Sometimes fullscreen (100vh)</li><li>Sometimes blends with or includes the header (e.g. logo and navigation rendering on top)</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Related Disciplines &amp; Topics</h4>
+
+
+
+<p>Web designers and developers often times rely on a collaborative team to design effective hero sections. Some of the following area disciplines might play overlapping roles in determining the content, style, and tone of hero messages</p>
+
+
+
+<ul><li>Advertisers<ul><li>Art Directors</li><li>Copy Writers</li></ul></li><li>Artists<ul><li>Photographers</li><li>Illustrators</li><li>Digital Artists (e.g. specialist in creating custom digital imagery and info graphics)</li></ul></li><li>Marketers </li><li>Sales Team Members</li><li>Customer Relations Experts</li><li>UX Professionals</li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Examples</h4>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1200" height="606" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=1200%2C606&#038;ssl=1" alt="" class="wp-image-3660" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?w=1325&amp;ssl=1 1325w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=768%2C388&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.surfrider.org/">Surfrider Foundation&nbsp;</a>Hero: Toxic Algae</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="606" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=1200%2C606&#038;ssl=1" alt="" class="wp-image-3658" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?w=1325&amp;ssl=1 1325w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=768%2C388&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.surfrider.org/">Surfrider Foundation</a>&nbsp;Hero: Beach Plastic</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="604" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=1200%2C604&#038;ssl=1" alt="" class="wp-image-3659" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?w=1341&amp;ssl=1 1341w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=768%2C387&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption>Deep Blue Hero: Create an Impact</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="779" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=1200%2C779&#038;ssl=1" alt="" class="wp-image-3657" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?w=1375&amp;ssl=1 1375w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=300%2C195&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=768%2C499&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.apple.com/apple-watch-series-4/">Apple Watch</a> Hero Section: Product Image of the Apple Watch (image only, no hero text)</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="615" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=1200%2C615&#038;ssl=1" alt="" class="wp-image-3655" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?w=1279&amp;ssl=1 1279w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=300%2C154&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=768%2C394&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://us.gobag.co/">GoBag</a> Hero Section: Pack Small, Think Big + CTA</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="492" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=1200%2C492&#038;ssl=1" alt="" class="wp-image-3654" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=300%2C123&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=768%2C315&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.roverpass.com/">RoverPass</a> Hero Section: Large Imagery + Large Typography + Large Search Field</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="601" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-instapaper-animated.gif?resize=1200%2C601&#038;ssl=1" alt="" class="wp-image-3653" data-recalc-dims="1"/><figcaption><a href="https://www.instapaper.com/">Instapaper</a> Hero Section: Animated Custom Icons</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="657" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=1200%2C657&#038;ssl=1" alt="" class="wp-image-3652" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?w=1278&amp;ssl=1 1278w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://heap.io/">Heap</a> Hero Section: Custom Illustration + Large Typography + CTAs</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="566" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=1200%2C566&#038;ssl=1" alt="" class="wp-image-3648" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?w=1281&amp;ssl=1 1281w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=768%2C362&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://trello.com/">Trello</a> Hero Section: Custom Illustration + Large Typography + Large CTA</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1174" height="650" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-iolani-animated.gif?resize=1174%2C650&#038;ssl=1" alt="" class="wp-image-3649" data-recalc-dims="1"/><figcaption><a href="https://www.iolani.org/">Iolani School</a> Hero Section: Video</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="659" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=1200%2C659&#038;ssl=1" alt="" class="wp-image-3651" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?w=1285&amp;ssl=1 1285w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=768%2C422&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.airbnb.com/">Airbnb</a> Hero Section: Large Image + Form</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="658" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=1200%2C658&#038;ssl=1" alt="" class="wp-image-3650" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?w=1284&amp;ssl=1 1284w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.wix.com/">Wix</a> Hero Section: Photography + Large Typograhy + CTA + Illustration</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero-related Links &amp; Resources</h4>
+
+
+
+<ul><li><a href="https://uxplanet.org/best-practices-for-hero-images-eeb234b664d6">Best Practices for Hero Images</a> by Nick Babich</li><li><a href="https://www.smashingmagazine.com/2017/06/designing-hero-images/">When Large Isn&#8217;t Large Enough: Designing With Hero Images</a> by Nick Babich</li><li><a href="https://www.optimizely.com/optimization-glossary/hero-image/">What Is A Hero Image?</a> by Optimizely</li><li><a href="https://www.artonicweb.com/learn/hero-images/">2018 Web Design Trend: Hero Images</a> by Ashlee Sayles</li><li><a href="https://www.justinmind.com/blog/10-inspiring-hero-image-websites/">10 inspiring hero image websites</a> by Emily Grace Adiseshiah</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Design Pattern Resources &amp; Links:</h2>
+
+
+
+<ul><li>IDF&#8217;s <a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">What are Design Patterns?</a></li><li><a href="http://ui-patterns.com/">UI-Patterns.com</a></li><li><a href="http://www.welie.com/">Welie Pattern Library</a></li><li><a href="https://patterntap.com/patterntap">Pattern Tap</a></li><li>Brad Frost&#8217;s <a href="https://bradfrost.github.io/this-is-responsive/patterns.html">Responsive Patterns</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4221</post-id>	</item>
+		<item>
+		<title>Intro to Web Hosting</title>
+		<link>..//intro-to-web-hosting/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:39:32 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">..//?p=3890</guid>
+
+					<description><![CDATA[For Web Designers who can Code Where should you host your site? Web designers and web developers are faced with this question all the time. Depending upon the client website, there might be dozens of options to choose from. The best solutions are typically determined based upon the technical requirements for each website the specific &#8230;<p class="read-more"> <a class="" href="../intro-to-web-hosting/"> <span class="screen-reader-text">Intro to Web Hosting</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">For Web Designers who can Code</h2>
+
+
+
+<p>Where should you host your site? Web designers and web developers are faced with this question all the time. Depending upon the client website, there might be dozens of options to choose from. The best solutions are typically determined based upon the technical requirements for each website the specific needs for each client. For those who are new to web design and development, and specifically for UX/UI designers and frontend web developers, to help figure this out it is good to have a basic understanding of how web servers work, a foundation-level of knowledge of web technologies, and a general awareness of the history of web hosting and the companies that specialize in this area. </p>
+
+
+
+<span id="more-3890"></span>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/iugfYplZ0sU" target="_blank" rel="noreferrer noopener">Watch Video Lesson</a></div>
+</div>
+
+
+
+<h3 class="wp-block-heading">Bespoke Websites Only</h3>
+
+
+
+<p>To narrow the scope, this is specifically for aspiring web design students and frontend web developers who are comfortable with HTML, CSS, and JS and are primarily interested in creating bespoke static websites for clients (or themselves) from scratch (e.g. a personal portfolio website) and/or custom child-themed WordPress websites for clients that require a CMS (Content Management System). Therefore let&#8217;s rule out some of the popular &#8220;no coding required&#8221; website builders out there, such as <a href="https://www.squarespace.com/">SquareSpace</a>, <a href="https://www.wix.com/">Wix</a>, and <a href="https://www.weebly.com/">Weebly</a>. Along these lines, it is worth noting that <a href="https://webflow.com/">Webflow</a> is intentionally not listed here, because even though it too is based upon a WYSIWYG UI that requires no coding, it is fully customizable, powerful, and worth looking into.</p>
+
+
+
+<h4 class="wp-block-heading">Web Hosting &amp; Web Server Technologies: A Quick Overview &amp; Primer</h4>
+
+
+
+<p>At the very least, to launch a live website, you&#8217;ll need the following two things:</p>
+
+
+
+<ol><li><strong>A Domain</strong> (e.g. yournmame.com) —&nbsp;approximately $10/year, can be purchased anywhere. Free options available as sub-domains (e.g. yourusername.github.io). </li><li><strong>A Web Host</strong> (e.g. a paid &#8220;Web Hosting Plan&#8221; at a &#8220;Web Host&#8221;) — <em>FREE</em> for small static sites (e.g. GitHub Pages &amp; Netlify) or ~$5/month for a <em>shared web hosting plan</em> (e.g. at BlueHost, GoDaddy, etc.)</li></ol>
+
+
+
+<p>A <strong>domain</strong> is essentially a human-friendly name for users to be able to enter into a browser url path bar. You can purchase them anywhere (e.g. at a &#8220;Domain Registrar&#8221;) — it does not have to be purchased via your web host. Domain names are stored in a centralized database called a registry that is accreditated by ICANN (Internet Corporation for Assigned Names and Numbers), a non-profit organization responsible for managing domain names. Domains are essentially a string of easy-to-remember characters that point to a string of hard-to-remember numbers called IP (Internet Protocol) addresses.</p>
+
+
+
+<p>A <strong>web hos</strong>t is essentially a computer that is always on and always connected to the internet to &#8220;serve&#8221; your website. A <strong>web hosting plan</strong> is essentially access to a directory (folder) on a shared computer that is running web server software and technologies required to &#8220;serve&#8221; your website (e.g. a &#8220;LAMP&#8221; technology stack consists of a computer running Linux as the OS, Apache as the web server, MySql for database queries, and Php as the server-side scripting language). Web developers access the server various ways, such as via SSH (command line), FTP (File Transfer Protocol), or through an automated deployment process known as CI (Continuous Integration). Many modern websites today use git repositories to automatically trigger deployment workflows.</p>
+
+
+
+<h4 class="wp-block-heading">Web Hosts</h4>
+
+
+
+<p>Below is a short list of old-school &#8220;traditional&#8221; web hosts that have been around since the inception of the web and aren&#8217;t going away any time soon because they are the backbone of the web. As private &#8220;for profit&#8221; commercial companies, they typically offer cheap monthly plans (e.g. $5/month) with popular features that any typical web host should provide out-of-the-box, such as unlimited storage, easy (<em>&#8220;one-click&#8221;</em>) WordPress installations, and a free domain upon purchase of a hosting plan. For web designers and frontend web developers, the specific features that I recommend for your web hosting plans are: </p>
+
+
+
+<ul><li>unlimited websites</li><li>unlimited&nbsp;add-on&nbsp;domains</li><li>unlimited sub-domains</li><li>unlimited WordPress installs in sub-directories</li><li>perk: free domain for new hosting plans</li></ul>
+
+
+
+<h4 class="wp-block-heading">Popular Web Hosting Companies</h4>
+
+
+
+<ul><li><a href="https://www.digitalocean.com/">Digital Ocean</a></li><li><a href="https://www.bluehost.com/">Bluehost</a> &#8211; offers solid PLUS and PLUS CHOICE shared hosting plans for ~$5/month</li><li><a href="https://www.godaddy.com/">GoDaddy</a></li><li><a href="https://www.siteground.com/">SiteGround</a></li><li><a href="https://www.000webhost.com/">000WebHost</a> <em>(FREE)</em></li></ul>
+
+
+
+<h4 class="wp-block-heading">Static Web Hosts</h4>
+
+
+
+<ul><li><a href="https://pages.github.com/">GitHub Pages</a> <em>(FREE)</em> &#8211; the easiest way to create and launch a free static website</li><li><a href="https://www.netlify.com/">Netlify</a> <em>(FREE)</em> &#8211; a simple one-click solution that connects to your GitHub repo and offers a blazing fast CDN with super duper <a href="https://jamstack.org/">JAMStack</a> powers</li></ul>
+
+
+
+<h4 class="wp-block-heading">Managed WordPress Hosting</h4>
+
+
+
+<ul><li><a href="https://getflywheel.com/">FlyWheel</a></li><li><a href="https://wpengine.com/">WP-Engine</a></li><li><a href="https://pantheon.io/">Pantheon</a></li><li><a href="https://www.bluehost.com/">Bluehost</a></li></ul>
+
+
+
+<h4 class="wp-block-heading">Domain Name Registrars</h4>
+
+
+
+<ul><li><a href="https://www.domain.com/">Domain.com</a></li><li><a href="https://domains.google/">Google Domains</a></li><li><a href="https://www.hover.com/">Hover</a></li><li><a href="https://www.bluehost.com/domains">Bluehost Domains</a></li></ul>
+
+
+
+<h4 class="wp-block-heading">Notable Related Technologies</h4>
+
+
+
+<ul><li><a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a> &#8211; File Transfer Protocol<ul><li><a href="https://filezilla-project.org/">FileZilla</a> <em>(FREE)</em> &#8211; a simple to use GUI (Drag &amp; Drop) for updating remote websites by manually transferring files from your local personal computer</li></ul></li><li>Local Web Servers<ul><li><a href="https://www.apachefriends.org/index.html">XAMPP</a> <em>(FREE)</em> &#8211; Apache, MariaDB, PHP, &amp; Perl</li><li><a href="https://www.mamp.info/">MAMP</a> <em>(FREE)</em> &#8211; Apache, Nginx, PHP, &amp; MySQL</li><li><a href="https://localwp.com/">Local</a> by FlyWheel <em>(FREE)</em> &#8211; an easy, simple to use GUI for running and testing WordPress sites locally on your personal computer</li></ul></li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3890</post-id>	</item>
+		<item>
+		<title>Git-based Workflows using Github</title>
+		<link>..//intro-to-github/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2020 01:40:34 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2143</guid>
+
+					<description><![CDATA[A Version Control Workflow In this lesson, we will learn about&#160;Git&#160;via a hands-on exercise using&#160;Github. Git&#160;is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.–&#160;Wikipedia GitHub&#160;is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers &#8230;<p class="read-more"> <a class="" href="../intro-to-github/"> <span class="screen-reader-text">Git-based Workflows using Github</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A Version Control Workflow</h3>
+
+
+
+<p>In this lesson, we will learn about&nbsp;<a href="https://git-scm.com/">Git</a>&nbsp;via a hands-on exercise using&nbsp;<a href="https://github.com/">Github</a><a href="https://github.com/">.</a></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/UKowfE-Uxuk">Watch a Review Video Lesson</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="../lesson/github-and-netlify/">Go to a Related Set of Github Lessons</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Git</strong>&nbsp;is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.<br>–&nbsp;<a href="https://en.wikipedia.org/wiki/Git">Wikipedia</a></p></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>GitHub</strong>&nbsp;is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.<br>–&nbsp;<a href="https://en.wikipedia.org/wiki/GitHub">Wikipedia</a></p></blockquote>
+
+
+
+<p>Git is a “distributed” version control system, where you keep your code in one place and are able to manage, track, and backup your code (e.g. using GitHub, a hosting platform that uses Git). It can be complex, especially when it comes to managing large projects with large teams. In this lesson, we are going to cover the basics specifically geared toward individual web designers, front-end developers and small teams working on small projects.</p>
+
+
+
+<h4 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#outcomes"></a>Outcomes:</h4>
+
+
+
+<ul><li>Learn the basics of Git and common git commands via CLI (Command Line Interface)</li><li>Learn how to install Git locally, setup your local environment, and create a new repository from scratch.</li><li>Learn a basic daily workflow of syncing a local repository with a remote repository on GitHub, editing it locally, and updating it.</li></ul>
+
+
+
+<h4 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#lesson-resources"></a>Lesson Resources:</h4>
+
+
+
+<ul><li><a href="https://github.com/johndoenma/hello-world">Hello World</a>&nbsp;(a first repository, for learning purposes)</li></ul>
+
+
+
+<h4 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#three-parts-of-this-lesson"></a>Three Parts of this Lesson:</h4>
+
+
+
+<ol><li><strong>Installing Git</strong><br><em>Make sure that you have Git installed on your local machine</em></li><li><strong>Setting up a Repo</strong><br><em>Learn how to create repositories on Github from scratch (in the browser)</em></li><li><strong>Learning About Daily Git Workflows</strong><br><em>Understand the process of cloning, pulling, editing, commiting, and pushing using git via CLI. to remotely update an existing repository on Github</em></li></ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://i0.wp.com/imgs.xkcd.com/comics/git_2x.png?w=1200&#038;ssl=1" alt="Git Comic" data-recalc-dims="1"/><figcaption>Git comic from <a href="https://xkcd.com/1597/">xkcd</a></figcaption></figure></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Part 1</h2>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#install-git"></a>Install Git</h2>
+
+
+
+<p><em>Make sure that you have Git installed on your local machine</em></p>
+
+
+
+<p>Before you install anything, first check to see if you have it already installed. You can confirm via the following commands (to be entered via CLI, such as Terminal on a MAC or Command Prompt on a PC)</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git --version</code></pre>
+
+
+
+<ol><li>If you already have git installed, you can move on to Part #2. If you do not have git installed, follow the&nbsp;<a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">installation instructions on the Git web site</a>.&nbsp;<ul><li>Another option: you can also download&nbsp;<a href="https://desktop.github.com/">GitHub Desktop</a>, a GUI client, that will automatically install git on your computer. However, I do not recommend using GitHub Desktop to learn Git. Instead, I recommend using the command line interface (CLI), which we will do in this lesson.&nbsp;</li><li>WARNING: mac users, you might also need to install X-Code, available via the App Store for free, which comes with a built-in command-line tool. If prompted, be sure to follow these installation instructions and this should resolve potential CLI errors.</li></ul></li></ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#part-1"></a>Part 2</h2>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#get-setup-on-github"></a>Get Setup on GitHub</h2>
+
+
+
+<p><em>Create your first repository on Github from scratch</em> <em>(for 1st time users)</em></p>
+
+
+
+<ul><li>Create an account at&nbsp;<a href="https://github.com/">Github.com</a>&nbsp;and log in.<ul><li>Note your user name</li><li>Note your user email address</li></ul></li><li>Configure your git username and email address to match your github account (e.g. if you are using github).</li></ul>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com</code></pre>
+
+
+
+<p>To test/ensure that your username and email configurations are correct:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git config --global user.name
+$ git config --global user.email</code></pre>
+
+
+
+<h3 class="wp-block-heading">Create your repositories on Github.com via your browser</h3>
+
+
+
+<p>A&nbsp;<strong>repository</strong>&nbsp;is essentially a main project folder, designed to organize single projects. Each can contain multiple sub folders and files. All repositories should have a README, a default file for each repository with information about the project. GitHub makes it easy to add one whenever you create a new repository using your browser (via github.com). It also offers other common options such as adding a .gitignore file (which some beginners find challenging to create locally) along with license options. &nbsp;&nbsp;</p>
+
+
+
+<ol><li>In the upper right corner, click + and then select &#8220;New Repository&#8221;</li><li>Name your repository whatever you want (e.g. “hello-world”)</li><li>Write a short description</li><li>Select Initialize this repository with a README&nbsp;</li><li>Optional: create a .gitignore file (this can always be edited or created later)</li></ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#part-2"></a>Part 3</h2>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#daily-git-workflows"></a>Daily Git Workflows</h2>
+
+
+
+<p><em>Use git (e.g. Github) as part of your daily practice</em></p>
+
+
+
+<p>Below are several different scenarios and processes for how you might use git as part of your daily workflow and what some of the more common commands might be.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#1-daily-workflow-for-a-new-project"></a>#1 CLI Daily Workflow for a&nbsp;<strong>New</strong>&nbsp;Project</h3>
+
+
+
+<p><em>(if this is your first time working on locally, or you previously deleted your local folder and need to set it up again.)&nbsp;</em></p>
+
+
+
+<p>NOTE:&nbsp;<em>This workflow assumes that you already have a repo created on Github and you now want to clone it locally to start editing it</em>. </p>
+
+
+
+<h4 class="wp-block-heading">CLI &gt; cd (Change Directory) to where you want to work Locally</h4>
+
+
+
+<p>Via command line, navigate to your target parent directory (the folder where you will want to clone your github repo&nbsp;<em>into</em>)</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd targetparentdirectory</code></pre>
+
+
+
+<p>For example, some developers use the desktop and many found lessons will use the desktop for demo purposes. It doesn&#8217;t matter where you choose to save your project folders because this is a personal choice. Plus, you can always move them later. For demo purposes, let&#8217;s use the desktop.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd desktop</code></pre>
+
+
+
+<p>Confirm that you are in the right place by listing the directory files/folders</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ pwd   // for Mac users, pwd displays the directory path (where you currently are)
+<meta charset="utf-8">$ cd   // for PC users, cd will display the directory path (where you currently are)
+
+$ ls -l // lists the files within the current directory for Mac users
+$ dir   // lists the files within the current directory for PC users</code></pre>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Clone the Github Repo to your Local Computer</h4>
+
+
+
+<p>Once you feel confident that you are in the correct place (e.g. the desktop), the next step is to clone the repo from GitHub. Clone the directory to your repo on Github (tip: copy/paste the url path to the repo via your browser, e.g.&nbsp;<a href="https://github.com/username/reponame/">https://github.com/username/reponame/</a>)</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git clone &lt;path-to-repository&gt;</code></pre>
+
+
+
+<p>Example:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git clone https://github.com/johndoenma/hello-world</code></pre>
+
+
+
+<p>Once the repo is cloned to your local machine, you&#8217;ll need to navigate into the project folder/directory</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd projectfolder</code></pre>
+
+
+
+<p>Example:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd hello-world</code></pre>
+
+
+
+<p>Once again, you can confirm that you are in the right place by displaying your currently directory path:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ pwd // or cd for PC users</code></pre>
+
+
+
+<p>Optional/additional confirmation: at any time you can double-check the status of your repo to see if your cloned local repo is up-to-date</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git status</code></pre>
+
+
+
+<p>You are set to begin editing! (e.g. edit the README.md file, add project folders or files, run gulp, edit/code, etc).</p>
+
+
+
+<ul><li>For an initial &#8220;hello world&#8221; lesson (your first Github repo), open your IDE (editor of choice) and edit the README.md file, then save it.</li><li>After you have made a change to your README.md file, move on the Daily Workflow steps below for&nbsp;<em>when you are done for the day</em>.</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#2-daily-workflow-for-an-existing-project"></a>#2 CLI Daily Workflow for an&nbsp;<strong>Existing</strong>&nbsp;Project</h3>
+
+
+
+<p><em>(if you already have a project setup and worked on it locally before)</em></p>
+
+
+
+<p>Via command line, navigate to your a target parent directory</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ cd projectfolder</code></pre>
+
+
+
+<p>Check the status of your repo to see if your cloned local repo is up-to-date</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git status</code></pre>
+
+
+
+<p>If your local folder is up-to-date, then you are set to go! (e.g. edit files, run gulp, etc.)</p>
+
+
+
+<p>If your local folder is not up-to-date, then you need to update your local repo to match the remote repo by &#8220;pulling&#8221; the latest version.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git pull</code></pre>
+
+
+
+<p>To confirm that your pull worked, you can double-check the status of your repo to see if your cloned local repo is now up-to-date</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git status</code></pre>
+
+
+
+<p>You are set to go! (e.g. edit files, run gulp, etc.)</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#3-daily-workflow-for-when-you-are-done-for-the-day"></a>#3 CLI Daily Workflow for&nbsp;<strong>When You are Done for the Day</strong></h4>
+
+
+
+<p><em>(you should memorize these commonly used git commands)</em></p>
+
+
+
+<p>When you are done editing for the day, the following are the most commonly used git commands for solo developers.</p>
+
+
+
+<p>First off, whenever you are done for the day, you should always check the status of your repo before you commit.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git status</code></pre>
+
+
+
+<p>If your local version is ahead of master (which it should be if you are a solo developer), then these three commands will be the most important ones to memorize:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git add -A
+$ git commit -m “comment goes here”
+$ git push origin master</code></pre>
+
+
+
+<p>Warning: at one point (~ mid-2021) Github started naming the default branch &#8220;main&#8221; instead of &#8220;master&#8221; so be prepared to take note of this change if/when you create any new repos.</p>
+
+
+
+<p>If successful (e.g. no errors), you should be able to double-check by launching your browser and viewing your github.com repository to ensure that all recent updates/changes have been uploaded to github.com.</p>
+
+
+
+<h2 class="wp-block-heading">TIP: Use your Code Editor as a Git GUI. It&#8217;s Easy! I recommend VS Code.</h2>
+
+
+
+<p>FYI: Some code editors provide easy GUI-based workflows for version control, such as VS Code&#8217;s built in support for git. Therefore some developers may not use the terminal always, especially when it can be done so quickly and easily without leaving their editor. Regardless, it is important to understand core git commands so that you understand what is happening under the hood when you commit and push your code to Github using a GUI. It will also come in handy when/if you ever run into errors or conflicts.</p>
+
+
+
+<p>You can also use Github Desktop, a native GUI app for managing your Github workflows, although I would recommend using either VS Code&#8217;s built-in GUI features or VS Code&#8217;s built-in Terminal.</p>
+
+
+
+<p>Congratulations, you are now up and running using git on Github!</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading"><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#further-reading"></a>Further Reading</h3>
+
+
+
+<h4 class="wp-block-heading"><meta charset="utf-8">Related Lessons</h4>
+
+
+
+<p>The following are related lessons that were created as part of a multi-step exercise on how to set up a student site via Github:</p>
+
+
+
+<ul><li><a href="../lesson/github-and-netlify/">Intro to Github &amp; Netlify</a></li><li><a href="../lesson/setup-github-pages-3/">Get Setup on Github Pages</a></li><li><a href="../lesson/setup-local-dev-environment/">Setup a Local Dev Environment</a><a href="https://github.com/chrisgargiulo/cms-backup-summer2019/blob/master/_posts/2018-08-19-intro-to-git-using-github-2.md#git-related-reading-and-learning-resources"></a></li></ul>
+
+
+
+<h4 class="wp-block-heading">Git Related Reading and Learning Resources</h4>
+
+
+
+<ul><li><a href="https://try.github.io/levels/1/challenges/1">GitHub&#8217;s Interactive Learning Guide</a>&nbsp;(Intro to Git)</li><li><a href="https://guides.github.com/activities/hello-world/">GitHub&#8217;s Hello World Guide</a>&nbsp;(Intro using Branching)</li><li><a href="https://help.github.com/">GitHub&#8217;s Help Documentation</a></li><li><a href="https://www.youtube.com/githubguides">GitHub&#8217;s Video Learning Guides</a></li><li><a href="https://education.github.com/git-cheat-sheet-education.pdf">GitHub&#8217;s Cheat Sheet</a>&nbsp;(pdf)</li><li><a href="https://git-scm.com/docs">Git&#8217;s Docs</a>&nbsp;(Cheat Sheet)</li><li><a href="https://www.atlassian.com/git">Atlassian&#8217;s Getting Git Right</a>&nbsp;(Workflow Example)</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2143</post-id>	</item>
+		<item>
+		<title>Iterative Design</title>
+		<link>..//iterative-design/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2019 15:49:07 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2245</guid>
+
+					<description><![CDATA[A Creative Workflow for UX and UI&#160;Design Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process. Wikipedia 3 &#62; 2 &#62; 1 UI Mockup Process 2 &#62; 1 UI Mockup Process Author Notes This was written specifically to help aspiring web designers as &#8230;<p class="read-more"> <a class="" href="../iterative-design/"> <span class="screen-reader-text">Iterative Design</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A Creative Workflow for UX and UI&nbsp;Design</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.</p><cite><a href="https://en.wikipedia.org/wiki/Iterative_design">Wikipedia</a></cite></blockquote>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.youtube.com/watch?v=MD3g0aCMRAc">View a Related Video Lesson on UI Design</a></div>
+</div>
+
+
+
+<span id="more-2245"></span>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">3 &gt; 2 &gt; 1 UI Mockup Process</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="960" height="480" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=960%2C480&#038;ssl=1" alt="" class="wp-image-2248" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?w=960&amp;ssl=1 960w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">2 &gt; 1 UI Mockup Process</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="960" height="480" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=960%2C480&#038;ssl=1" alt="" class="wp-image-2250" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?w=960&amp;ssl=1 960w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure></div>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Learn workflows and creative design processes for web design.</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2245</post-id>	</item>
+		<item>
+		<title>Typography for the Web</title>
+		<link>..//web-typography/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 07 Oct 2018 19:39:42 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2059</guid>
+
+					<description><![CDATA[Strategies, Tricks, and Best Practices Similar to layout, when it comes to typography&#160;one of the most challenging differences between designing for the web vs. designing for print is the size of the canvas: for print, the dimensions are fixed and known; for the web, the dimensions are forever changing and unknown. Another, equally important difference &#8230;<p class="read-more"> <a class="" href="../web-typography/"> <span class="screen-reader-text">Typography for the Web</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Strategies, Tricks, and Best Practices</h3>
+
+
+
+<p>Similar to layout, when it comes to typography&nbsp;one of the most challenging differences between designing for the <em>web</em> vs. designing for <em>print</em> is<strong> the size of the canvas</strong>: for print, the dimensions are <em>fixed</em> and <em>known</em>; for the web, the dimensions are forever<em> changing</em> and <em>unknown. </em>Another, equally important difference is <strong>the content</strong>: for print, the content is <em>fixed</em> and <em>known</em>; for the web, the content can&nbsp;<em>change</em>&nbsp;and could be&nbsp;<em>unknown</em> to the designer<em>.&nbsp;</em>The two mediums are fundamentally different.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/RT7OmOePfpQ">Watch Video Lesson</a></div>
+</div>
+
+
+
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<span id="more-2059"></span>
+
+
+
+<p>So how do you control the typography and set good type for the web? Web designers need to think differently by shifting their mindsets to plan for the unknown when setting type on the web. Web designers can still utilize the core principles of typography (e.g. choosing appropriate type faces and pairings, no hanging punctuation, set limits for line length/measure, etc.), but designers must also be able plan for and adapt to the many different screen sizes that users might interact with their type and the many constraints of the web when it comes to controlling the type (e.g. are my columns too wide? too narrow? can I decrease the leading on small screens and increase it on big screens? how can I control the number of characters per line for each?, how will this text wrap? how can I fix my widows? )</p>
+
+
+
+<p>The good news is that there are emerging techniques and strategies that have evolved over the years to help aid web designers and front-end web developers trying to execute strong typography.&nbsp;Below is a work-in-progress collection of known best practices, tips, and techniques specifically for web typography that many web designers and front-end designers have come to embrace over the years.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Tip &amp; Tricks:</h3>
+
+
+
+<h5 class="wp-block-heading">Measure: Limit the Number of Characters Per Line</h5>
+
+
+
+<p>To limit the number of characters per line, consider adding an em-based (relative) max-width to your most commonly used text elements, such as your paragraphs and headings.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://codepen.io/kccnma/pen/WNGBXNV?editors=1100"><img decoding="async" loading="lazy" width="1200" height="577" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2021/01/codepen-p-max-width.gif?resize=1200%2C577&#038;ssl=1" alt="Use max-width to control horizontal measure" class="wp-image-4000" data-recalc-dims="1"/></a><figcaption>Use max-width to control horizontal measure</figcaption></figure>
+
+
+<p class='codepen'  data-height='283' data-theme-id='dark' data-slug-hash='WNGBXNV' data-default-tab='css,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/WNGBXNV">Horizontal Measure with Max-width (limit the number of characters per line)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.dark</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<pre class="wp-block-code"><code lang="css" class="language-css">p { max-width: 30em; }</code></pre>
+
+
+
+<div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h5 class="wp-block-heading">Widows: Fix the Known Instances</h5>
+
+
+
+<p>To fix and avoid widows, consider replacing the spaces in between the last couple of words to non-breaking spaces (&amp;nbsp;).</p>
+
+
+
+<div class="wp-block-group has-white-color has-black-background-color has-text-color has-background is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p>   </p>
+
+
+
+<p class="has-cyan-bluish-gray-color has-text-color">    &lt;p&gt;Place non-breaking spaces between the last couple&amp;nbsp;of&amp;nbsp;words.&lt;/p&gt;</p>
+
+
+
+<p>  </p>
+</div></div>
+
+
+
+<div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h5 class="wp-block-heading">Resize your Text Responsively</h5>
+
+
+
+<p>To provide an equally enjoyable reading experience on small devices and larger screens, consider resizing your typography to be smaller on small screens (since users tend to hold smaller devices closer to their face) and larger on big screens (since users tend to stand farther away from large monitors and displays).</p>
+
+
+
+<pre class="wp-block-code"><code lang="css" class="language-css">body { font-size: 87.5%; }
+
+@media (min-width: 768px) {
+  body { font-size: 100%; } 
+}
+
+@media (min-width: 1250px) {
+  body { font-size: 112.5%; } 
+}</code></pre>
+
+
+
+<div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h5 class="wp-block-heading">When Using Webfonts, Avoid Faux Bold &amp; Italic</h5>
+
+
+
+<p>When using web fonts, be sure to include all weights and styles for each typeface. For example, look closely at your bold and italics to ensure that the correct font is being used. This is important to avoid the browser rendering faux bold and faux italics.</p>
+
+
+
+<div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Exercises:</h3>
+
+
+
+<h5 class="wp-block-heading">Try using a typographic scale for your headings and paragraphs</h5>
+
+
+<p class='codepen'  data-height='265' data-theme-id='0' data-slug-hash='MqWVgB' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href=’https://codepen.io/johndoenma/pen/MqWVgB/’>Typographic Hierarchy</a> by John Doe (<a href=’https://codepen.io/johndoenma’>@johndoenma</a>) on <a href=’https://codepen.io’>CodePen/</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<h5 class="wp-block-heading">Try to design a bespoke type specimen by starting with nothing but unstyled HTML Markup</h5>
+
+
+<p class='codepen'  data-height='265' data-theme-id='0' data-slug-hash='xYJwQx' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/xYJwQx/">Typography Specimen Test – Incomplete</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p>Note how the browser ignores line breaks.</p>
+
+
+
+<p> </p>
+
+
+
+<h5 class="wp-block-heading">Here&#8217;s an example of a bespoke type specimen</h5>
+
+
+<p class='codepen'  data-height='265' data-theme-id='0' data-slug-hash='WMYdEZ' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/WMYdEZ/">Typography Specimen Test – Example #1</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p>Note the use of Google Fonts.</p>
+
+
+
+<h5 class="wp-block-heading">Experiment with different font pairings by doing a coded type studies</h5>
+
+
+<p class='codepen'  data-height='362' data-theme-id='0' data-slug-hash='eVKLmO' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href=’https://codepen.io/kccnma/pen/eVKLmO/’>Type Pairing Test</a> by kccnma (<a href=’https://codepen.io/kccnma’>@kccnma</a>) on <a href=’https://codepen.io’>CodePen/</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+<p class='codepen'  data-height='381' data-theme-id='0' data-slug-hash='NLYMpV' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href=’https://codepen.io/kccnma/pen/NLYMpV/’>Type Study: Google Font Pairings</a> by kccnma (<a href=’https://codepen.io/kccnma’>@kccnma</a>) on <a href=’https://codepen.io’>CodePen/</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+<p class='codepen'  data-height='474' data-theme-id='0' data-slug-hash='MQXqRe' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href=’https://codepen.io/kccnma/pen/MQXqRe/’>Type Set Test</a> by kccnma (<a href=’https://codepen.io/kccnma’>@kccnma</a>) on <a href=’https://codepen.io’>CodePen/</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Online CDN&#8217;s &amp;Sources for Webfonts: <ul><li><a href="https://fonts.google.com/">Google Fonts</a></li><li><a href="https://typekit.com/">Adobe Fonts</a> </li></ul></li><li>Resources: <ul><li><a href="http://webtypography.net/">The Elements of Typographic Style Applied to the Web</a> by Richard Rutter</li><li><a href="https://betterwebtype.com/">Better Web Type</a> by <a href="https://matejlatin.co.uk/">Matej Latin</a></li><li><a href="https://www.typewolf.com/">Typewolf</a> by <a href="https://www.jeremiahshoaf.com/">Jeremiah Shoaf</a> </li></ul></li><li>Articles &amp; Blog Posts <ul><li><a href="https://www.creativebloq.com/how-to/the-rules-of-responsive-web-typography">The rules of responsive web typography</a> By <a href="https://zellwk.com/">Zell Liew</a></li><li><a href="https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d">10 Tips On Typography in Web Design</a> by Nick Babich </li></ul></li></ul>
+
+
+
+<ul><li>Links to all Codepen examples and other web typography-related links referenced in the video lesson:<ul><li><a href="https://codepen.io/kccnma/pen/oNvbyZg?editors=1100">Typographic Hierarchy</a></li></ul><ul><li><a href="https://codepen.io/kccnma/pen/RwrdWaO">Typographic Scale with line height based on ex units and max width based on ch units</a></li><li><a href="https://codepen.io/kccnma/pen/yqpGs">Baseline Test</a></li><li><a href="http://chrisgargiulo.github.io/base/">Base</a></li><li><a href="https://codepen.io/kccnma/pen/pMrejm">Typography Specimen Test &#8211; Example #2 (Scalable Heading Sizes and Body Line-height)</a></li><li><a href="https://codepen.io/kccnma/pen/BYVEjP">Article Type Test &#8211; Complete</a></li><li><a href="https://codepen.io/kccnma/pen/xCLJc">Drop Caps</a></li><li><a href="https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp">CSS @font-face Rule</a></li><li><a href="https://codepen.io/kccnma/pen/eVKLmO">Type Pairing Test</a></li><li><a href="https://codepen.io/kccnma/pen/MQXqRe">Type Set Test</a></li><li><a href="https://codepen.io/kccnma/pen/NLYMpV">Type Study: Google Font Pairings</a></li><li><a href="https://codepen.io/kccnma/pen/OJWyyBo">NMA Adobe Fonts</a></li><li><a href="https://codepen.io/kccnma/pen/VwvaeOW">Tight Typography Tracking with Overlap Test (Fail)</a></li><li><a href="https://codepen.io/kccnma/pen/gObPBxb">Variable Fonts are Awesome (forked from CSS is Awesome)</a></li><li><a href="https://codepen.io/kccnma/pen/NEvReg">Variable Font Test</a></li><li><a href="https://codepen.io/kccnma/pen/LYYayqE">Text Effect: Animated Text Reveal via Pseudo Element Masks</a></li><li><a href="https://codepen.io/kccnma/pen/XWWGRXY">Text Effect: Custom Underlined Text (via svg brush stroke)</a></li><li><a href="https://codepen.io/kccnma/pen/qBBvRxq">Text Effect: Split Text Revealing/Animating In From a Psuedo Mask</a></li><li><a href="https://codepen.io/kccnma/pen/VwwRWGz">Text Effect: Letters Popping Out with Drop Shadow (looping)</a></li><li><a href="https://codepen.io/kccnma/pen/vYYPZpJ">Text Effect: Animated Text Stripes using background clip and an animated gradient</a></li><li><a href="https://codepen.io/kccnma/pen/VwwRWbp">Text Effect: CSS Gooey Text Morphing Animation</a></li><li><a href="https://codepen.io/kccnma/pen/BaabZNJ">Text Effect: Animated Text-Shadow Colors</a></li><li><a href="https://codepen.io/kccnma/pen/dyyrveg">Text Effect: Animated Text-Shadow with Line Pattern [webkit]</a></li><li><a href="https://codepen.io/kccnma/pen/abbMJmy">Text Effect: SVG Text with Animated Stroke (Dashes) #1</a></li><li><a href="https://codepen.io/kccnma/pen/GRReWRX">Text Effect: SVG Text with Animated Stroke (Dashes) #2</a></li><li><a href="https://codepen.io/kccnma/pen/LYYaxaL">Text Effect: Retro Text-Shadow Animated</a></li><li><a href="https://codepen.io/kccnma/pen/MWaxKep?editors=1100">Scaling Text at Different Sizes Test with fontsize min max and font size clamp</a></li><li><a href="https://codepen.io/kccnma/pen/LqOLPa">Vanilla JS Widow Fixer for all Blocks of Text (aka Widow Slayer)</a></li><li><a href="https://codepen.io/kccnma/pen/vWJyqN">Image-text replacement techniques</a></li></ul></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h4 class="wp-block-heading">Author Notes</h4>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Apply best practices of typography in the context of web sites and user interfaces.</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2059</post-id>	</item>
+		<item>
+		<title>Web Layout Techniques &#038; Strategies</title>
+		<link>..//layout/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 06 Oct 2018 00:01:26 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2039</guid>
+
+					<description><![CDATA[A brief overview of the challenges that web designers and front-end web developers face when laying out content, including designing for multiple screen sizes and choosing between different CSS positioning and display techniques. When it comes to layout, the primary difference between designing for the web vs. designing for print is the size of the &#8230;<p class="read-more"> <a class="" href="../layout/"> <span class="screen-reader-text">Web Layout Techniques &#038; Strategies</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A brief overview of the challenges that web designers and front-end web developers face when laying out content, including designing for multiple screen sizes and choosing between different CSS positioning and display techniques.</h3>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/4OnCV4Hz_-w">View Video Lesson</a></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>When it comes to layout, the primary difference between designing for the <em>web</em> vs. designing for <em>print</em> is<strong> the size of the canvas</strong>: for print, the dimensions are <em>fixed</em> and <em>known</em>; for the web, the dimensions are forever<em> changing</em> and <em>unknown. </em>Another, equally important difference is <strong>the content</strong>: for print, the content is <em>fixed</em> and <em>known</em>; for the web, the content can&nbsp;<em>change</em>&nbsp;and could be&nbsp;<em>unknown</em> to the designer<em>. </em>The two mediums are fundamentally different.</p>
+
+
+
+<p>So how do you design a layout for so many unknowns? Web designers need to think differently by shifting their mindsets to plan for the unknown when designing web-based layouts. Web designers can still utilize the core principles of print-based layout (e.g. grid systems, strong typography, etc.), but must also be able plan for and adapt to the many different scenarios that users might interact with their designs (e.g. how will this layout render on a large monitor vs. a small mobile phone, what should the content order/hierarchy be?) and the many constraints of the web (e.g. how will this text wrap? how can I fix my widows? how can I control the number of characters per line?)</p>
+
+
+
+<p>The good news is that there are emerging techniques and strategies that have evolved over the years to help aid web designers and front-end web developers. There are several different content strategies and methodologies (e.g. a &#8220;mobile first&#8221; content strategy) that can help to prioritize content, different front-end approaches (e.g. a &#8220;mobile first&#8221; responsive design system using media queries set at breakpoints) that can help to address the many different screen sizes, and emerging tools and technologies (e.g. flexbox and CSS grid) that can help to enable and empower designers to create more interesting and robust layouts for the web with less concerns and worries for the many limitations and constraints inherent to the medium of the web.</p>
+
+
+
+<p>Below is a collection of known strategies, best practices, and techniques for layout that many web designers and front-end designers have come to embrace over the years.</p>
+
+
+
+<ul><li><strong>Responsive Design</strong> (designing for different preset screen sizes that to CSS media queries) <ul><li>Predefined breakpoints (e.g. mobile, tablet, and desktop)</li><li>Reusable containers or &#8220;wrappers&#8221; (designed to provide control over the overall layout at target breakpoints)</li><li>Responsive typography (scaling type for different screen sizes to increase legibility and readability) </li></ul></li><li><strong>Reusable Grid Systems</strong> (defining a global grid system with reusable, semantic classnames for an easy content markup workflow) <ul><li>Examples include: a 12-column grid, 16-column gird, custom grids, one-half/one-third/one-fourth columns, etc </li></ul></li><li><strong>Flexbox and CSS Grid</strong> (two powerful CSS layout modules that can be used in many different ways to provide more layout control; the days of float-based layouts and clearfixes are over and we can finally align items vertically with ease.) <ul><li>Example: center align anything with display: flex; align-content: center; justify-content: center;</li><li>Example: header with logo left and nav right with&nbsp;&nbsp;display: flex;&nbsp;justify-content: space-between; </li></ul></li></ul>
+
+
+
+<h3 class="wp-block-heading">Code Samples:</h3>
+
+
+
+<p><strong>Box-sizing: border-box;</strong> (a relatively simple css property setting that has relieved many headaches thanks to no longer having to include padding and border as part of an element&#8217;s rendered width)</p>
+
+
+
+<p>Box-sizing: border-box;</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92310668" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-boxsizing-borderbox-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="boxsizing-borderbox.css">
+        <tr>
+          <td id="file-boxsizing-borderbox-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-boxsizing-borderbox-css-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent><span class=pl-c1>*</span></span> { </td>
+        </tr>
+        <tr>
+          <td id="file-boxsizing-borderbox-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-boxsizing-borderbox-css-LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>box-sizing</span><span class=pl-kos>:</span> border-box; </td>
+        </tr>
+        <tr>
+          <td id="file-boxsizing-borderbox-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-boxsizing-borderbox-css-LC3" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/77d7132cae4fe9a0c54075ec21014b65/raw/54b27014978ad9d0f4b91e79dfec29b7c8aefa8b/boxsizing-borderbox.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/77d7132cae4fe9a0c54075ec21014b65#file-boxsizing-borderbox-css">
+          boxsizing-borderbox.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of a simple, responsive reusable container</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92310709" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-responsive-container-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="responsive-container.css">
+        <tr>
+          <td id="file-responsive-container-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-responsive-container-css-LC1" class="blob-code blob-code-inner js-file-line">.<span class=pl-c1>container</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-container-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-responsive-container-css-LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>max-width</span><span class=pl-kos>:</span> <span class=pl-c1>1200<span class=pl-smi>px</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-container-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-responsive-container-css-LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>margin</span><span class=pl-kos>:</span> <span class=pl-c1>0</span> auto;</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-container-css-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-responsive-container-css-LC4" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/6d2169ee66fe188dc5da1ee342317b79/raw/eb40100aadafc945292a3edd470d312d76815ce6/responsive-container.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/6d2169ee66fe188dc5da1ee342317b79#file-responsive-container-css">
+          responsive-container.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of mobile-first media queries with 2 breakpoints to target 3 screen sizes (small/mobile, medium/table, large/desktop+)</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92310743" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-mobile-first-media-queries-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="mobile-first-media-queries.css">
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-mobile-first-media-queries-css-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* SMALL */</span></td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-mobile-first-media-queries-css-LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-mobile-first-media-queries-css-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* MEDIUM */</span></td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-mobile-first-media-queries-css-LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>@media</span> (<span class=pl-c1>min-width</span><span class=pl-kos>:</span> <span class=pl-c1>768<span class=pl-smi>px</span></span>) {</td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-mobile-first-media-queries-css-LC5" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-mobile-first-media-queries-css-LC6" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-mobile-first-media-queries-css-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* LARGE */</span></td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-mobile-first-media-queries-css-LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-k>@media</span> (<span class=pl-c1>min-width</span><span class=pl-kos>:</span> <span class=pl-c1>1050<span class=pl-smi>px</span></span>) {</td>
+        </tr>
+        <tr>
+          <td id="file-mobile-first-media-queries-css-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-mobile-first-media-queries-css-LC9" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/2bfe16c01e98015fbb72d2419b46c53e/raw/cbe25f7e7c18fe3e40cfc4a36e6b0bbd2c9577ef/mobile-first-media-queries.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/2bfe16c01e98015fbb72d2419b46c53e#file-mobile-first-media-queries-css">
+          mobile-first-media-queries.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of a responsive typography setup (body font of 14px for small screens scaling to 18px for extra large screens)</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92310789" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-responsive-typography-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="responsive-typography.css">
+        <tr>
+          <td id="file-responsive-typography-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-responsive-typography-css-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>body</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-responsive-typography-css-LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>87.5<span class=pl-smi>%</span></span>; <span class=pl-c>/* 14px default for small screens */</span> </td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-responsive-typography-css-LC3" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-responsive-typography-css-LC4" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-responsive-typography-css-LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>@media</span> (<span class=pl-c1>min-width</span><span class=pl-kos>:</span> <span class=pl-c1>768<span class=pl-smi>px</span></span>) {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-responsive-typography-css-LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-ent>body</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-responsive-typography-css-LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>100<span class=pl-smi>%</span></span>;  <span class=pl-c>/* 16px for medium-large screens */</span></td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-responsive-typography-css-LC8" class="blob-code blob-code-inner js-file-line">  }</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-responsive-typography-css-LC9" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-responsive-typography-css-LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-responsive-typography-css-LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>@media</span> (<span class=pl-c1>min-width</span><span class=pl-kos>:</span> <span class=pl-c1>1250<span class=pl-smi>px</span></span>) {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-responsive-typography-css-LC12" class="blob-code blob-code-inner js-file-line">  <span class=pl-ent>body</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-responsive-typography-css-LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>112.5<span class=pl-smi>%</span></span>; <span class=pl-c>/* 18px for extra large screens only */</span> </td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-responsive-typography-css-LC14" class="blob-code blob-code-inner js-file-line">  }</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-typography-css-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-responsive-typography-css-LC15" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/e32d852b0ff8c4533916ecdf871bb77b/raw/66b870d99ec3ed2ab9c51e6a87e0f53cea662f23/responsive-typography.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/e32d852b0ff8c4533916ecdf871bb77b#file-responsive-typography-css">
+          responsive-typography.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of CSS for responsive images</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92321013" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-responsive-images-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="responsive-images.css">
+        <tr>
+          <td id="file-responsive-images-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-responsive-images-css-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>img</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-images-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-responsive-images-css-LC2" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>max-width</span><span class=pl-kos>:</span> <span class=pl-c1>100<span class=pl-smi>%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-images-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-responsive-images-css-LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-c1>height</span><span class=pl-kos>:</span> auto;</td>
+        </tr>
+        <tr>
+          <td id="file-responsive-images-css-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-responsive-images-css-LC4" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/68a6ae469f73b02ffa535c2edda701fe/raw/e497994b812c40ce527c7837dd38ccf2f0cd3106/responsive-images.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/68a6ae469f73b02ffa535c2edda701fe#file-responsive-images-css">
+          responsive-images.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of HTML markup with semantic classnames for a global,&nbsp;reusable grid system</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92311124" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-semantic-grid-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="semantic-grid.html">
+        <tr>
+          <td id="file-semantic-grid-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-semantic-grid-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>row</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-semantic-grid-html-LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-semantic-grid-html-LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-semantic-grid-html-LC4" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>1 Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-semantic-grid-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-semantic-grid-html-LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-semantic-grid-html-LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-semantic-grid-html-LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>row</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-semantic-grid-html-LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one-half column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-semantic-grid-html-LC10" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>&amp;frac12; Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-semantic-grid-html-LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-semantic-grid-html-LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one-half column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-semantic-grid-html-LC13" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>&amp;frac12; Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-semantic-grid-html-LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-semantic-grid-html-LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-semantic-grid-html-LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-semantic-grid-html-LC17" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>row</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-semantic-grid-html-LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one-third column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-semantic-grid-html-LC19" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>&amp;frac13; Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-semantic-grid-html-LC20" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-semantic-grid-html-LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one-third column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-semantic-grid-html-LC22" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>&amp;frac13; Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-semantic-grid-html-LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-semantic-grid-html-LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>one-third column</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-semantic-grid-html-LC25" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>&amp;frac13; Column<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-semantic-grid-html-LC26" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-semantic-grid-html-LC27" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-html-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-semantic-grid-html-LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/3b15d28234d9c2df4a67141a86f28b5e/raw/0056c017b2fd66cbd1900844523102a4ee94a14d/semantic-grid.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/3b15d28234d9c2df4a67141a86f28b5e#file-semantic-grid-html">
+          semantic-grid.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Example of Flexbox CSS (SCSS) used for a global, reusable, semantic grid system</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist92311148" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-semantic-grid-scss" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-scss  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="SCSS" data-tagsearch-path="semantic-grid.scss">
+        <tr>
+          <td id="file-semantic-grid-scss-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-semantic-grid-scss-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.row</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-semantic-grid-scss-LC2" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">flex</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-semantic-grid-scss-LC3" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">flex-wrap</span></span>: <span class="pl-c1">wrap</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-semantic-grid-scss-LC4" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">justify-content</span></span>: <span class="pl-c1">space-between</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-semantic-grid-scss-LC5" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">align-items</span></span>: <span class="pl-c1">center</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-semantic-grid-scss-LC6" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-semantic-grid-scss-LC7" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-semantic-grid-scss-LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.row</span> &gt; <span class="pl-e">.column</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-semantic-grid-scss-LC9" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">flex-grow</span></span>: <span class="pl-c1">0</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-semantic-grid-scss-LC10" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">flex-shrink</span></span>: <span class="pl-c1">0</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-semantic-grid-scss-LC11" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-semantic-grid-scss-LC12" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">margin</span></span>: <span class="pl-c1">1<span class="pl-k">%</span></span> <span class="pl-c1">0</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-semantic-grid-scss-LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">1<span class="pl-k">em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-semantic-grid-scss-LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">@media</span> (<span class="pl-c1"><span class="pl-c1">min-width</span></span>: <span class="pl-c1">550<span class="pl-k">px</span></span>) {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-semantic-grid-scss-LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&amp;</span><span class="pl-e">.one-half</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-semantic-grid-scss-LC16" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">49<span class="pl-k">%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-semantic-grid-scss-LC17" class="blob-code blob-code-inner js-file-line">    }</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-semantic-grid-scss-LC18" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&amp;</span><span class="pl-e">.one-third</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-semantic-grid-scss-LC19" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">32.3333<span class="pl-k">%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-semantic-grid-scss-LC20" class="blob-code blob-code-inner js-file-line">    }</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-semantic-grid-scss-LC21" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&amp;</span><span class="pl-e">.two-thirds</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-semantic-grid-scss-LC22" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">65.6666<span class="pl-k">%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-semantic-grid-scss-LC23" class="blob-code blob-code-inner js-file-line">    }</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-semantic-grid-scss-LC24" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">&amp;</span><span class="pl-e">.one-fourth</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-semantic-grid-scss-LC25" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">24<span class="pl-k">%</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-semantic-grid-scss-LC26" class="blob-code blob-code-inner js-file-line">    }</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-semantic-grid-scss-LC27" class="blob-code blob-code-inner js-file-line">  }</td>
+        </tr>
+        <tr>
+          <td id="file-semantic-grid-scss-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-semantic-grid-scss-LC28" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/2cb16ce8fed1246174eba8cdd8d32e44/raw/f7c379a817599258b7249e293f09401030976b46/semantic-grid.scss" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/2cb16ce8fed1246174eba8cdd8d32e44#file-semantic-grid-scss">
+          semantic-grid.scss
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h3 class="wp-block-heading">Exercises:</h3>
+
+
+
+<p>Try using flexbox for vertical (and horizontal) centering</p>
+
+
+<p class='codepen'  data-height='265' data-theme-id='0' data-slug-hash='VEKKvL' data-default-tab='css,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/VEKKvL/">Flexbox: Centered Block (simplified)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p>Try using flexbox to setup a global, semantic grid system designed for responsive web layouts</p>
+
+
+<p class='codepen'  data-height='681' data-theme-id='0' data-slug-hash='NORrOp' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/NORrOp/">Reusable Semantic Grid System for Page Layout: Using Flexbox</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Blog Posts/Articles: <ul><li>CSS-Tricks Guides: <ul><li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">A Complete Guide to Flexbox</a>&nbsp;by&nbsp;<a href="https://chriscoyier.net/">Chris Coyier</a></li><li><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">A Complete Guide to CSS Grid</a>&nbsp;by&nbsp;<a href="http://chris.house/">Chris House</a> </li></ul></li><li>Rachel Andrew&#8217;s 4-part Flexbox Articles on Smashing Magazine: <ul><li><a href="https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/">What Happens When You Create A Flexbox Flex Container?</a>&nbsp;by&nbsp;<a href="https://rachelandrew.co.uk/">Rachel Andrew</a></li><li><a href="https://www.smashingmagazine.com/2018/08/flexbox-alignment/">Everything You Need To Know About Alignment In Flexbox</a>&nbsp;by&nbsp;<a href="https://rachelandrew.co.uk/">Rachel Andrew</a></li><li><a href="https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/">How Big Is That Flexible Box?</a>&nbsp;by&nbsp;<a href="https://rachelandrew.co.uk/">Rachel Andrew</a></li><li><a href="https://www.smashingmagazine.com/2018/10/flexbox-use-cases/">Use Cases for Flexbox</a>&nbsp;by&nbsp;<a href="https://rachelandrew.co.uk/">Rachel Andrew</a> </li></ul></li><li><a href="https://rachelandrew.co.uk/">Rachel Andrew</a>&#8216;s presentation&nbsp;<a href="https://noti.st/rachelandrew/QEhSSc/your-css-layout-toolkit-for-2019?ref=webdesignernews.com">Your CSS Layout Toolkit for 2019</a></li><li><a href="http://jensimmons.com/">Jen Simmon</a>&#8216;s presentation&nbsp;<a href="http://jensimmons.com/presentation/designing-grid">Designing with Grid</a></li><li><a href="http://jensimmons.com/">Jen Simmon</a>&#8216;s post&nbsp;<a href="http://jensimmons.com/post/feb-28-2017/benefits-learning-how-code-layouts-css">The benefits of learning how to code layouts with CSS</a></li><li><a href="http://jensimmons.com/">Jen Simmon</a>&#8216;s post <a href="http://jensimmons.com/post/sep-27-2016/six-layout-myths-busted">Six Layout Myths Busted</a></li><li><a href="https://markboulton.co.uk/">Mark Boulton</a>&#8216;s post <a href="https://markboulton.co.uk/journal/five-simple-steps-to-designing-grid-systems-part-1">Five simple steps to designing grid systems </a> </li></ul></li><li>Videos: <ul><li><a href="https://www.youtube.com/layoutland">Layout Land</a>&nbsp;by&nbsp;<a href="http://jensimmons.com/">Jen Simmons</a> </li></ul></li><li>CSS Grid-Specific: <ul><li><a href="https://learncssgrid.com/">Learn CSS Grid</a>&nbsp;by&nbsp;<a href="https://jonsuh.com/">Jon Suh</a></li><li><a href="https://gridbyexample.com/">Grid by Example</a>&nbsp;by&nbsp;<a href="https://rachelandrew.co.uk/">Rachel Andrew</a> </li></ul></li><li>Flexbox-Specific: <ul><li><a href="https://codepen.io/osublake/full/dMLQJr">Animated Flexbox</a>&nbsp;Codepen by&nbsp;<a href="https://codepen.io/osublake/">Blake Bowen</a> </li></ul></li><li>Fun <ul><li><a href="https://flexboxfroggy.com/">Flexbox Froggy</a></li><li><a href="http://cssgridgarden.com/">Grid Garden</a> </li></ul></li><li>Tools:<ul><li>Chris Pederick&#8217;s <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer Toolbar</a></li></ul></li></ul>
+
+
+
+<h3 class="wp-block-heading">Go Further</h3>
+
+
+
+<ul><li>Experiment with Flexbox and CSS Grid to create as many different layouts as you can (see below for specific examples to try)</li><li>If you need to add support for older browsers, try creating a more robust layout that uses CSS Grid with a Flexbox fallback <ul><li>Example: <a href="https://codepen.io/kccnma/pen/bjPvqZ?editors=1100">A CSS Grid w/ a Flexbox Fallback</a> </li></ul></li><li>Create your own front-end layout system with all of the bells and whistles <ul><li>Fully Responsive <ul><li>Media Queries with defined target breakpoints</li><li>Responsive typography (small font size for small screens, larger type on bug screens)</li><li>A reusable container that scales from fluid (small screens) to fixed with (on large screens)</li><li>Support for responsive media (e.g. max-width: auto for images) </li></ul></li><li>A Reusable Grids <ul><li>A 12 Column Grid</li><li><a href="https://codepen.io/kccnma/pen/NORrOp?editors=1100">A Semantic Grid</a> (w/ one half, one third, one fourth columns, etc)</li><li><a href="https://codepen.io/kccnma/pen/vzQNga">A Flexible Grid</a> (w/ no preset column classes)  </li></ul></li></ul></li><li>Recreate classic, well known and commonly used layouts <ul><li>Site layouts (structural layouts) <ul><li>Header at the top, auto-filled main content area in the middle, footer at the bottom (scrollable)</li><li>Fixed header at the top, scrollable main content area, fixed footer at the bottom </li></ul></li><li>Header and navigation layouts <ul><li><a href="https://codepen.io/kccnma/pen/dqQPor?editors=1100">Header with logo left, nav right</a></li><li>Header with centered logo and centered nav underneath</li><li>Header with left-side drawer nav</li><li>Header with right-side drawer nav </li></ul></li><li>Content layouts: <ul><li>Long-scrolling vertical page with stacked sections</li><li>Alternating content sections (image left, text right &gt; text left, image right &gt; centered image, centered text &gt; etc&#8230;)<ul><li><a href="https://codepen.io/kccnma/pen/rNjmWpP?editors=1100">Reusable Grid System Flexbox Version</a> (with .row parents and .column children)<ul><li><a href="https://codepen.io/kccnma/pen/yLgbVxQ?editors=1100">A Variation of the Reusable Grid System Version</a> (w/ added reusable utility-like classes and overlapping red content boxes)</li></ul></li><li><a href="https://codepen.io/kccnma/pen/LYxybYo?editors=1100">Bespoke Flexbox Version</a> (with a custom .item parent and two .image and .content children)<ul><li><a href="https://codepen.io/kccnma/pen/xxgdREe?editors=1100">A Variation of the Bespoke Flexbox Version</a> (with overlapping red content boxes)</li></ul></li><li><a href="https://codepen.io/kccnma/pen/PoWmbYN?editors=1100">Bespoke CSS Grid Version</a> (with a custom .item parent and two .image and .content children)</li><li>Old: <a href="https://codepen.io/kccnma/pen/pxjrPJ">Bespoke CSS Grid w/ Flexbox Fallback Version</a> (with a custom .item parent and two .image and .content children)</li></ul></li><li><a href="https://codepen.io/kccnma/pen/VEvajO?editors=1100">Media/Post object list</a> (stacked posts with featured images left, text right)</li><li><a href="https://codepen.io/kccnma/pen/ReWrge?editors=1100">Grid of Wrapping Items</a> (e.g. for a portfolio grid or grid view of products)</li><li>Left sidebar, main content right</li><li>Right sidebar, main content left</li><li>Two sidebars (left and right), main content centered</li><li>Fixed sidebar, scrollable main content  </li></ul></li></ul></li><li>Bespoke, custom layouts <ul><li>Be inspired, take risks, and have fun pushing the boundaries of layout on the web! </li></ul></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h4 class="wp-block-heading">Author Notes</h4>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Apply best practices composition and typography in the context of layout for web sites and user interfaces.</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2039</post-id>	</item>
+		<item>
+		<title>Inspiration</title>
+		<link>..//inspiration/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2018 22:36:26 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1972</guid>
+
+					<description><![CDATA[Be Inspired by Great Design and Designers Inspiration related resources Chris&#8217;s Go-to Inspiration Sites: Awwwards One Page Love Land-book Art of the Menu Pinterest Boards with Inspiration Examples Chris&#8217;s Inspiration Examples Illustration credit:&#160;Katerina Limpitsouni via Undraw]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Be Inspired by Great Design and Designers</h2>
+
+
+
+<h3 class="wp-block-heading">Inspiration related resources</h3>
+
+
+<ul class="display-posts-thumblisting"><li class="listing-item"><a class="image" href="../interface-in-game/"><img width="150" height="150" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/interfaceingame-4x2-featured.gif?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Interface In Game" decoding="async" /></a> <a class="title" href="../interface-in-game/">Interface In Game</a></li><li class="listing-item"><a class="image" href="../video-case-studies/"><img width="150" height="150" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/videocasestudies-4x2-iconplaceholder.gif?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Video Case Studies" decoding="async" /></a> <a class="title" href="../video-case-studies/">Video Case Studies</a></li><li class="listing-item"><a class="image" href="../one-page-love/"><img width="150" height="150" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2017/12/onepagelove-4x2.gif?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" /></a> <a class="title" href="../one-page-love/">One Page Love</a></li><li class="listing-item"><a class="image" href="../awwwards/"><img width="150" height="150" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2017/12/awwwards-4x2.gif?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" /></a> <a class="title" href="../awwwards/">Awwwards</a></li><li class="listing-item"><a class="image" href="../art-of-the-menu/"><img width="150" height="150" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2017/11/artofthemenu-4x2-featured.gif?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Art of the Menu" decoding="async" /></a> <a class="title" href="../art-of-the-menu/">Art of the Menu</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Chris&#8217;s Go-to Inspiration Sites:</h3>
+
+
+
+<ul><li><a href="https://www.awwwards.com/">Awwwards</a></li><li><a href="https://onepagelove.com/">One Page Love</a></li><li><a href="https://land-book.com/">Land-book</a></li><li><a href="https://www.underconsideration.com/artofthemenu/">Art of the Menu</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Pinterest Boards with Inspiration Examples</h3>
+
+
+
+<ul><li><a href="https://www.pinterest.com/chrisgargiulo/inspiration-examples/">Chris&#8217;s Inspiration Examples</a></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Illustration credit:&nbsp;<a href="https://twitter.com/ninalimpi">Katerina Limpitsouni</a> via <a href="https://undraw.co/">Undraw</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1972</post-id>	</item>
+		<item>
+		<title>Design Systems</title>
+		<link>..//design-systems/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 28 Aug 2018 00:54:48 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2016</guid>
+
+					<description><![CDATA[The foundation upon which branding guidelines, visual styles, pattern libraries, and code libraries can be defined and maintained. Design systems are helpful for designers, developers, and content creators to ensure a visual consistency across multiple products from a single brand. They can be small or large and include different types of client deliverables, such as &#8230;<p class="read-more"> <a class="" href="../design-systems/"> <span class="screen-reader-text">Design Systems</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">The foundation upon which branding guidelines, visual styles, pattern libraries, and code libraries can be defined and maintained.</h3>
+
+
+
+<p>Design systems are helpful for designers, developers, and content creators to ensure a visual consistency across multiple products from a single brand. They can be small or large and include different types of client deliverables, such as style guides and pattern libraries. Some common elements that might be included within a design system:</p>
+
+
+
+<ul><li>Logos (e.g. different versions/formats/layouts/etc)</li><li>Typography</li><li>Colors</li><li>Visual Imagery (e.g. photography, illustration)</li><li>UI Design Patterns (e.g. buttons, form elements, icons, symbols, etc.)</li><li>and much more&#8230;</li></ul>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="300" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/08/designsystem-example.gif?resize=1200%2C300&#038;ssl=1" alt="" class="wp-image-2020" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>A screenshot from a sample design system created using Adobe XD</em></p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Blog Posts/Aricles: <ul><li><a href="https://www.nngroup.com/articles/design-systems-101/">Design Systems 101 by NN/g</a></li><li><a href="https://www.invisionapp.com/blog/guide-to-design-systems/">A Comprehensive Guide to Design Systems by Will Fanguy</a></li><li><a href="https://www.designbetter.co/design-systems-handbook">Design Systems Handbook</a></li><li><a href="https://uxdesign.cc/everything-you-need-to-know-about-design-systems-54b109851969">Everything you need to know about Design Systems by Audrey Hacq</a></li><li><a href="https://medium.muz.li/what-is-a-design-system-1e43d19e7696">What is a Design System? by Sylvee L.</a></li><li><a href="https://www.smashingmagazine.com/2016/07/building-maintaining-atomic-design-systems-pattern-lab/">How To Make And Maintain Atomic Design Systems With Pattern Lab 2 by Brad Frost</a></li><li><a href="http://atomicdesign.bradfrost.com/chapter-1/">Designing Systems: Create design systems, not pages (Chapter 1 from Brad Frost&#8217;s Atomic Design Book)</a></li><li><a href="https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/">Design Systems vs. Pattern Libraries vs. Style Guides – What’s the Difference? by Zack Rutherford</a> </li></ul></li><li>Books: <ul><li><a href="http://atomicdesign.bradfrost.com/">Atomic Design by Brad Frost</a></li><li><a href="https://www.smashingmagazine.com/printed-books/design-systems/">Design Systems by Alla Kholmatova</a> </li></ul></li><li>Tools <ul><li><a href="https://www.sketchapp.com/">Sketch</a></li><li><a href="https://www.adobe.com/products/xd.html">Adobe XD</a> </li><li><a href="https://www.figma.com/">Figma</a> </li></ul></li><li>Collections of Examples:<ul><li>A collected set of <a href="https://github.com/alexpate/awesome-design-systems">Awesome Design Systems</a></li><li>Style guides examples from <a href="http://styleguides.io/">styleguides.io</a> </li></ul></li><li>Specific Examples:<ul><li>The 1976 NASA Graphics Standards Manual </li><li><a href="https://styleguide.mailchimp.com/">Mailchimp’s content style guide</a></li><li><a href="https://www.carbondesignsystem.com/">IBM’s Carbon design system</a></li><li><a href="https://www.material.io/">Google’s Material design system</a></li></ul><ul><li><a href="https://atlassian.design/">Atlassian’s design system</a></li><li><a href="https://designsystem.digital.gov/">US Web Design System (USWDS)</a></li><li><a href="https://www.lightningdesignsystem.com/">Salesforce’s Lightning design system</a></li></ul></li></ul>
+
+
+
+<h3 class="wp-block-heading">Go Further</h3>
+
+
+
+<ul><li>Create your own design system using your preferred design software application (e.g. Adobe XD, Illustrator, Photoshop, Sketch, etc.) or via code.</li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2016</post-id>	</item>
+		<item>
+		<title>Intro to Node.js and npm</title>
+		<link>..//intro-to-node-js-and-npm/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2018 17:34:34 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1951</guid>
+
+					<description><![CDATA[Package Management using npm In this lesson, we will learn how to use the package manager npm, a node.js command line client, to setup a custom front-end web development environment and automated build process. A package manager (or package management system) is a collection of tools that automates the process of installing, upgrading, configuring, and &#8230;<p class="read-more"> <a class="" href="../intro-to-node-js-and-npm/"> <span class="screen-reader-text">Intro to Node.js and npm</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Package Management using npm</h3>
+
+
+
+<p>In this lesson, we will learn how to use the package manager <a href="https://www.npmjs.com/">npm</a>, a <a href="https://nodejs.org/en/">node.js</a> command line client, to setup a custom front-end web development environment and automated build process.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>A <strong>package manager</strong> (or package management system) is a collection of tools that automates the process of installing, upgrading, configuring, and removing software in a consistent manner.<br> – <a href="https://en.wikipedia.org/wiki/Package_manager">Wikipedia</a></p></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>npm</strong> is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website. The package manager and the registry are managed by npm, Inc.<br> – <a href="https://en.wikipedia.org/wiki/Npm_(software)">Wikipedia</a></p></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Node.js</strong> is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage&#8217;s HTML, to be run client-side by a JavaScript engine in the user&#8217;s web browser. Node.js enables JavaScript to be used for server-side scripting, and runs scripts server-side to produce dynamic web page content before the page is sent to the user&#8217;s web browser. Consequently, Node.js has become one of the foundational elements of the &#8220;JavaScript everywhere&#8221; paradigm, allowing web application development to unify around a single programming language, rather than rely on a different language for writing server side scripts.<br> – <a href="https://en.wikipedia.org/wiki/Node.js">Wikipedia</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Why use a package manager like npm?</h4>
+
+
+
+<p>As front-end web development environments and build tools become more and more complex, the amount of time spent setting up new projects can be exhaustive. To avoid wasting time via repetition, package managers help to simplify the process with one simple command: <code>npm install</code>.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ npm install
+</code></pre>
+
+
+
+<p>Package managers like npm can save front-end developers a lot of time, especially when starting new projects from scratch (e.g. to avoid setting up everything manually), when working with complex projects with multiple dependencies (e.g. to avoid installing each dependency with the latest version of each), and when working on large projects with multiple developers (to ensure a consistency across all computers).</p>
+
+
+
+<h4 class="wp-block-heading">Outcomes</h4>
+
+
+
+<ol><li>Learn how to install an existing npm-based web project</li><li>Learn how to setup a custom npm-based web project from scratch</li></ol>
+
+
+
+<h4 class="wp-block-heading">Steps</h4>
+
+
+
+<ol><li>Install Node.js and npm</li><li>Install an existing npm project (Sitebase 3)</li><li>Setup a custom npm project from scratch (my-npm-project)</li></ol>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Step 1</h2>
+
+
+
+<p><em>Install Node.js and npm</em></p>
+
+
+
+<p>Make sure that you have node.js installed.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ node -v
+$ npm -v
+</code></pre>
+
+
+
+<p>If installed, you should see the version number for each. If not, you&#8217;ll need to download Node.js from <a href="https://nodejs.org/en/">https://nodejs.org/en/</a> and follow their installation instructions.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Step 2</h2>
+
+
+
+<p><em>Install an existing npm project: Sitebase 3</em></p>
+
+
+
+<p>Inside of your target parent directory (the folder where you will be placing your new project folder), copy the source project files for <a href="https://github.com/kccnma/sitebase3-npmgulp">Sitebase 3.0 on Github</a>. If you already have git installed and/or already have a github account, from inside of your target parent directory, you can simply clone the repo:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ git clone https://github.com/kccnma/sitebase3-npmgulp
+</code></pre>
+
+
+
+<p>If you do not have git installed, you can download the zip file (<a href="https://github.com/kccnma/sitebase3-npmgulp/archive/master.zip">https://github.com/kccnma/sitebase3-npmgulp/archive/master.zip</a>) then manually unzip it into your target parent directory.</p>
+
+
+
+<p>Once copied/cloned, your local environment should look like this:</p>
+
+
+
+<pre class="wp-block-code"><code class="">targetparentdirectory/
+   └── sitebase3-npmgulp/
+         ├── dist/
+         ├── src/
+         ├── .gitignore
+         ├── README.md
+         ├── gulpfile.js
+         ├── package.json
+</code></pre>
+
+
+
+<p>Take a look inside of <strong>package.json</strong> and you&#8217;ll notice two sections toward the bottom: <em>dependencies</em> and <em>devDependencies</em>. These are the list of dependencies that this existing project is already using. In this case, this project is using gulp as a task manager to watch for changes, compile source files (e.g. SASS via a gulp plugin called gulp-sass), sync browsers (via browser-sync), compress all images (via gulp-imagemin), and then compile and copy all final files into the <strong>/dist/</strong> folder.</p>
+
+
+
+<h3 class="wp-block-heading">Testing</h3>
+
+
+
+<p>If you try to run <code>gulp</code> right away, it will not work. You&#8217;ll get an error (e.g. <code>"Local gulp not found"</code>). The key step (whenever you are setting up a new project via npm) is to run <code>npm install</code> from inside of your project folder <em>first</em>. Note: you only need to do this <em>once</em>.</p>
+
+
+
+<pre class="wp-block-code"><code class="">$ cd sitebase3-npmgulp
+$ npm install
+</code></pre>
+
+
+
+<p>You&#8217;ll notice a progress bar as npm installs all of the project dependencies. Afterward, you&#8217;ll notice a new folder was created entitled <strong>&#8220;node_modules&#8221;</strong> that contains all of the dependencies. Note: this <strong>&#8220;node_modules&#8221;</strong> folder is quite large, so if you are using git, be sure to add it to your <strong>.gitignore</strong> file (which is already included as part of Sitebase 3).</p>
+
+
+
+<p>To test it out, run <code>gulp</code> and see if it works. It should spin up a web server, launch the project in a browser, and watch your files for changes.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ gulp
+</code></pre>
+
+
+
+<p>Congratulations &#8211; you just setup your first npm-based web project!</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Step 3 <em>(Optional/Advanced)</em></h2>
+
+
+
+<p><em>Advanced: Setup a custom npm project from scratch (my-npm-project)</em></p>
+
+
+
+<p>Let&#8217;s say you do not want to start from an existing project or base, and would prefer to setup a completely new npm-based project from scratch. The steps are simple:</p>
+
+
+
+<h3 class="wp-block-heading">npm init</h3>
+
+
+
+<p>First, wherever you are working (e.g. your target parent folder), create a new primary &#8220;projectname&#8221; folder to be the project root directory. Then, run the <code>npm init</code> command from inside your target parent directory.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ npm init
+</code></pre>
+
+
+
+<p>The <code>npm init</code> command will create a <strong>package.json</strong> file that will store information about the project, such as the dependencies used in the project (e.g. Gulp, Sass, etc.) and it will also create a new <strong>&#8220;node_modules&#8221;</strong> folder that will include all dependencies. In order to create the <strong>package.json</strong> file with accurate information, it will prompt you <code>"Is this ok? (yes)?</code> Type <code>yes</code>.</p>
+
+
+
+<p>If you look inside of your project folder, you should see both the new <strong>package.json</strong> file and the new <strong>node_modules</strong> folder.</p>
+
+
+
+<h3 class="wp-block-heading">Add Dependencies</h3>
+
+
+
+<p>Once you have your <strong>package.json</strong> file all set up and ready, whenever you need to add a new dependency to your project, you&#8217;ll need to 1) manually install each dependency and 2) save it to your list of dependencies inside of your project&#8217;s <strong>package.json</strong> file. This two-part process is actually quite simple and done in one step via the following command:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ npm install dependencyname --save-dev (replacing dependencyname with the name of your dependency)
+</code></pre>
+
+
+
+<p>Be sure to include the <code><strong>"--save-dev"</strong></code> part, or else the dependency will not be added to your list of dependencies inside of your project&#8217;s <strong>package.json</strong> file. As an example, let&#8217;s install gulp.</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ npm install gulp --save-dev
+</code></pre>
+
+
+
+<p>If you look inside of your <strong>package.json</strong> file, you should see &#8220;gulp&#8221; along with the version number inside of the &#8220;devDependencies&#8221; area.</p>
+
+
+
+<p>Since this lesson is about npm (not gulp), we are not going to create a complex <strong>gulpfile.js</strong>. However, we can setup a quick one to test that our custom environment is working OK.</p>
+
+
+
+<p>First, we&#8217;ll need to create a new file named <strong>&#8220;gulpfile.js&#8221;</strong> that will store all of your gulp tasks. I suggest using your favorite text editor (IDE) for this step. Inside of your <strong>gulpfile.js</strong>, we&#8217;ll need to add a task for testing purposes. Whenever you add a new task using gulp, such as adding a new dependency, it is a 2-step process:</p>
+
+
+
+<p>1) First, you need to add a &#8220;require&#8221; statement that will tell Node to look into the node_modules folder for the new package (in this case it is a package named gulp). To do this, you need to create a new variable named <code>gulp</code> and assign the plugin contents to it:</p>
+
+
+
+<pre class="wp-block-code"><code lang="javascript" class="language-javascript">var gulp = require('gulp');
+</code></pre>
+
+
+
+<p>2) Next, you need to define the task. The following is the syntax for a typical gulp task:</p>
+
+
+
+<pre class="wp-block-code"><code lang="javascript" class="language-javascript">gulp.task('task-name', function() {
+    // Statements go here
+});
+</code></pre>
+
+
+
+<p>In this case, we are going to do a simple &#8220;Hello&#8221; console log statement to a task named hello.</p>
+
+
+
+<pre class="wp-block-code"><code lang="javascript" class="language-javascript">gulp.task('hello', function() {
+    console.log('Hello');
+});
+</code></pre>
+
+
+
+<p>After you saved your gulpfile from your text editor, switch to your command line interface and test it out via the following command:</p>
+
+
+
+<pre class="wp-block-code"><code lang="bash" class="language-bash">$ gulp hello
+</code></pre>
+
+
+
+<p>Setting up a bespoke gulpfile.js can be daunting, so I suggest checking out a boilerplate, such as <a href="https://github.com/kieranphilipbrown/gulp-boilerplate">this one</a>.</p>
+
+
+
+<h2 class="wp-block-heading">Closing thoughts:</h2>
+
+
+
+<p>Project managers can speed up the setup and installation of project dependencies, build tools, and processes. Once you have npm installed on your machine, you can quickly and easily take advantage of existing npm-based projects that use npm install for project setup and the many npm packages and dependencies that it supports.</p>
+
+
+
+<h2 class="wp-block-heading">Resources:</h2>
+
+
+
+<ul><li>Node.js &#8211; <a href="https://nodejs.org/en/">https://nodejs.org/en/</a></li><li>npm &#8211; <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li><li>Gulp &#8211; <a href="https://gulpjs.com/">https://gulpjs.com/</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1951</post-id>	</item>
+		<item>
+		<title>Intro to CMS via WordPress</title>
+		<link>..//intro-to-cms-via-wordpress/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 19 Aug 2018 17:31:36 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1948</guid>
+
+					<description><![CDATA[One of the best ways to learn about content management systems (CMS) is to set one up from scratch. In this lesson, we are going to use WordPress to set up a small, simple CMS-driven &#8220;test&#8221; web site for learning purposes. A Content Management System&#160;(CMS) is a computer application that supports the creation and modification &#8230;<p class="read-more"> <a class="" href="../intro-to-cms-via-wordpress/"> <span class="screen-reader-text">Intro to CMS via WordPress</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>One of the best ways to learn about content management systems (CMS) is to set one up from scratch. In this lesson, we are going to use <a href="https://wordpress.org/">WordPress</a> to set up a small, simple CMS-driven &#8220;test&#8221; web site for learning purposes.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>A <strong>Content Management System</strong>&nbsp;(CMS) is a computer application that supports the creation and modification of digital content. It is typically used to support multiple users working in a collaborative environment. Most CMSs include Web-based publishing, format management, history editing and version control, indexing, search, and retrieval. By their nature, content management systems support the separation of content and presentation.<br> – <a href="https://en.wikipedia.org/wiki/Content_management_system">Wikipedia</a></p></blockquote>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>WordPress</strong> is a free and open-source content management system (CMS) based on PHP and MySQL.<br> – <a href="https://en.wikipedia.org/wiki/WordPress">Wikipedia</a></p></blockquote>
+
+
+
+<h4 class="wp-block-heading">Outcomes:</h4>
+
+
+
+<ul><li>Learn how to: <ul><li>Install &amp; Setup a simple CMS (WordPress) from scratch &#8211; <a href="http://www.egargiulo.com/nma/test01/">Example</a></li><li>Add/Manage Content (using WordPress&#8217;s admin interface)</li><li>Customize the visual style (via WordPress themes) in different ways: <ul><li>Modify an existing theme</li><li>Upload a custom theme &#8211; <a href="http://www.egargiulo.com/nma/test07/">Example</a>  </li></ul></li></ul></li></ul>
+
+
+
+<h4 class="wp-block-heading">Related Concepts</h4>
+
+
+
+<ul><li>Templating</li><li>Separating Content &amp; Presentation</li></ul>
+
+
+
+<h4 class="wp-block-heading">Related Reading &amp; Resources</h4>
+
+
+
+<ul><li><a href="https://wordpress.org/">WordPress.org</a></li><li><a href="https://wordpress.com/">WordPress.com</a></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Install and Setup WordPress</h2>
+
+
+
+<ol><li>Install WordPress
+<ul><li>Login to your host &gt; cpanel &gt; &nbsp;install wordpress in a sub-directory
+<ul><li>Example: <a href="http://www.egargiulo.com/nma/test01/">/Test01/</a></li><li>Be sure to note your site&#8217;s login credentials</li></ul>
+</li></ul>
+</li><li>Setup WordPress
+<ul><li>Adjust the Settings for a small site
+<ul><li>Login to your site&#8217;s dashboard/admin
+<ul><li>yourdomain.com/test01/wp-admin</li></ul>
+</li><li>&gt; Plugins
+<ul><li>&gt; Installed Plugins: deactivate and delete default plugins that will not be needed
+<ul><li>Some examples to remove (from Bluehost&#8217;s default install): Google Analytics for WordPress by MonsterInsights, Hello Dolly, MOJO Marketplace, OptinMonster, WPForms Lite</li><li>Be sure to keep:&nbsp; Akismet Anti-Spam and JetPack</li></ul>
+</li></ul>
+</li><li>&gt; Settings
+<ul><li>&gt; Discussion: Turn off comments</li></ul>
+</li></ul>
+</li></ul>
+</li></ol>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Add Initial Content in WordPress</h2>
+
+
+
+<ol><li>Add Content
+<ul><li>&gt; Pages
+<ul><li>Delete default/existing pages</li><li>Create a new page titled &#8220;Home&#8221;</li><li>Create a new page title &#8220;Sub Page&#8221;
+<ul><li>For content, use <a href="https://gist.githubusercontent.com/kccnma/7ea4822437a69a61c3fa26533cb5f1ef/raw/08ee13f3c09ca849f99fbfc07e00ece8217145d3/base-typography-content.html">base content/typography markup (raw html)</a></li></ul>
+</li></ul>
+</li><li>&gt; Settings
+<ul><li>&gt; Reading: Set the Front Page to display your newly created &#8220;Home&#8221; page</li></ul>
+</li><li>&gt; Appearance
+<ul><li>&gt; Menus: Create a new Menu (e.g. &#8220;Main Menu&#8221;) and set it&#8217;s location as the Primary Menu</li></ul>
+</li></ul>
+</li></ol>
+
+
+
+<h2 class="wp-block-heading">Customize Your WordPress Site</h2>
+
+
+
+<p>There are many different ways to customize a WP site, below are are few known techniques that you should be familiar with as you consider your best options per project:</p>
+
+
+
+<ul><li>You can customize a theme via Customizer <ul><li>Appearance &gt; Customize <ul><li>Browse the built-in theme settings and experiment with the theme-supported settings</li></ul></li></ul></li><li>You can change the Theme <ul><li>Appearance &gt; Themes &gt; Add New<ul><li>Search or browse for a new third-party theme </li></ul></li></ul></li><li>You can modify a Theme<ul><li>Manually edit a theme&#8217;s css and php files directly via Appearance &gt; Editor <em>(not recommended*)</em></li><li>Manually edit a theme&#8217;s css and php files locally then update/upload via FTP <em>(not recommended*)</em></li></ul></li><li>You can create a Child Theme  <ul><li>Create a new theme directory with only the files that you want to override <em>(highly recommended)</em></li></ul></li><li>You can create your own Custom Theme<ul><li>This option provides the most control, but it also the most costly in terms of development time <em>(advanced, but highly recommended)</em></li></ul></li></ul>
+
+
+
+<p><em>* It is never recommended to edit a found parent theme&#8217;s files because all changes/modifications will be lost if/when the theme is updated. A safer approach is to use a child theme or to create a custom parent theme.</em></p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h2 class="wp-block-heading">Conclusion &amp; Resources</h2>
+
+
+
+<p>WordPress is a powerful content management system, but one of the main challenges faced by web designers and developers is figuring out how to best customize WP sites based upon client goals, needs, budgets, and scopes for different projects. Below are some customization techniques to consider, starting from easiest (and least customizable) to the hardest (yet most customizable):</p>
+
+
+
+<ol><li><strong>Customize an Existing or Default Theme</strong> (e.g. WP default themes)<ul><li>Use the built-in &#8220;Customizer&#8221; tool via the admin interface and adjust your theme&#8217;s built-in settings</li><li>Override their settings via &#8220;Additional CSS&#8221; in the admin interface <em>(not recommended* for production, but might be justified in certain use cases, such as working with a client with no FTP access and/or no child theme option)</em></li><li>Manually edit a theme&#8217;s files (e.g. style.css) locally then update/upload via FTP <em>(not recommended*)</em></li></ul></li><li><strong>Switch to a New Third-Party Theme</strong> (<em>Free</em> or <em>Paid</em>)<ul><li>Choose from the many existing free themes available (e.g. <a href="https://wpastra.com/">Astra</a>)</li><li>Purchase a premium theme (e.g. <a href="https://wpastra.com/pro/">Astra Pro</a>, <a href="https://www.elegantthemes.com/gallery/divi/">Divi</a>) </li></ul></li><li><strong>Child Theme an Existing Parent Theme</strong> <ul><li>Create a custom child theme that will manually override the parent theme settings a-la-carte. (e.g. Astra, Divi, etc—or any fully featured theme with the desired features and functionality already built-in) </li><li>Child Theme Resources: <ul><li><a href="https://codex.wordpress.org/Child_Themes">WordPress Codex: Child Themes</a></li></ul></li><li>Child Theme Examples: <ul><li><a href="https://woocommerce.com/">WooCommerce</a> &gt; <a href="https://woocommerce.com/storefront/">Storefront</a> &gt; Storefront Child Theme</li><li><a href="https://github.com/kccnma/teachingmaterials/tree/master/mychildtheme-wp">Chris&#8217;s &#8220;My Child Theme WP&#8221;</a> (A blank Child Theme) <ul><li>Download: <a href="https://github.com/kccnma/teachingmaterials/raw/master/mychildtheme-wp.zip">mychildtheme-wp.zip&nbsp;</a></li></ul></li><li>NOTE: Be sure to change the parent theme name in style.css </li></ul></li></ul></li><li><strong>Create Your Own Custom Theme</strong> <ul><li>Start with a &#8220;starter&#8221; theme framework (e.g. <a href="https://underscores.me/">_underscores</a>)</li></ul><ul><li>Code a theme from scratch (starting with the core essentials: index.php, style.css, &amp; screenshot.png) <ul><li>Example: Chris&#8217;s <a href="http://www.egargiulo.com/nma/test07/">Sitebase-wp</a> </li></ul></li></ul></li><li><strong>Use 3rd Party Plugins</strong> <ul><li>Extend/Customize your base theme&#8217;s built-in features and functionality by installing third-party plugins<ul><li>For example, for more layout control consider using a Page Builder plugin like <a href="https://siteorigin.com/page-builder/">Site Origins Page Builder</a>, <a href="https://elementor.com/">Elementor</a>, <a href="https://www.wpbeaverbuilder.com/">Beaver</a> etc.</li><li>Popular Plugins to consider:<ul><li>ACF (Advanced Custom Fields)</li><li>CPT UI (Custom Post Types UI)</li><li>Helpful Shortcode plugins:<ul><li>Display Posts</li><li>Insert Pages</li></ul></li></ul></li></ul></li></ul></li></ol>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1948</post-id>	</item>
+	</channel>
+</rss>

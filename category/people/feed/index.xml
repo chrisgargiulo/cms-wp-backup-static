@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>People &#8211; CMS</title>
+	<atom:link href="../category/people/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Wed, 04 Dec 2019 22:28:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>People &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Brad Frost</title>
+		<link>..//brad-frost/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2019 19:33:51 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=3083</guid>
+
+					<description><![CDATA[Designer, writer, and speaker. Brad Frost is a popular speaker at web design conferences and consultant for all things web design and front-end web development related. Links: Bradfrost.com Atomic Design (book)]]></description>
+										<content:encoded><![CDATA[
+<p>Designer, writer, and speaker. Brad Frost is a popular speaker at web design conferences and consultant for all things web design and front-end web development related. </p>
+
+
+
+<h3 class="wp-block-heading">Links:</h3>
+
+
+
+<ul><li><a href="http://bradfrost.com/">Bradfrost.com</a></li><li><a href="http://atomicdesign.bradfrost.com/">Atomic Design</a> (book)</li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3083</post-id>	</item>
+		<item>
+		<title>Jen Simmons</title>
+		<link>..//jen-simmons/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2019 19:13:27 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=3080</guid>
+
+					<description><![CDATA[Designer and developer advocate at Mozilla. Member of the CSS Working Group. A popular speaker at many web design conferences, Jen Simmons is one of the most vocal advocates for improving web design layouts. Links: Jensimmons.com Layout Land (on youtube) Jen Simmons Labs Jen Simmons Talks]]></description>
+										<content:encoded><![CDATA[
+<p>Designer and developer advocate at Mozilla. Member of the CSS Working Group. A popular speaker at many web design conferences, Jen Simmons is one of the most vocal advocates for improving web design layouts.</p>
+
+
+
+<p>Links:</p>
+
+
+
+<ul><li><a href="https://jensimmons.com/">Jensimmons.com</a></li><li><a href="https://www.youtube.com/layoutland/">Layout Land</a> (on youtube)</li><li><a href="https://labs.jensimmons.com/">Jen Simmons Labs</a></li><li><a href="https://talks.jensimmons.com/">Jen Simmons Talks</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3080</post-id>	</item>
+		<item>
+		<title>Sarah Drasner</title>
+		<link>..//sarah-drasner/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2069</guid>
+
+					<description><![CDATA[Sarah Drasner is a well known JS dev that speaks at many conferences around the world. She has been an advocate of Vue.js.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://sarahdrasnerdesign.com/">Sarah Drasner</a> is a well known JS dev that speaks at many conferences around the world. She has been an advocate of <a href="https://vuejs.org/">Vue.js</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2069</post-id>	</item>
+		<item>
+		<title>Jakob Nielson</title>
+		<link>..//jakob-nielson/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 21:44:09 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/jakob-nielson/</guid>
+
+					<description><![CDATA[Usability expert behind Nielsen Norman Group (NN/G) and Alertbox, Jakob Nielsen, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with Dr. Donald A. Norman (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has &#8230;<p class="read-more"> <a class="" href="../jakob-nielson/"> <span class="screen-reader-text">Jakob Nielson</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Usability expert behind <a href="https://www.nngroup.com/">Nielsen Norman Group (NN/G)</a> and Alertbox, <a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a>, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with <a href="https://www.nngroup.com/people/don-norman/">Dr. Donald A. Norman</a> (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has invented several usability methods, including heuristic evaluation. He holds 79 United States patents, mainly on ways of making the Internet easier to use.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<h3>Articles by Jakob Nielsen at NN/G:</h3>
+<ul>
+<li><a href="https://www.nngroup.com/articles/top-10-mistakes-web-design/"><strong>Jakob Nielsen&#8217;s Top 10 Mistakes in Web Design</strong></a><br />
+A short list of egregious offenses against users, such as Bad Search, PDF files for online reading, not changing the color of visited links, non-scannable text (the &#8220;wall of text&#8221;), fixed font sizes, poor page titles, anything that looks like an ad, violating design conventions, opening new browser windows, and not answering user questions.</li>
+<li><a href="https://www.nngroup.com/articles/ten-good-deeds-in-web-design/"><strong>Jakob Nielsen&#8217;s 10 Good Deeds in Web Design</strong></a><br />
+Ten design elements that would increase the usability of all websites if they were employed more widely. List includes things such as placing your name and logo on every page and make the logo a link to the home page, providing search if the site has more than 100 pages, and writing straightforward and simple headlines and page titles.</li>
+<li><a href="https://www.nngroup.com/articles/top-10-ia-mistakes/"><strong>Jakob Nielsen&#8217;s Top 10 Information Architecture (IA) Mistakes</strong></a><br />
+Structure and navigation must support each other and integrate with search and across subsites. Complexity, inconsistency, hidden options, and clumsy UI mechanics prevent users from finding what they need.</li>
+<li><a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/"><strong>Jakob Nielsen&#8217;s Usability 101: Introduction to Usability</strong></a><br />
+Usability is a quality attribute that assesses how easy user interfaces are to use. The word &#8220;usability&#8221; also refers to methods for improving ease-of-use during the design process. Usability is defined by 5 quality components: Learnability, Efficiency, Memorability, Errors, and Satisfaction.</li>
+<li><a href="https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/"><strong>Jakob Nielsen&#8217;s Top 10 Guidelines for Homepage Usability</strong></a><br />
+The homepage is often times the starting point for user visits. Improving the homepage multiplies the entire website&#8217;s value, so following key guidelines for homepage usability is important.</li>
+<li><a href="https://www.nngroup.com/articles/most-violated-homepage-guidelines/"><strong>Jakob Nielsen&#8217;s 10 Most Violated Homepage Design Guidelines</strong></a><br />
+A short list of ten usability mistakes that about two-thirds of corporate websites make, according to Nielsen Norman Group. The prevalence of these errors alone warrants attention.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>Donald Norman</title>
+		<link>..//donald-norman/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 06:44:17 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/donald-norman/</guid>
+
+					<description><![CDATA[Author of The Design of Everyday Things,  Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the Nielsen Norman Group. &#160;]]></description>
+										<content:encoded><![CDATA[<p>Author of <em>The Design of Everyday Things, </em> Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the <a href="https://www.nngroup.com/">Nielsen Norman Group</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">728</post-id>	</item>
+		<item>
+		<title>Dave Rupert</title>
+		<link>..//dave-rupert/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 06:26:22 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/dave-rupert/</guid>
+
+					<description><![CDATA[Dave Rupert is a lead developer at Paravel. Co-host of the podcast ShopTalk with Chris Coyier.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://daverupert.com/">Dave Rupert</a> is a lead developer at <a href="https://paravelinc.com/">Paravel</a>. Co-host of the podcast <a href="https://shoptalkshow.com/">ShopTalk</a> with <a href="https://chriscoyier.net/">Chris Coyier</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">727</post-id>	</item>
+		<item>
+		<title>Chris Coyier</title>
+		<link>..//chris-coyier/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 23:01:43 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/chris-coyier/</guid>
+
+					<description><![CDATA[Chris Coyier is a web designer and developer well known for CSS-Tricks, the popular website that he built about building websites. He is also well known as the co-founder of CodePen, a playground/social dev environment for front end designers and developers. Along with Dave Rupert, he is the co-host of a podcast called ShopTalk, a show about building websites. &#8230;<p class="read-more"> <a class="" href="../chris-coyier/"> <span class="screen-reader-text">Chris Coyier</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://chriscoyier.net/">Chris Coyier</a> is a web designer and developer well known for <a href="https://css-tricks.com/">CSS-Tricks</a>, the popular website that he built about building websites. He is also well known as the co-founder of <a href="https://codepen.io/">CodePen</a>, a playground/social dev environment for front end designers and developers. Along with Dave Rupert, he is the co-host of a podcast called <a href="https://shoptalkshow.com/">ShopTalk</a>, a show about building websites. He often times speaks at events and gives workshops all over the world. He&#8217;s written tho books <a href="https://abookapart.com/products/practical-svg">Practical SVG</a> and <a href="https://digwp.com/book/">Digging Into WordPress</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">695</post-id>	</item>
+	</channel>
+</rss>

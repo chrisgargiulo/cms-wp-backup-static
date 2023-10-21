@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Stock Assets &#8211; CMS</title>
+	<atom:link href="../category/stock-assets/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 27 Jun 2019 22:46:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Stock Assets &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Undraw</title>
+		<link>..//undraw/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2019 22:46:56 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=3116</guid>
+
+					<description><![CDATA[Undraw offers a wide range of free open source illustrations by&#160;Katerina Limpitsouni]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://undraw.co/">Undraw</a> offers a wide range of <a href="https://undraw.co/illustrations">free open source illustrations</a> by&nbsp;<a class="footer__link" href="https://twitter.com/ninalimpi" rel="noopener">Katerina Limpitsouni</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3116</post-id>	</item>
+		<item>
+		<title>Stockio</title>
+		<link>..//stockio/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2019 22:38:53 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=3113</guid>
+
+					<description><![CDATA[Stockio is another source for free stock photos, vector graphics, and icons.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.stockio.com/">Stockio</a> is another source for free stock photos, vector graphics, and icons.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3113</post-id>	</item>
+		<item>
+		<title>Lost And Taken</title>
+		<link>..//lost-and-taken/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 09:20:33 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/lost-and-taken/</guid>
+
+					<description><![CDATA[Free texture stock photos]]></description>
+										<content:encoded><![CDATA[<p>Free texture stock photos</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">816</post-id>	</item>
+		<item>
+		<title>Pexels</title>
+		<link>..//pexels/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 20 Nov 2017 23:02:50 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/pexel/</guid>
+
+					<description><![CDATA[Pexels is a stock photography site.  The pictures are free for personal and even for commercial use. You can modify, copy and distribute the photos. All without asking for permission or setting a link to the source. So, attribution is not required. All contents are released under Creative Commons CC0 (Public Domain).]]></description>
+										<content:encoded><![CDATA[<p>Pexels is a stock photography site.  The pictures are free for personal and even for commercial use.<br />
+You can modify, copy and distribute the photos. All without asking for permission or setting a link to the source. So, attribution is not required. All contents are released under Creative Commons CC0 (Public Domain).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">772</post-id>	</item>
+		<item>
+		<title>Unsplash</title>
+		<link>..//unsplash/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 18:48:36 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/unsplash/</guid>
+
+					<description><![CDATA[Unsplash (https://unsplash.com/) offers free &#8220;do whatever you want&#8221; high-resolution photos with no attribution. They have their own &#8220;Unsplash&#8221; license that essentially says you can do whatever you want, so long as you do not try to sell them via a similar service. If you are using Unsplash for mockups, check out Lorem Picsum (https://picsum.photos/). It &#8230;<p class="read-more"> <a class="" href="../unsplash/"> <span class="screen-reader-text">Unsplash</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://unsplash.com/">Unsplash</a> (<a href="https://unsplash.com/">https://unsplash.com/</a>) offers free &#8220;do whatever you want&#8221; high-resolution photos with no attribution. They have their own &#8220;Unsplash&#8221; license that essentially says you can do whatever you want, so long as you do not try to sell them via a similar service.</p>
+<p>If you are using Unsplash for mockups, check out <a href="https://picsum.photos/">Lorem Picsum</a> (<a href="https://picsum.photos/">https://picsum.photos/</a>). It is a placeholder image tool that can randomly serve images from Unsplash at different dimensions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">607</post-id>	</item>
+		<item>
+		<title>Pixabay</title>
+		<link>..//pixabay/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 25 Sep 2017 18:10:13 +0000</pubDate>
+				<category><![CDATA[Stock Assets]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=501</guid>
+
+					<description><![CDATA[Pixabay is a free stock photography site that offers free images and videos you can use anywhere. Made up of community of creatives, sharing copyright free images and videos, all contents are released under Creative Commons CC0 (Public Domain), which makes them safe to use without attribution (asking for permission or giving credit to the &#8230;<p class="read-more"> <a class="" href="../pixabay/"> <span class="screen-reader-text">Pixabay</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://pixabay.com/">Pixabay</a> is a free stock photography site that offers free images and videos you can use anywhere. Made up of community of creatives, sharing copyright free images and videos, all contents are released under Creative Commons CC0 (Public Domain), which makes them safe to use without attribution (asking for permission or giving credit to the artist) even for commercial purposes.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">501</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>UI &#8211; CMS</title>
+	<atom:link href="../tag/ui/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Fri, 15 Sep 2023 00:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>UI &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Figma</title>
+		<link>..//figma/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 00:07:25 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">..//?p=4457</guid>
+
+					<description><![CDATA[Figma (https://figma.com)/ is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).]]></description>
+										<content:encoded><![CDATA[
+<p>Figma (<a href="https://figma.com/">https://figma.com/</a>) is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4457</post-id>	</item>
+		<item>
+		<title>Iterative Design</title>
+		<link>..//iterative-design/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2019 15:49:07 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2245</guid>
+
+					<description><![CDATA[A Creative Workflow for UX and UI&#160;Design Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process. Wikipedia 3 &#62; 2 &#62; 1 UI Mockup Process 2 &#62; 1 UI Mockup Process Author Notes This was written specifically to help aspiring web designers as &#8230;<p class="read-more"> <a class="" href="../iterative-design/"> <span class="screen-reader-text">Iterative Design</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A Creative Workflow for UX and UI&nbsp;Design</h3>
+
+
+
+<blockquote class="wp-block-quote"><p>Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process.</p><cite><a href="https://en.wikipedia.org/wiki/Iterative_design">Wikipedia</a></cite></blockquote>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.youtube.com/watch?v=MD3g0aCMRAc">View a Related Video Lesson on UI Design</a></div>
+</div>
+
+
+
+<span id="more-2245"></span>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">3 &gt; 2 &gt; 1 UI Mockup Process</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" fetchpriority="high" width="960" height="480" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=960%2C480&#038;ssl=1" alt="" class="wp-image-2248" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?w=960&amp;ssl=1 960w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-3-2-1.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure></div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">2 &gt; 1 UI Mockup Process</h3>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="960" height="480" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=960%2C480&#038;ssl=1" alt="" class="wp-image-2250" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?w=960&amp;ssl=1 960w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/02/iterativedesign-2-1-1.png?resize=768%2C384&amp;ssl=1 768w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></figure></div>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Learn workflows and creative design processes for web design.</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2245</post-id>	</item>
+		<item>
+		<title>The Web Design and Development Process</title>
+		<link>..//web-design-dev-process/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2018 18:42:01 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1907</guid>
+
+					<description><![CDATA[A User Centered Design Approach The web design and development process shares several resemblances to the software development process and systems development life cycle and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically &#8230;<p class="read-more"> <a class="" href="../web-design-dev-process/"> <span class="screen-reader-text">The Web Design and Development Process</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A User Centered Design Approach</h3>
+
+
+
+<p>The web design and development process shares several resemblances to the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a> and <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a> and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces <a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a>and consists of 5 D’s: <em>Define, Draft, Design, Develop, and Deliver.</em></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/2G_Ra_TLx4E" target="_blank" rel="noreferrer noopener">View Video Lesson</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>User-centered design (UCD)</strong>&nbsp;or&nbsp;<strong>user-driven development (UDD)</strong>&nbsp;is a framework of processes (not restricted to interfaces or technologies) in which usability goals, user characteristics, environment, tasks and workflow of a product, service or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with/without actual users during each stage of the process from requirements, pre-production models and post production, completing a circle of proof back to and ensuring that “development proceeds with the user as the center of focus.
+</p><cite>–&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">Wikipedia</a></cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="1200" height="364" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-ddddd.gif?resize=1200%2C364&#038;ssl=1" alt="Design Process: 5 D's: Define, Draft, Design, Develop, and Deliver" class="wp-image-1375" data-recalc-dims="1"/></figure></div>
+
+
+
+<h3 class="wp-block-heading">A Simplified 5-Step Process:</h3>
+
+
+
+<ol><li><strong>Define</strong>&nbsp;– Define the project, problem(s), and stakeholder’s primary goals via the project brief. Gather background info to define user profiles, goals, and tasks.</li><li><strong>Draft</strong>&nbsp;– Brainstorm conceptual solutions; draft the information architecture, site-maps, wireframes, prototypes, content hierarchy, and structure.</li><li><strong>Design</strong>&nbsp;– Visualize and communicate the user interface design via mood boards, type studies, color studies, prototypes, iterative mockups, and multiple rounds of refinements.</li><li><strong>Develop</strong>&nbsp;– Build the interactive, fully functioning product using web standard compliant, accessible, valid, semantic markup, styling, and scripting.</li><li><strong>Deliver</strong>&nbsp;– Via due diligence, fix all bugs and conduct multiple tests for quality assurance across multiple platforms, browsers, devices, and screen-sizes.</li></ol>
+
+
+
+<h2 class="wp-block-heading">A Brief Backstory</h2>
+
+
+
+<p><em>Preceding Influential Models</em></p>
+
+
+
+<p>One of the most notable approaches that predates web development is the&nbsp;<a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="264" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-waterfall.gif?resize=1200%2C264&#038;ssl=1" alt="A waterfall process" class="wp-image-1379" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>A waterfall process</em></p>
+
+
+
+<p>In the text Usability for the Web (2002), Brinck, Gergle, and Wood illustrated a “Pervasive Usability Process” drafted specifically for web design and development. It consists of five phases that are sequential yet iterative through the process of continual evaluation. The five stages are requirements analysis, conceptual design, mockups and prototypes, production, and launch, and most closely resembles the Five D’s approach above.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="419" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-pervasive.gif?resize=1200%2C419&#038;ssl=1" alt="Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process" class="wp-image-1378" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process</em></p>
+
+
+
+<p>In contrast to the waterfall model, other notable approaches are&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, cyclical design and development processes that entail multiple rounds of designing, prototyping, testing, analyzing, and refining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative.gif?resize=1200%2C551&#038;ssl=1" alt="An iterative process" class="wp-image-1377" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>An iterative process</em></p>
+
+
+
+<p>In recent years, the&nbsp;<a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development process</a>&nbsp;has had a big impact on web design and development. It embraces adaptive planning, evolutionary development, early delivery, and continuous improvement. Designed for speed, it encourages rapid and flexible responses to change throughout the process.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif?resize=1200%2C551&#038;ssl=1" alt="A combined iterative and incremental “5 D” process influenced by multiple models." class="wp-image-1376" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><br>
+<em>A combined iterative and incremental “5 D” process influenced by multiple models.</em></p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>There is no one-size-fits-all web design and development process. However, there are several existing models to follow as frameworks that embrace different principles related to user-centered design.</p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Via Wikipedia:
+<ul><li><a href="https://en.wikipedia.org/wiki/Software_development_process">Software development process</a><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li><li><a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">Systems development life cycle</a></li><li><a href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall model</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_design">Iterative Design</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">Iterative and incremental development</a></li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Go Further</h3>
+
+
+
+<ul><li>Familiarize yourself with&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">User Centered Design</a></li><li><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF’s User-centered Design</a> (includes a good video on <strike>User</strike> Human Centered Design)</li><li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">Usability.gov’s User Centered Design Basics</a></li><li>Read&nbsp;IDF’s&nbsp;<a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">5 Stages in the Design Thinking Process</a></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1907</post-id>	</item>
+		<item>
+		<title>Site Inspire</title>
+		<link>..//site-inspire/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 11:02:26 +0000</pubDate>
+				<category><![CDATA[Other]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/site-inspire/</guid>
+
+					<description><![CDATA[Showcases web design inspiration]]></description>
+										<content:encoded><![CDATA[<p>Showcases web design inspiration</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">820</post-id>	</item>
+		<item>
+		<title>One Page Love</title>
+		<link>..//one-page-love/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 10:23:54 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/one-page-love/</guid>
+
+					<description><![CDATA[Single Page Website Inspiration]]></description>
+										<content:encoded><![CDATA[<p>Single Page Website Inspiration</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">819</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Inspiration &#8211; CMS</title>
+	<atom:link href="../category/inspiration/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 17 Feb 2022 18:07:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Inspiration &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Interface In Game</title>
+		<link>..//interface-in-game/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 17:35:01 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">..//?p=3713</guid>
+
+					<description><![CDATA[Interface In Game (https://interfaceingame.com/) is a collection of video game interfaces, design patterns, screenshots, and video clips organized by taxonomies such as genre, theme, and platform. It is a free project developed by volunteer gamers.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://interfaceingame.com/">Interface In Game</a> (<a href="https://interfaceingame.com/">https://interfaceingame.com/</a>) is a collection of video game interfaces, design patterns, screenshots, and video clips organized by taxonomies such as genre, theme, and platform. It is a free project developed by volunteer gamers.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3713</post-id>	</item>
+		<item>
+		<title>Video Case Studies</title>
+		<link>..//video-case-studies/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2019 07:45:34 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">..//?p=3367</guid>
+
+					<description><![CDATA[Time-based media, such as video and motion graphics, can be effective ways to communicate a completed project. Sometimes called video essays, video case studies can be used for a variety of contexts, such as documenting the design process for a creative project to be included as part of a portfolio, sharing the workflow of product &#8230;<p class="read-more"> <a class="" href="../video-case-studies/"> <span class="screen-reader-text">Video Case Studies</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Time-based media, such as video and motion graphics, can be effective ways to communicate a completed project. Sometimes called video essays, video case studies can be used for a variety of contexts, such as documenting the design process for a creative project to be included as part of a portfolio, sharing the workflow of product design to communicate services and features, and even as a required part of the application process when applying to art schools.</p>
+
+
+
+<h2 class="wp-block-heading">Strategies &amp; Techniques</h2>
+
+
+
+<ul><li><strong>Live-action video footage</strong>(designer as the subject, documentary-style interviews, behind-the-scenes footage of the design process, the designer behind the computer, the designer holding the final product, etc.) <ul><li><a href="https://www.youtube.com/watch?time_continue=2&amp;v=Sfq91SaZxmU">Quins (VFS)</a> </li></ul></li><li><strong>Voice Narration</strong> (telling the story orally via voice-over recording) <ul><li><a href="https://www.youtube.com/watch?time_continue=2&amp;v=Sfq91SaZxmU">Quins (VFS)</a>, <a href="https://www.youtube.com/watch?v=6il_vS2G7v8">Doplr (VFS)</a>, <a href="https://www.youtube.com/watch?v=0texoEkIrTs">Iona (VFS)</a> </li></ul></li><li><strong>Tiles</strong> (main titles, sub-titles, interstitials, kinetic typography, etc. for structure and storytelling) <ul><li><a href="https://www.youtube.com/watch?v=UP0pHswYiFY">Stellar Air (VFS)</a> </li></ul></li><li><strong>Screen-recordings</strong>(mouse/cursor movements as behind-the-scenes footage of the design process) <ul><li><a href="https://www.youtube.com/watch?time_continue=2&amp;v=Sfq91SaZxmU">Quins (VFS)</a> </li></ul></li><li><strong>Still images</strong> (e.g. cut quickly one-after-another, or with a slow zoom/scale effect, or with a ken-burns effect of scaling/zooming to show detailed views of the still imagery) <ul><li><a href="https://www.youtube.com/watch?v=qV4NwEZM0jo">Metepod (VFS)</a> </li></ul></li><li><strong>Custom Illustrations and motion graphics</strong> (e.g. animated visuals to help illustrate the design process, such as an animated timeline) <ul><li><a href="https://www.youtube.com/watch?time_continue=2&amp;v=Sfq91SaZxmU">Quins (VFS)</a> </li></ul></li><li><strong>On-screen Text</strong> and <strong>Slide-decks</strong>(telling the story via text/copy as a series of slides) <ul><li>Text as content, not as a title/sub-title (e.g. &#8220;problem&#8221; or &#8220;challenge&#8221; or &#8220;solution&#8221;) <ul><li><a href="https://www.youtube.com/watch?v=6il_vS2G7v8">Doplr (VFS)</a>, <a href="https://www.youtube.com/watch?v=0texoEkIrTs">Iona (VFS)</a> </li></ul></li></ul><ul><li>Text + Imagery (to communicate still images and key concepts) </li></ul></li><li><strong>Before/After Images</strong> (e.g. animated swipes for a visual comparison, to show time, progress, and contrast between the original problem and the final solution)</li><li><strong>Animated Mockups</strong> (e.g. screen recording of a website scrolling, or app screens animating, or product design in action)</li><li><strong>A &#8220;Reveal&#8221;</strong> (e.g. time-based rendering of the final product starting with nothing and gradually adding in all elements) </li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Video Case Study Examples:</h2>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/Sfq91SaZxmU?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div><figcaption> <a href="https://www.youtube.com/watch?time_continue=2&amp;v=Sfq91SaZxmU">Quins (VFS)</a> </figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/6il_vS2G7v8?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div><figcaption><a href="https://www.youtube.com/watch?v=6il_vS2G7v8">Doplr (VFS)</a></figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/0texoEkIrTs?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div><figcaption><a href="https://www.youtube.com/watch?v=0texoEkIrTs">Iona (VFS)</a> </figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/UP0pHswYiFY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div><figcaption><a href="https://www.youtube.com/watch?v=UP0pHswYiFY">Stellar Air (VFS)</a> </figcaption></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/qV4NwEZM0jo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div><figcaption><a href="https://www.youtube.com/watch?v=qV4NwEZM0jo">Metepod (VFS)</a> </figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3367</post-id>	</item>
+		<item>
+		<title>One Page Love</title>
+		<link>..//one-page-love/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 10:23:54 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[UI]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/one-page-love/</guid>
+
+					<description><![CDATA[Single Page Website Inspiration]]></description>
+										<content:encoded><![CDATA[<p>Single Page Website Inspiration</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">819</post-id>	</item>
+		<item>
+		<title>Awwwards</title>
+		<link>..//awwwards/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 20:00:31 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/awwwards/</guid>
+
+					<description><![CDATA[Find some web design inspiration! Go to awwwards.com]]></description>
+										<content:encoded><![CDATA[<p>Find some web design inspiration! Go to <a href="https://www.awwwards.com/">awwwards.com</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">811</post-id>	</item>
+		<item>
+		<title>Art of the Menu</title>
+		<link>..//art-of-the-menu/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 23:58:55 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Print Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/art-of-the-menu/</guid>
+
+					<description><![CDATA[Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.]]></description>
+										<content:encoded><![CDATA[<p>Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">732</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Front-end Web Development &#8211; CMS</title>
+	<atom:link href="../category/front-end-web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Tue, 31 May 2022 22:19:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Front-end Web Development &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Netlify</title>
+		<link>..//netlify/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2020 01:14:03 +0000</pubDate>
+				<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[Hosting]]></category>
+		<guid isPermaLink="false">..//?p=3520</guid>
+
+					<description><![CDATA[Netlify&#160;(netlify.com) is a free “serverless” website hosting service that offers a wide range of powerful services that make site deployment super easy and static sites super powerful. Known for the term&#160;Jamstack, a modern way to build lightning-fast websites and web apps, Netlify prioritizes performance via its CDN network and improves the developer experience by offering &#8230;<p class="read-more"> <a class="" href="../netlify/"> <span class="screen-reader-text">Netlify</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Netlify</strong>&nbsp;(<a href="https://netlify.com/">netlify.com</a>) is a free “serverless” website hosting service that offers a wide range of powerful services that make site deployment super easy and static sites super powerful. Known for the term&nbsp;<a href="https://jamstack.org/">Jamstack</a>, a modern way to build lightning-fast websites and web apps, Netlify prioritizes performance via its CDN network and improves the developer experience by offering an easy workflow that connects your GitHub repositories of source code to your production-built&nbsp;websites.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3520</post-id>	</item>
+		<item>
+		<title>ScrollOut</title>
+		<link>..//scrollout/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Fri, 01 Nov 2019 20:59:11 +0000</pubDate>
+				<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">..//?p=3415</guid>
+
+					<description><![CDATA[ScrollOut is a small, lightweight JS library for scroll-triggered events, such as reveal and parallax. CDN: &#60;script src="https://unpkg.com/scroll-out/dist/scroll-out.min.js"&#62;&#60;/script&#62; Init &#60;script&#62; ScrollOut(); &#60;/script&#62; HTML &#60;section data-scroll="out"&#62; &#60;h1&#62;Section&#60;/h1&#62; &#60;p&#62;Lorem ipsum et dolorem.&#60;/p&#62; &#60;/section&#62; CSS: [data-scroll] { transition: opacity 1s; } [data-scroll="in"] { opacity: 1; } [data-scroll="out"] { opacity: 0; } Example:]]></description>
+										<content:encoded><![CDATA[<p><a href="https://scroll-out.github.io/">ScrollOut</a> is a small, lightweight JS library for scroll-triggered events, such as reveal and parallax.</p>
+<p>CDN:</p>
+<pre class="language-html"><code><span class="token tag"><span class="token punctuation">&lt;</span>script <span class="token attr-name">src</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>https://unpkg.com/scroll-out/dist/scroll-out.min.js<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token punctuation">&lt;/</span>script<span class="token punctuation">&gt;</span></span></code></pre>
+<p>Init</p>
+<pre class="language-html"><code><span class="token tag"><span class="token punctuation">&lt;</span>script<span class="token punctuation">&gt;</span></span><span class="token script language-javascript">
+  <span class="token function">ScrollOut</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+</span><span class="token tag"><span class="token punctuation">&lt;/</span>script<span class="token punctuation">&gt;</span></span></code></pre>
+<p>HTML</p>
+<pre class="language-html"><code><span class="token tag"><span class="token punctuation">&lt;section data-scroll="out"&gt;
+    &lt;h1&gt;Section&lt;/h1&gt;
+    &lt;p&gt;Lorem ipsum et dolorem.&lt;/p&gt;
+&lt;/section&gt;</span></span></code></pre>
+<p>CSS:</p>
+<pre class="language-css"><code><span class="token selector">[data-scroll]</span> <span class="token punctuation">{</span>
+  <span class="token property">transition</span><span class="token punctuation">:</span> opacity 1s<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token selector">[data-scroll="in"]</span> <span class="token punctuation">{</span>
+  <span class="token property">opacity</span><span class="token punctuation">:</span> 1<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token selector">[data-scroll="out"]</span> <span class="token punctuation">{</span>
+  <span class="token property">opacity</span><span class="token punctuation">:</span> 0<span class="token punctuation">;</span>
+<span class="token punctuation">}</span></code></pre>
+<h3>Example:</h3>
+<p><p class='codepen'  data-height='443' data-theme-id='0' data-slug-hash='rNNpMQZ' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/rNNpMQZ">Reveal on Scroll Test – w/ ScrollOut2</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3415</post-id>	</item>
+		<item>
+		<title>Github</title>
+		<link>..//github/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 23:10:40 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/github/</guid>
+
+					<description><![CDATA[GitHub is a web-based Git version control repository hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. GitHub &#8230;<p class="read-more"> <a class="" href="../github/"> <span class="screen-reader-text">Github</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>GitHub is a web-based Git version control repository hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. GitHub offers both private and public repositories, which are commonly used to host open-source software projects. GitHub is one of the largest hosts of source code in the world.</p>
+
+
+
+<h4 class="wp-block-heading">Related Resources and Links:</h4>
+
+
+
+<ul><li><a href="https://pages.github.com/">GitHub Pages</a></li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">698</post-id>	</item>
+		<item>
+		<title>CodePen</title>
+		<link>..//codepen/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 23:05:05 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/codepen/</guid>
+
+					<description><![CDATA[CodePen is a browser-based code-sharing platform for front-end web designers and developers. It is great for inspiration, education, and sharing code. You can quickly and easily conduct tests, show off your latest creations and get feedback from your peers, and find coded examples of design patterns. Codepen Links Codepen.io Instructor’s pens (kccnma) Some instructor pens &#8230;<p class="read-more"> <a class="" href="../codepen/"> <span class="screen-reader-text">CodePen</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://codepen.io/">CodePen</a> is a browser-based code-sharing platform for front-end web designers and developers. It is great for inspiration, education, and sharing code. You can quickly and easily conduct tests, show off your latest creations and get feedback from your peers, and find coded examples of design patterns.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/6mAXyqO-pVQ" target="_blank" rel="noreferrer noopener">Watch Video Introduction</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://codepen.io/">Go to Codepen.io</a></div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Codepen Links</h3>
+
+
+
+<ul><li><a href="https://codepen.io/">Codepen.io</a><ul><li><a href="https://codepen.io/kccnma/">Instructor’s pens (kccnma)</a></li><li>Some instructor pens to check out:<ul><li>Learning Exercises:<ul><li><a href="https://codepen.io/kccnma/pen/OzpyLP">Intro to HTML Exercise – Test without Markup</a></li><li><a href="https://codepen.io/kccnma/pen/ZwOVbZ">Normal Flow: Block and Inline level elements</a></li><li><a href="https://codepen.io/kccnma/pen/xMjyZK">Exercise: Simple Horizontal Centering</a></li><li><a href="https://codepen.io/kccnma/pen/mvLzBw">Exercise: Simple Horizontal and Vertical Centering with Flexbox</a></li><li><a href="https://codepen.io/kccnma/pen/geqbwR">Box Model and Box Sizing</a></li><li><a href="https://codepen.io/kccnma/pen/XxNmLY">Base Typography with a Traditional Typographic Scale</a></li><li><a href="https://codepen.io/kccnma/pen/WMYdEZ">Example Typographic Specimen</a></li><li><a href="https://codepen.io/kccnma/pen/xpemKN">Intro to Divs (Div Test) Exercise</a></li><li><a href="https://codepen.io/kccnma/pen/KQKEzr">CSS Positioning Test: Inline-Blocks</a></li><li><a href="https://codepen.io/kccnma/pen/ppQdmo?editors=1100">Intro to CSS Exercise &#8211; Simple HTML web page with base CSS</a></li></ul></li><li>Design Pattern Examples:<ul><li><a href="https://codepen.io/kccnma/pen/aXQZOP">Buttons</a></li><li><a href="https://codepen.io/kccnma/pen/eMgPWY">Simple Header</a></li><li><a href="https://codepen.io/kccnma/pen/aGbXXj">Custom Numbered List: Circled Numbers</a></li><li><a href="https://codepen.io/kccnma/pen/yjyMNG">Custom Numbered List: Stacked Oversized Numbers</a></li><li><a href="https://codepen.io/kccnma/pen/RwaGexr">Layout Example: Media/Post Objects List &#8211; Different Variations</a></li><li><a href="https://codepen.io/kccnma/pen/VEvajO">Layout Example: Media/Post Objects List – CSS Grid w/ Flexbox Fallback</a></li><li><a href="https://codepen.io/kccnma/pen/OJNLvwv">Accordion &#8211; via Detail + Summary Elements with Added Styling</a></li><li><a href="https://codepen.io/kccnma/pen/vbbZWq?editors=1100">Animated Gradient Background Colors</a></li></ul></li><li>Fun Stuff:<ul><li><a href="https://codepen.io/collection/XBwkbM">Collection &#8211; Text Effects</a></li><li><a href="https://codepen.io/kccnma/pen/eYzVgRg">Randomized Floating Shapes</a> (Forked)</li><li><a href="https://codepen.io/kccnma/pen/KKVvvgd">Youtube Video Background</a></li></ul></li></ul></li></ul></li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">696</post-id>	</item>
+	</channel>
+</rss>

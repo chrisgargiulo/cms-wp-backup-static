@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Educational Resources &#8211; CMS</title>
+	<atom:link href="../category/educational/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 14 Feb 2019 00:21:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Educational Resources &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Microsoft Dev Collective</title>
+		<link>..//microsoft-dev-collective/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 14 Feb 2019 00:21:52 +0000</pubDate>
+				<category><![CDATA[Educational Resources]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2272</guid>
+
+					<description><![CDATA[Microsoft Dev Collective is a collection of learning resources for web developers managed by Microsoft.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://developer.microsoft.com/en-us/collective">Microsoft Dev Collective</a> is a collection of learning resources for web developers managed by Microsoft.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2272</post-id>	</item>
+		<item>
+		<title>Anatomy of Code</title>
+		<link>..//anatomy-of-code/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2018 19:00:15 +0000</pubDate>
+				<category><![CDATA[Educational Resources]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/anatomy-of-code/</guid>
+
+					<description><![CDATA[Anatomy of Code is a well-designed introduction and reference for JavaScript. It contains a list of key JS elements and features, each with a brief description and code examples.]]></description>
+										<content:encoded><![CDATA[<p>Anatomy of Code is a well-designed introduction and reference for JavaScript. It contains a list of key JS elements and features, each with a brief description and code examples.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1609</post-id>	</item>
+		<item>
+		<title>CreativeLive</title>
+		<link>..//creativelive/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 20:20:42 +0000</pubDate>
+				<category><![CDATA[Educational Resources]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/creativelive/</guid>
+
+					<description><![CDATA[CreativeLive is an online education platform that broadcasts live classes to an international audience. Learn something new today!]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.creativelive.com/"><img decoding="async" fetchpriority="high" class="size-medium" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/CreativeLive_Logo_2014.jpg" width="2600" height="1933" /></a></p>
+<p>CreativeLive is an online education platform that broadcasts live classes to an international audience. Learn something new today!</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">813</post-id>	</item>
+		<item>
+		<title>W3 Schools</title>
+		<link>..//w3-schools/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 22:56:43 +0000</pubDate>
+				<category><![CDATA[Educational Resources]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/w3-schools/</guid>
+
+					<description><![CDATA[W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, and SQL, covering many aspects of web programming. The site derives its name from the World Wide Web (W3), but is not affiliated with the W3C. W3Schools Resources: W3Schools HTML Tutorial HTML Tag List]]></description>
+										<content:encoded><![CDATA[<p>W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, and SQL, covering many aspects of web programming. The site derives its name from the World Wide Web (W3), but is not affiliated with the W3C.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<p>W3Schools Resources:</p>
+<ul>
+<li><a href="https://www.w3schools.com/html/default.asp">W3Schools HTML Tutorial</a></li>
+<li><a href="https://www.w3schools.com/tags/default.asp">HTML Tag List</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">693</post-id>	</item>
+	</channel>
+</rss>

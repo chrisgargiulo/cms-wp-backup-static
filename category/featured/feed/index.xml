@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Featured &#8211; CMS</title>
+	<atom:link href="../category/featured/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Wed, 08 Jan 2020 23:46:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Featured &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>StatCounter Global Stats</title>
+		<link>..//statcounter-global-stats/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2020 23:45:00 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">..//?p=3455</guid>
+
+					<description><![CDATA[StatCounter Global Stats are brought to you by&#160;StatCounter, a free, online user statistics tool. StatCounter measures internet usage trends. We track which browsers are actually used most. To accurately measure browser usage, we base our stats on page views (and not unique visitors). This means we take account of how frequently browsers are used and &#8230;<p class="read-more"> <a class="" href="../statcounter-global-stats/"> <span class="screen-reader-text">StatCounter Global Stats</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://gs.statcounter.com/">StatCounter Global Stats</a> are brought to you by&nbsp;<a href="http://statcounter.com/">StatCounter</a>, a free, online user statistics tool.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>StatCounter measures internet usage trends. We track which browsers are actually used most. To accurately measure browser usage, we base our stats on page views (and not unique visitors). This means we take account of how frequently browsers are used and we also track multi-browser usage by individuals.</p><cite><a href="https://gs.statcounter.com/factsheet">StatCounter Fact Sheet</a></cite></blockquote>
+
+
+
+<p>url: <a href="https://gs.statcounter.com/">https://gs.statcounter.com/</a></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3455</post-id>	</item>
+		<item>
+		<title>Interaction Design Foundation</title>
+		<link>..//interaction-design-foundation/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2018 20:16:13 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/interaction-design-foundation/</guid>
+
+					<description><![CDATA[Interaction Design Foundation (IDF) is a site with a wealth of web design related resources across multiple topics (e.g. usability, UX, UI, etc). https://www.interaction-design.org/ Online encyclopedia/book collection of readings: IDF&#8217;s Encyclopedia of Human-Computer Interaction Topics include: IDF: Web Design IDF: User Centered Design IDF: Usability IDF: Human-Computer Interaction (HCI) IDF: Information Architecture (IA) IDF: Information Visualization &#8230;<p class="read-more"> <a class="" href="../interaction-design-foundation/"> <span class="screen-reader-text">Interaction Design Foundation</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Interaction Design Foundation (IDF) is a site with a wealth of web design related resources across multiple topics (e.g. usability, UX, UI, etc). <a href="https://www.interaction-design.org/">https://www.interaction-design.org/</a></p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<p>Online encyclopedia/book collection of readings:</p>
+<ul>
+<li><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed">IDF&#8217;s Encyclopedia of Human-Computer Interaction</a></li>
+</ul>
+<p>Topics include:</p>
+<ul>
+<li><a href="https://www.interaction-design.org/literature/topics/web-design">IDF: Web Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF: User Centered Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/usability">IDF: Usability</a></li>
+<li><a href="https://www.interaction-design.org/courses/human-computer-interaction">IDF: Human-Computer Interaction (HCI)</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/information-architecture">IDF: Information Architecture (IA)</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/information-visualization">IDF: Information Visualization</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/ux-design">IDF: User Experience (UX) Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/wireframing">IDF: Wireframing</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/visual-design">IDF: Visual Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/design-principles">IDF: Design Principles</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/ui-design">IDF: User Interface (UI) Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">IDF: User Interface (UI) Design Patterns</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/responsive-design">IDF: Responsive Design</a></li>
+</ul>
+<p>Sample articles:</p>
+<ul>
+<li><a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">IDF&#8217;s 5 Stages in the Design Thinking Process</a></li>
+<li><a href="https://www.interaction-design.org/literature/topics/brainstorming">IDF&#8217;s Brainstorming Resources</a></li>
+<li><a href="https://www.interaction-design.org/literature/article/10-great-sites-for-ui-design-patterns">IDF&#8217;s 10 Great Sites for UI Design Patterns</a></li>
+<li><a href="https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design">IDF&#8217;s The Building Blocks of Visual Design</a></li>
+<li><a href="https://www.interaction-design.org/literature/article/bad-design-vs-good-design-5-examples-we-can-learn-frombad-design-vs-good-design-5-examples-we-can-learn-from-130706">IDF&#8217;s Bad Design vs. Good Design: 5 Examples We can Learn From</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1319</post-id>	</item>
+		<item>
+		<title>U.S. Web Design Standards</title>
+		<link>..//u-s-web-design-standards/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 23:52:38 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/u-s-web-design-standards/</guid>
+
+					<description><![CDATA[U.S. Web Design Standards web site with resources related to the U.S. Standards design system that allows federal agencies to quickly prototype and deploy digital products using a baseline of design patterns.]]></description>
+										<content:encoded><![CDATA[<p>U.S. Web Design Standards web site with resources related to the U.S. Standards design system that allows federal agencies to quickly prototype and deploy digital products using a baseline of design patterns.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">852</post-id>	</item>
+		<item>
+		<title>Usability.gov</title>
+		<link>..//usability-gov/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 23:43:51 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/usability-gov/</guid>
+
+					<description><![CDATA[Usability.gov is a resource for user experience (UX) best practices and guidelines, serving practitioners and students in the government and private sectors.  The site provides overviews of the user-centered design process  and various UX disciplines. It also covers the related information on methodology and tools for making digital content more usable and useful. Usability.gov Resources: Usability.gov Methods: Develop a Project Plan Project Management &#8230;<p class="read-more"> <a class="" href="../usability-gov/"> <span class="screen-reader-text">Usability.gov</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Usability.gov is a resource for user experience (UX) best practices and guidelines, serving practitioners and students in the government and private sectors.  The site provides overviews of the <a id="anch_22" href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">user-centered design process</a>  and various <a id="anch_23" href="https://www.usability.gov/what-and-why/user-experience.html">UX disciplines</a>. It also covers the related information on <a id="anch_24" href="https://www.usability.gov/how-to-and-tools/index.html">methodology and tools</a> for making digital content more usable and useful.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<h3>Usability.gov Resources:</h3>
+<ul>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/index.html">Usability.gov Methods</a>:
+<ul>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/develop-plan.html">Develop a Project Plan</a></li>
+<li><a href="https://www.usability.gov/what-and-why/project-management.html">Project Management Basics</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html">Kick-Off Meeting</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/requirements.html">Website Requirements</a></li>
+<li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">User Design Basics</a></li>
+<li><a href="https://www.usability.gov/what-and-why/user-research.html">User Research</a></li>
+<li><a id="anch_29" href="https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html">Heuristic Evaluation/Expert Review</a></li>
+<li><a id="anch_27" href="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html">Online Surveys</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">Focus Groups</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html">Individual Interviews</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html">Contextual Interview</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">Personas</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/use-cases.html">Use Cases</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a></li>
+<li><a href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">User Centered Design Process Map</a></li>
+</ul>
+</li>
+</ul>
+<h3>HHS.gov Resources:</h3>
+<ul>
+<li><a href="https://webstandards.hhs.gov/guidelines/">Usability Guidelines</a> from <a href="https://webstandards.hhs.gov/">HHS.gov Web Standards and Usability Guidelines</a>
+<ul>
+<li><a href="https://webstandards.hhs.gov/guidelines/2">Establish User Requirements</a></li>
+<li><a href="https://webstandards.hhs.gov/guidelines/3">Understand and Meet User&#8217;s Expectations</a></li>
+<li><a href="https://webstandards.hhs.gov/guidelines/5">Set and State Goals</a></li>
+<li><a href="https://webstandards.hhs.gov/guidelines/7">Consider Many User Interface Issues</a></li>
+<li><a href="https://webstandards.hhs.gov/guidelines/9">Set Usability Goals</a></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">850</post-id>	</item>
+		<item>
+		<title>Nielsen Norman Group</title>
+		<link>..//nielsen-norman-group/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 06:48:53 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/nielsen-norman-group/</guid>
+
+					<description><![CDATA[An Evidence-Based User Experience Research, Training, and Consulting Firm. NN/g is a leading voice in the user experience field: conducting research, evaluating interfaces, and guiding design decisions. People at NN/G: Jakob Nielsen Donald Norman Articles at NN/G: Jakob Nielsen&#8217;s Top 10 Mistakes in Web Design A short list of egregious offenses against users, such as Bad &#8230;<p class="read-more"> <a class="" href="../nielsen-norman-group/"> <span class="screen-reader-text">Nielsen Norman Group</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>An Evidence-Based User Experience Research, Training, and Consulting Firm. NN/g is a leading voice in the user experience field: conducting research, evaluating interfaces, and guiding design decisions.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<h3>People at NN/G:</h3>
+<ul>
+<li><a href="https://www.creativemedia.space/jakob-nielson/">Jakob Nielsen</a></li>
+<li><a href="https://www.creativemedia.space/donald-norman/">Donald Norman</a></li>
+</ul>
+<h3>Articles at NN/G:</h3>
+<ul>
+<li><a href="https://www.nngroup.com/articles/top-10-mistakes-web-design/"><strong>Jakob Nielsen&#8217;s Top 10 Mistakes in Web Design</strong></a><br />
+A short list of egregious offenses against users, such as Bad Search, PDF files for online reading, not changing the color of visited links, non-scannable text (the &#8220;wall of text&#8221;), fixed font sizes, poor page titles, anything that looks like an ad, violating design conventions, opening new browser windows, and not answering user questions.</li>
+<li><a href="https://www.nngroup.com/articles/ten-good-deeds-in-web-design/"><strong>Jakob Nielsen&#8217;s 10 Good Deeds in Web Design</strong></a><br />
+Ten design elements that would increase the usability of all websites if they were employed more widely. List includes things such as placing your name and logo on every page and make the logo a link to the home page, providing search if the site has more than 100 pages, and writing straightforward and simple headlines and page titles.</li>
+<li><a href="https://www.nngroup.com/articles/top-10-ia-mistakes/"><strong>Jakob Nielsen&#8217;s Top 10 Information Architecture (IA) Mistakes</strong></a><br />
+Structure and navigation must support each other and integrate with search and across subsites. Complexity, inconsistency, hidden options, and clumsy UI mechanics prevent users from finding what they need.</li>
+<li><a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/"><strong>Jakob Nielsen&#8217;s Usability 101: Introduction to Usability</strong></a><br />
+Usability is a quality attribute that assesses how easy user interfaces are to use. The word &#8220;usability&#8221; also refers to methods for improving ease-of-use during the design process. Usability is defined by 5 quality components: Learnability, Efficiency, Memorability, Errors, and Satisfaction.</li>
+<li><a href="https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/"><strong>Jakob Nielsen&#8217;s Top 10 Guidelines for Homepage Usability</strong></a><br />
+The homepage is often times the starting point for user visits. Improving the homepage multiplies the entire website&#8217;s value, so following key guidelines for homepage usability is important.</li>
+<li><a href="https://www.nngroup.com/articles/most-violated-homepage-guidelines/"><strong>Jakob Nielsen&#8217;s 10 Most Violated Homepage Design Guidelines</strong></a><br />
+A short list of ten usability mistakes that about two-thirds of corporate websites make, according to Nielsen Norman Group. The prevalence of these errors alone warrants attention.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">729</post-id>	</item>
+	</channel>
+</rss>

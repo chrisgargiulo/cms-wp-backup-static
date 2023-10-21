@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Web Design &#8211; CMS</title>
+	<atom:link href="../category/web-design/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Fri, 15 Sep 2023 00:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Web Design &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Figma</title>
+		<link>..//figma/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 00:07:25 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">..//?p=4457</guid>
+
+					<description><![CDATA[Figma (https://figma.com)/ is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).]]></description>
+										<content:encoded><![CDATA[
+<p>Figma (<a href="https://figma.com/">https://figma.com/</a>) is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4457</post-id>	</item>
+	</channel>
+</rss>

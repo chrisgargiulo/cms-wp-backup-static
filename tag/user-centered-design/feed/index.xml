@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>User-centered Design &#8211; CMS</title>
+	<atom:link href="../tag/user-centered-design/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Wed, 18 Aug 2021 22:09:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>User-centered Design &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>The Web Design and Development Process</title>
+		<link>..//web-design-dev-process/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2018 18:42:01 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1907</guid>
+
+					<description><![CDATA[A User Centered Design Approach The web design and development process shares several resemblances to the software development process and systems development life cycle and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically &#8230;<p class="read-more"> <a class="" href="../web-design-dev-process/"> <span class="screen-reader-text">The Web Design and Development Process</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A User Centered Design Approach</h3>
+
+
+
+<p>The web design and development process shares several resemblances to the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a> and <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a> and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces <a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a>and consists of 5 D’s: <em>Define, Draft, Design, Develop, and Deliver.</em></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/2G_Ra_TLx4E" target="_blank" rel="noreferrer noopener">View Video Lesson</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>User-centered design (UCD)</strong>&nbsp;or&nbsp;<strong>user-driven development (UDD)</strong>&nbsp;is a framework of processes (not restricted to interfaces or technologies) in which usability goals, user characteristics, environment, tasks and workflow of a product, service or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with/without actual users during each stage of the process from requirements, pre-production models and post production, completing a circle of proof back to and ensuring that “development proceeds with the user as the center of focus.
+</p><cite>–&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">Wikipedia</a></cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" fetchpriority="high" width="1200" height="364" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-ddddd.gif?resize=1200%2C364&#038;ssl=1" alt="Design Process: 5 D's: Define, Draft, Design, Develop, and Deliver" class="wp-image-1375" data-recalc-dims="1"/></figure></div>
+
+
+
+<h3 class="wp-block-heading">A Simplified 5-Step Process:</h3>
+
+
+
+<ol><li><strong>Define</strong>&nbsp;– Define the project, problem(s), and stakeholder’s primary goals via the project brief. Gather background info to define user profiles, goals, and tasks.</li><li><strong>Draft</strong>&nbsp;– Brainstorm conceptual solutions; draft the information architecture, site-maps, wireframes, prototypes, content hierarchy, and structure.</li><li><strong>Design</strong>&nbsp;– Visualize and communicate the user interface design via mood boards, type studies, color studies, prototypes, iterative mockups, and multiple rounds of refinements.</li><li><strong>Develop</strong>&nbsp;– Build the interactive, fully functioning product using web standard compliant, accessible, valid, semantic markup, styling, and scripting.</li><li><strong>Deliver</strong>&nbsp;– Via due diligence, fix all bugs and conduct multiple tests for quality assurance across multiple platforms, browsers, devices, and screen-sizes.</li></ol>
+
+
+
+<h2 class="wp-block-heading">A Brief Backstory</h2>
+
+
+
+<p><em>Preceding Influential Models</em></p>
+
+
+
+<p>One of the most notable approaches that predates web development is the&nbsp;<a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="1200" height="264" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-waterfall.gif?resize=1200%2C264&#038;ssl=1" alt="A waterfall process" class="wp-image-1379" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>A waterfall process</em></p>
+
+
+
+<p>In the text Usability for the Web (2002), Brinck, Gergle, and Wood illustrated a “Pervasive Usability Process” drafted specifically for web design and development. It consists of five phases that are sequential yet iterative through the process of continual evaluation. The five stages are requirements analysis, conceptual design, mockups and prototypes, production, and launch, and most closely resembles the Five D’s approach above.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="1200" height="419" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-pervasive.gif?resize=1200%2C419&#038;ssl=1" alt="Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process" class="wp-image-1378" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process</em></p>
+
+
+
+<p>In contrast to the waterfall model, other notable approaches are&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, cyclical design and development processes that entail multiple rounds of designing, prototyping, testing, analyzing, and refining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative.gif?resize=1200%2C551&#038;ssl=1" alt="An iterative process" class="wp-image-1377" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>An iterative process</em></p>
+
+
+
+<p>In recent years, the&nbsp;<a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development process</a>&nbsp;has had a big impact on web design and development. It embraces adaptive planning, evolutionary development, early delivery, and continuous improvement. Designed for speed, it encourages rapid and flexible responses to change throughout the process.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif?resize=1200%2C551&#038;ssl=1" alt="A combined iterative and incremental “5 D” process influenced by multiple models." class="wp-image-1376" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><br>
+<em>A combined iterative and incremental “5 D” process influenced by multiple models.</em></p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>There is no one-size-fits-all web design and development process. However, there are several existing models to follow as frameworks that embrace different principles related to user-centered design.</p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Via Wikipedia:
+<ul><li><a href="https://en.wikipedia.org/wiki/Software_development_process">Software development process</a><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li><li><a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">Systems development life cycle</a></li><li><a href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall model</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_design">Iterative Design</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">Iterative and incremental development</a></li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Go Further</h3>
+
+
+
+<ul><li>Familiarize yourself with&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">User Centered Design</a></li><li><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF’s User-centered Design</a> (includes a good video on <strike>User</strike> Human Centered Design)</li><li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">Usability.gov’s User Centered Design Basics</a></li><li>Read&nbsp;IDF’s&nbsp;<a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">5 Stages in the Design Thinking Process</a></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1907</post-id>	</item>
+		<item>
+		<title>Quality Assurance Checklist</title>
+		<link>..//lesson-qa-checklist/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 24 Apr 2018 14:18:03 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1771</guid>
+
+					<description><![CDATA[Pre-launch QA Diligence Prior to the launch of web sites both big and small, there are several techniques and best practices to help ensure the delivery of a quality product that is performant and bug free. Often times addressed toward the end of a project, one of the most commonly used terms to describe this &#8230;<p class="read-more"> <a class="" href="../lesson-qa-checklist/"> <span class="screen-reader-text">Quality Assurance Checklist</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Pre-launch QA Diligence</h3>
+
+
+
+<p>Prior to the launch of web sites both big and small, there are several techniques and best practices to help ensure the delivery of a quality product that is performant and bug free. Often times addressed toward the end of a project, one of the most commonly used terms to describe this step of the process is <em>quality assurance</em>, or <em>QA</em>.</p>
+
+
+
+<span id="more-1771"></span>
+
+
+
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/WK4BuPXNXBQ">View Video Lesson</a></div>
+</div>
+
+
+
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>Quality assurance (QA)</strong> is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering solutions or services to customers<br> – <a href="https://en.wikipedia.org/wiki/Quality_assurance">Wikipedia</a></p></blockquote>
+
+
+
+<h2 class="wp-block-heading">Bug Tracking</h2>
+
+
+
+<p><em>Validate, Fix Errors, Manage Enhancements</em></p>
+
+
+
+<ul><li>Track and Prioritize your Bugs and Tasks <ul><li>Online tools: Google Spreadsheets (<a href="https://docs.google.com/spreadsheets/d/1mHutADPn3odgTXmKIdpQCUIQdEGx_lnlLXhWauReM8k/edit?usp=sharing">Example QA Bug Tracking Sheet</a>), Trello Boards (<a href="https://trello.com/b/ppAc7F3k/project-bug-tracking-list">Example Trello Bug Tracking Board</a>), <a href="https://guides.github.com/features/issues/">Github Issues</a>, etc. </li></ul></li><li>Validate your code <ul><li><a href="https://validator.w3.org/">Validate HTML</a></li><li><a href="http://jigsaw.w3.org/css-validator/">Validate CSS</a></li><li><a href="http://wave.webaim.org/">Validate Accessibility</a> (Section 508 compliance) <ul><li>Provide &#8220;equivalent&#8221; experience to all users. For example:<ul><li>make sure all img alt tags are appropriate</li><li>make sure the site can be viewed/navigated via keyboard (hitting the tab key)</li></ul></li><li>Check out online resources, such as:&nbsp;The <a href="https://www.w3.org/WAI/">W3C Web Accessibility Initiative (WAI)</a> and <a href="https://www.w3.org/WAI/yourWAI">their list of resources</a>, the&nbsp;<a href="https://a11yproject.com/">A11Y Project</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA">ARIA</a>, etc.  </li></ul></li></ul></li><li>Test in multiple Platforms, Browsers, Screen Sizes, and Devices <ul><li>Example of online Tools: <a href="https://www.browserling.com/">Browserling</a>, <a href="https://netrenderer.com/index.php">Netrenderer</a>, <a href="https://saucelabs.com/">Sauce Labs</a>, <a href="https://www.browserstack.com/pricing?tab=browser-plans-tab">Browserstack</a>, <a href="http://browsershots.org/">Browsershots</a>, <a href="https://developers.google.com/web/tools/chrome-devtools/device-mode/">Chrome&#8217;s Device Mode</a> </li></ul></li></ul>
+
+
+
+<h2 class="wp-block-heading">Performance Enhancements</h2>
+
+
+
+<p><em>Techniques to improve the speed of your site</em></p>
+
+
+
+<ul><li>Test your site at <a href="https://web.dev/">web.dev&nbsp;</a>and <a href="https://developers.google.com/speed/pagespeed/insights/">Google Page Speed Insights</a></li><li>Conduct a site audit for K size of all assets</li><li>Optimize all media (e.g. images, videos, etc). Example: manually adjust via Photoshop&#8217;s Save for the web (legacy). <ul><li>Recommended Image Formats: <ul><li>jpg (for images/raster photos with lots of color)</li><li>gif (for images/illustration with under 256 colors)</li><li>png-24 (for images that require alpha transparency </li></ul></li><li>Consider using a CDN that provides responsive media out-of-the-box (e.g. <a href="https://cloudinary.com/" data-type="URL" data-id="https://cloudinary.com/">Cloudinary</a>)</li></ul></li></ul>
+
+
+
+<ul><li>Minify all local dependencies (html, css, and js)</li><li>Considerations: <ul><li>Consider using a CDN (e.g. <a href="https://www.netlify.com/">Netlify</a> for static site hosting)</li><li>Consider using a <a href="https://www.smashingmagazine.com/2015/08/understanding-critical-css/">critical css</a> file</li><li>Consider file compression (e.g. gzip) </li></ul></li></ul>
+
+
+
+<h2 class="wp-block-heading">Due Diligence</h2>
+
+
+
+<p><em>Style guides, code clean-up, and more&#8230;</em></p>
+
+
+
+<ul><li>Refactor all code by removing any redundant or unnecessary code.
+<ul><li>Remove unused markup (html)</li><li>Remove unused styling (css)</li><li>Concatenate your Javascript into one js file</li></ul>
+</li><li>Consider creating in-house style guidelines &amp; documention (for internal developer use and/or client use).</li></ul>
+
+
+
+<h2 class="wp-block-heading">Quick Checklist</h2>
+
+
+
+<ol><li>Is your HTML &amp; CSS validating with no errors?</li><li>Is your site Section 508 Compliant?</li><li>Have you tested on Multiple Platforms, Browsers, Devices, and Screen Sizes?
+<ul><li>Mac and PC</li><li>Chrome, Firefox, Safari, IE, Edge</li><li>Large Monitor, Laptop Display, Tablet, Mobile (including portrait &amp; landscape views)</li><li>iOS and Android</li></ul>
+</li><li>Have you done a site audit and optimized all assets and media (images, videos, etc.)?</li></ol>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1771</post-id>	</item>
+		<item>
+		<title>Jakob Nielson</title>
+		<link>..//jakob-nielson/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 21:44:09 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/jakob-nielson/</guid>
+
+					<description><![CDATA[Usability expert behind Nielsen Norman Group (NN/G) and Alertbox, Jakob Nielsen, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with Dr. Donald A. Norman (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has &#8230;<p class="read-more"> <a class="" href="../jakob-nielson/"> <span class="screen-reader-text">Jakob Nielson</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Usability expert behind <a href="https://www.nngroup.com/">Nielsen Norman Group (NN/G)</a> and Alertbox, <a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a>, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with <a href="https://www.nngroup.com/people/don-norman/">Dr. Donald A. Norman</a> (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has invented several usability methods, including heuristic evaluation. He holds 79 United States patents, mainly on ways of making the Internet easier to use.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<h3>Articles by Jakob Nielsen at NN/G:</h3>
+<ul>
+<li><a href="https://www.nngroup.com/articles/top-10-mistakes-web-design/"><strong>Jakob Nielsen&#8217;s Top 10 Mistakes in Web Design</strong></a><br />
+A short list of egregious offenses against users, such as Bad Search, PDF files for online reading, not changing the color of visited links, non-scannable text (the &#8220;wall of text&#8221;), fixed font sizes, poor page titles, anything that looks like an ad, violating design conventions, opening new browser windows, and not answering user questions.</li>
+<li><a href="https://www.nngroup.com/articles/ten-good-deeds-in-web-design/"><strong>Jakob Nielsen&#8217;s 10 Good Deeds in Web Design</strong></a><br />
+Ten design elements that would increase the usability of all websites if they were employed more widely. List includes things such as placing your name and logo on every page and make the logo a link to the home page, providing search if the site has more than 100 pages, and writing straightforward and simple headlines and page titles.</li>
+<li><a href="https://www.nngroup.com/articles/top-10-ia-mistakes/"><strong>Jakob Nielsen&#8217;s Top 10 Information Architecture (IA) Mistakes</strong></a><br />
+Structure and navigation must support each other and integrate with search and across subsites. Complexity, inconsistency, hidden options, and clumsy UI mechanics prevent users from finding what they need.</li>
+<li><a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/"><strong>Jakob Nielsen&#8217;s Usability 101: Introduction to Usability</strong></a><br />
+Usability is a quality attribute that assesses how easy user interfaces are to use. The word &#8220;usability&#8221; also refers to methods for improving ease-of-use during the design process. Usability is defined by 5 quality components: Learnability, Efficiency, Memorability, Errors, and Satisfaction.</li>
+<li><a href="https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/"><strong>Jakob Nielsen&#8217;s Top 10 Guidelines for Homepage Usability</strong></a><br />
+The homepage is often times the starting point for user visits. Improving the homepage multiplies the entire website&#8217;s value, so following key guidelines for homepage usability is important.</li>
+<li><a href="https://www.nngroup.com/articles/most-violated-homepage-guidelines/"><strong>Jakob Nielsen&#8217;s 10 Most Violated Homepage Design Guidelines</strong></a><br />
+A short list of ten usability mistakes that about two-thirds of corporate websites make, according to Nielsen Norman Group. The prevalence of these errors alone warrants attention.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>Donald Norman</title>
+		<link>..//donald-norman/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 06:44:17 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/donald-norman/</guid>
+
+					<description><![CDATA[Author of The Design of Everyday Things,  Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the Nielsen Norman Group. &#160;]]></description>
+										<content:encoded><![CDATA[<p>Author of <em>The Design of Everyday Things, </em> Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the <a href="https://www.nngroup.com/">Nielsen Norman Group</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">728</post-id>	</item>
+	</channel>
+</rss>

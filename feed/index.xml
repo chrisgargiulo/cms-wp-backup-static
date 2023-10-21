@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>CMS</title>
+	<atom:link href="../feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Fri, 15 Sep 2023 00:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Figma</title>
+		<link>..//figma/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 00:07:25 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">..//?p=4457</guid>
+
+					<description><![CDATA[Figma (https://figma.com)/ is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).]]></description>
+										<content:encoded><![CDATA[
+<p>Figma (<a href="https://figma.com/">https://figma.com/</a>) is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4457</post-id>	</item>
+		<item>
+		<title>Intro to Design Patterns</title>
+		<link>..//intro-to-design-patterns/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 02:04:15 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<guid isPermaLink="false">..//?p=4221</guid>
+
+					<description><![CDATA[Reusable Solutions to Known Problems In web design, a design pattern is not a visual &#8220;pattern&#8221; (e.g. a background image of repeating shapes and colors). It&#8217;s easy to see how one might immediately think of this when they put the words design and pattern together. Originating from software engineering, a web (UX, UI) design pattern &#8230;<p class="read-more"> <a class="" href="../intro-to-design-patterns/"> <span class="screen-reader-text">Intro to Design Patterns</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Reusable Solutions to Known Problems</h3>
+
+
+
+<p>In web design, a design pattern is not a <em>visual</em> &#8220;pattern&#8221; (e.g. a background image of repeating shapes and colors). It&#8217;s easy to see how one might immediately think of this when they put the words <em>design</em> and <em>pattern</em> together. Originating from software engineering, a <strong>web (UX, UI) design pattern</strong> is a <em>reusable solution</em> to a <em>known problem</em>. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>User interface design patterns are descriptions of&nbsp;best practices&nbsp;within user interface design. They are general, reusable solutions to commonly occurring problems. As such, they form the backbone of “technical support.” However, as design patterns can be applied to a wide variety of instances, designers should adapt them to the&nbsp;specific context&nbsp;of use within&nbsp;each&nbsp;design project.</p><cite><a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">Interaction Design Foundation</a></cite></blockquote>
+
+
+
+<h2 class="wp-block-heading">Common Examples of Interactive UX/UI Design Patterns</h2>
+
+
+
+<ul><li>Common Site Structural Design Patterns / Components:<ul><li>Site Headers</li><li>Site Primary Navigation Bars</li><li>Site Hero Sections aka Banners, Billboards, etc</li><li>Site Footers</li><li>Site Sidebars</li></ul></li><li><a href="http://ui-patterns.com/patterns/modal-windows">Modals</a>/Modal Windows/Overlays (related: Lightboxes)<ul><li>Example implementation: <a href="https://fancyapps.com/fancybox/3/">Fancybox</a></li></ul></li><li><a href="http://ui-patterns.com/patterns/Carousel">Carousels</a> (related:Sliders, <a href="http://ui-patterns.com/patterns/Slideshow">Slideshows</a>)<ul><li>Example implementation: <a href="https://idangero.us/swiper/">Swiper</a></li></ul></li><li><a href="http://ui-patterns.com/patterns/ModuleTabs">Module Tabs</a></li><li>Accordions (e.g. <a href="http://ui-patterns.com/patterns/AccordionMenu">Accordion Menus</a>)</li><li><a href="http://ui-patterns.com/patterns/Breadcrumbs">Breadcrumbs</a></li><li>Drop-down Menus (e.g. <a href="http://ui-patterns.com/patterns/VerticalDropdownMenu">Vertical</a>, <a href="http://ui-patterns.com/patterns/HorizontalDropdownMenu">Horizontal</a>)</li><li>Image <a href="http://ui-patterns.com/patterns/Gallery">Galleries</a> and <a href="http://ui-patterns.com/patterns/Thumbnail">Thumbnails</a></li><li>Mobile Toggle Navs<ul><li>Example: <a href="https://codepen.io/bradfrost/full/sHvaz">Toggle Menu Codepen</a></li></ul></li><li>Etc.</li><li><em>&#8230; (there are many, many more)</em></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Design Pattern Example: Site Headers</h3>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; Site Branding, Identity, &amp; Navigation</h4>
+
+
+
+<p>There are many different ways to structure and style your site header. Since it is is at the top of the interface, the site header plays an important role in establishing the site brand, identity, and navigational system. Below are a few different options to consider when customizing your site header.</p>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; Information Architecture (IA)</h4>
+
+
+
+<p>When it comes to site headers, one of the first decisions that web designers need to make is what content will be included within the header. Common elements and related concerns often times include:</p>
+
+
+
+<ul><li>Site Name<ul><li>often times located in the top-left corner</li><li>clickable/linkable to the home page (e.g. href=&#8221;index.html&#8221;)</li></ul></li><li>Logo<ul><li>if there are multiple versions, which version of the logo should be included here?</li><li>Logo + Site name? Logo only?</li><li>Responsive logo? (e.g. see <a href="http://responsivelogos.co.uk/">responsive logos</a>)</li></ul></li><li>Navigation (Main Menu)<ul><li>How many sub pages should be included?</li><li>Should a link to &#8220;Home&#8221; also be included within the nav?</li><li>Should third-level pages also be included (e.g. via drop down menus)?</li><li>Any call-to-action buttons (e.g. &#8220;Sign in&#8221;)</li></ul></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; User Experience Design (UX)</h4>
+
+
+
+<p>How will the user interact with the header? How should the site header behave? Should it always be fixed at the top? or scroll away? Should it appear large at first when the user is at the top of the page, but then shrink in size as the user scrolls down? Should the header expand when the user hovers or clicks on certain parts of it (e.g. navigation items)? Where should the site identity/logo be placed? Top center? Top Left? How will users know what page they are on? Should the site header include a visual indicator to provide feedback to the user what page you are on? Will there be any changes to the user experience for small screens? extra large screens?</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Headers &amp; User Interface Design (UI)</h4>
+
+
+
+<p>What color should the site header be? What color should the text be? What typography works well to both communicate the brand and be usable/readable/legible? Should the site identity text be different (e.g. larger? bolder?) than the navigation text? What should the layout be? Header left-aligned and navigation right-aligned? Both centered and stacked? Should each element align to a grid? Should they align to a baseline? How should the site look on small screens? extra large screens?</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Header Visual Examples</h4>
+
+
+
+<p>Below are a few examples of site headers that visually illustrate some of the concepts and questions from above.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1027" height="442" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=1027%2C442&#038;ssl=1" alt="" class="wp-image-3662" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?w=1027&amp;ssl=1 1027w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=300%2C129&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples1.png?resize=768%2C331&amp;ssl=1 768w" sizes="(max-width: 1027px) 100vw, 1027px" data-recalc-dims="1" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1043" height="572" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=1043%2C572&#038;ssl=1" alt="" class="wp-image-3661" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?w=1043&amp;ssl=1 1043w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/siteheader-examples2.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1043px) 100vw, 1043px" data-recalc-dims="1" /></figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/eMgPWY">Simple Header</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='eMgPWY' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/eMgPWY/">Simple Header</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/dqQPor">Simple Header: Responsive w/ Flexbox</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='dqQPor' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/dqQPor/">Simple Header: Responsive w/ Flexbox</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/RMKYOK">Simple Header w/ Inline Image Logo</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='RMKYOK' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/RMKYOK/">Simple Header w/ Inline Image Logo</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/aYJZYE">Simple Header with Inline Image Logo and Hidden HTML Text</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='aYJZYE' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/aYJZYE/">Simple Header with Inline Image Logo and Hidden HTML Text</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/BrpqRP">Simple Header w/ CSS Image Background Logo (Leahy Technique)</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='BrpqRP' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/BrpqRP/">Simple Header w/ CSS Image Background Logo (Leahy Technique)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p class="has-text-align-left"><a href="https://codepen.io/kccnma/pen/bPOaYV">Simple Header with CSS3 Animation</a></p>
+
+
+<p class='codepen'  data-height='180' data-theme-id='0' data-slug-hash='bPOaYV' data-default-tab='result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/bPOaYV/">Simple Header with CSS3 Animation</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Design Pattern Example: Site Hero Sections</h3>
+
+
+
+<h4 class="wp-block-heading">Site Hero Sections aka Large Image Banners</h4>
+
+
+
+<p>Website hero sections, also known as hero banners and hero images, are typically large, prominently placed images and text that are often times the first thing that a user sees and therefore an opportunity for web designers and content creators to communicate important messages to the user. Similar to advertisements, hero sections often times will contain targeted marketing material, visually powerful imagery, creative copywriting, and distinct calls to action (e.g. large buttons).</p>
+
+
+
+<blockquote class="wp-block-quote"><p>In web design, a&nbsp;<strong>hero image</strong>&nbsp;is a large&nbsp;<a href="https://en.wikipedia.org/wiki/Web_banner">web banner</a>&nbsp;image, prominently placed on a web page, generally in the front and center.&nbsp;The hero image is often the first visual element a visitor encounters on the site; it presents an overview of the site&#8217;s most important content. A hero image often consists of image and text, and can be static or dynamic (e.g. a rotating list of images and/or topics).<br>The content presented varies with the purpose of the site: it can be relevant news about the site, specific site-links, or—in the case of e-commerce—the best-selling or strategically placed products or services.</p><cite><a href="https://en.wikipedia.org/wiki/Hero_image">Wikipedia</a></cite></blockquote>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Qualities</h4>
+
+
+
+<ul><li><strong>Prominently positioned</strong> at prime real estate locations of web pages: typically at the <em>top</em> and <em>centered</em> </li><li><strong>Prominently sized</strong> often times with <em>large imagery </em>and<em> large typography</em></li><li>Often times <em>the first thing a user sees</em></li><li>Provides an opportunity to:<ul><li>highlight important content</li><li>communicate an important message</li><li>direct a users to important parts of a site</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Content Variations</h4>
+
+
+
+<p>The content for hero sections will vary from site to site, often times with a combination of the following:</p>
+
+
+
+<ul><li>Large Imagery<ul><li>Photography</li><li>Illustration </li><li>Product(s)</li><li>Large Logos, Icons, &amp; Infographics </li></ul></li><li>Large Imagery + Text<ul><li>Photography as Background Image (CSS), Text on Top (HTML)</li><li>Text + Call-to-Action (CTA) Button(s)</li></ul></li><li>Large Videos + Text<ul><li>Promotional Videos</li><li>Aesthetic Background Videos</li><li>Motion Graphics</li><li>Animated InfoGraphics</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Layout Variations</h4>
+
+
+
+<p>The layout and presentational style of hero sections will vary depending upon the content. Below are some common hero section layout variations:</p>
+
+
+
+<ul><li>Centered <em>Vertically</em> + <em>Horizontally</em></li><li>Split Layouts (dual content)<ul><li>Vertical Split: E.g. Image Left, Text Right (and vice versa)</li><li>Horizontal Split: E.g. Image Top, Text Bottom (and vice versa)</li></ul></li><li>Extra Large<ul><li>Sometimes fullscreen (100vh)</li><li>Sometimes blends with or includes the header (e.g. logo and navigation rendering on top)</li></ul></li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Related Disciplines &amp; Topics</h4>
+
+
+
+<p>Web designers and developers often times rely on a collaborative team to design effective hero sections. Some of the following area disciplines might play overlapping roles in determining the content, style, and tone of hero messages</p>
+
+
+
+<ul><li>Advertisers<ul><li>Art Directors</li><li>Copy Writers</li></ul></li><li>Artists<ul><li>Photographers</li><li>Illustrators</li><li>Digital Artists (e.g. specialist in creating custom digital imagery and info graphics)</li></ul></li><li>Marketers </li><li>Sales Team Members</li><li>Customer Relations Experts</li><li>UX Professionals</li></ul>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero Examples</h4>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1200" height="606" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=1200%2C606&#038;ssl=1" alt="" class="wp-image-3660" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?w=1325&amp;ssl=1 1325w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider1.png?resize=768%2C388&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.surfrider.org/">Surfrider Foundation&nbsp;</a>Hero: Toxic Algae</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="606" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=1200%2C606&#038;ssl=1" alt="" class="wp-image-3658" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?w=1325&amp;ssl=1 1325w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-surfrider2.png?resize=768%2C388&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.surfrider.org/">Surfrider Foundation</a>&nbsp;Hero: Beach Plastic</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="604" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=1200%2C604&#038;ssl=1" alt="" class="wp-image-3659" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?w=1341&amp;ssl=1 1341w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=300%2C151&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-deepblue.png?resize=768%2C387&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption>Deep Blue Hero: Create an Impact</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="779" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=1200%2C779&#038;ssl=1" alt="" class="wp-image-3657" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?w=1375&amp;ssl=1 1375w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=300%2C195&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-apple-watch.png?resize=768%2C499&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.apple.com/apple-watch-series-4/">Apple Watch</a> Hero Section: Product Image of the Apple Watch (image only, no hero text)</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="615" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=1200%2C615&#038;ssl=1" alt="" class="wp-image-3655" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?w=1279&amp;ssl=1 1279w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=300%2C154&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-gobag.png?resize=768%2C394&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://us.gobag.co/">GoBag</a> Hero Section: Pack Small, Think Big + CTA</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="492" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=1200%2C492&#038;ssl=1" alt="" class="wp-image-3654" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?w=1280&amp;ssl=1 1280w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=300%2C123&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-roverpass.png?resize=768%2C315&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.roverpass.com/">RoverPass</a> Hero Section: Large Imagery + Large Typography + Large Search Field</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="601" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-instapaper-animated.gif?resize=1200%2C601&#038;ssl=1" alt="" class="wp-image-3653" data-recalc-dims="1"/><figcaption><a href="https://www.instapaper.com/">Instapaper</a> Hero Section: Animated Custom Icons</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="657" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=1200%2C657&#038;ssl=1" alt="" class="wp-image-3652" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?w=1278&amp;ssl=1 1278w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-heap.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://heap.io/">Heap</a> Hero Section: Custom Illustration + Large Typography + CTAs</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="566" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=1200%2C566&#038;ssl=1" alt="" class="wp-image-3648" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?w=1281&amp;ssl=1 1281w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-trello.png?resize=768%2C362&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://trello.com/">Trello</a> Hero Section: Custom Illustration + Large Typography + Large CTA</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1174" height="650" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-iolani-animated.gif?resize=1174%2C650&#038;ssl=1" alt="" class="wp-image-3649" data-recalc-dims="1"/><figcaption><a href="https://www.iolani.org/">Iolani School</a> Hero Section: Video</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="659" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=1200%2C659&#038;ssl=1" alt="" class="wp-image-3651" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?w=1285&amp;ssl=1 1285w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-airbnb.png?resize=768%2C422&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.airbnb.com/">Airbnb</a> Hero Section: Large Image + Form</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1200" height="658" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=1200%2C658&#038;ssl=1" alt="" class="wp-image-3650" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?w=1284&amp;ssl=1 1284w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=300%2C164&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/04/hero-example-wix.png?resize=768%2C421&amp;ssl=1 768w" sizes="(max-width: 1200px) 100vw, 1200px" data-recalc-dims="1" /><figcaption><a href="https://www.wix.com/">Wix</a> Hero Section: Photography + Large Typograhy + CTA + Illustration</figcaption></figure>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h4 class="wp-block-heading">Site Hero-related Links &amp; Resources</h4>
+
+
+
+<ul><li><a href="https://uxplanet.org/best-practices-for-hero-images-eeb234b664d6">Best Practices for Hero Images</a> by Nick Babich</li><li><a href="https://www.smashingmagazine.com/2017/06/designing-hero-images/">When Large Isn&#8217;t Large Enough: Designing With Hero Images</a> by Nick Babich</li><li><a href="https://www.optimizely.com/optimization-glossary/hero-image/">What Is A Hero Image?</a> by Optimizely</li><li><a href="https://www.artonicweb.com/learn/hero-images/">2018 Web Design Trend: Hero Images</a> by Ashlee Sayles</li><li><a href="https://www.justinmind.com/blog/10-inspiring-hero-image-websites/">10 inspiring hero image websites</a> by Emily Grace Adiseshiah</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Design Pattern Resources &amp; Links:</h2>
+
+
+
+<ul><li>IDF&#8217;s <a href="https://www.interaction-design.org/literature/topics/ui-design-patterns">What are Design Patterns?</a></li><li><a href="http://ui-patterns.com/">UI-Patterns.com</a></li><li><a href="http://www.welie.com/">Welie Pattern Library</a></li><li><a href="https://patterntap.com/patterntap">Pattern Tap</a></li><li>Brad Frost&#8217;s <a href="https://bradfrost.github.io/this-is-responsive/patterns.html">Responsive Patterns</a></li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4221</post-id>	</item>
+		<item>
+		<title>Intro to Web Hosting</title>
+		<link>..//intro-to-web-hosting/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:39:32 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">..//?p=3890</guid>
+
+					<description><![CDATA[For Web Designers who can Code Where should you host your site? Web designers and web developers are faced with this question all the time. Depending upon the client website, there might be dozens of options to choose from. The best solutions are typically determined based upon the technical requirements for each website the specific &#8230;<p class="read-more"> <a class="" href="../intro-to-web-hosting/"> <span class="screen-reader-text">Intro to Web Hosting</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">For Web Designers who can Code</h2>
+
+
+
+<p>Where should you host your site? Web designers and web developers are faced with this question all the time. Depending upon the client website, there might be dozens of options to choose from. The best solutions are typically determined based upon the technical requirements for each website the specific needs for each client. For those who are new to web design and development, and specifically for UX/UI designers and frontend web developers, to help figure this out it is good to have a basic understanding of how web servers work, a foundation-level of knowledge of web technologies, and a general awareness of the history of web hosting and the companies that specialize in this area. </p>
+
+
+
+<span id="more-3890"></span>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/iugfYplZ0sU" target="_blank" rel="noreferrer noopener">Watch Video Lesson</a></div>
+</div>
+
+
+
+<h3 class="wp-block-heading">Bespoke Websites Only</h3>
+
+
+
+<p>To narrow the scope, this is specifically for aspiring web design students and frontend web developers who are comfortable with HTML, CSS, and JS and are primarily interested in creating bespoke static websites for clients (or themselves) from scratch (e.g. a personal portfolio website) and/or custom child-themed WordPress websites for clients that require a CMS (Content Management System). Therefore let&#8217;s rule out some of the popular &#8220;no coding required&#8221; website builders out there, such as <a href="https://www.squarespace.com/">SquareSpace</a>, <a href="https://www.wix.com/">Wix</a>, and <a href="https://www.weebly.com/">Weebly</a>. Along these lines, it is worth noting that <a href="https://webflow.com/">Webflow</a> is intentionally not listed here, because even though it too is based upon a WYSIWYG UI that requires no coding, it is fully customizable, powerful, and worth looking into.</p>
+
+
+
+<h4 class="wp-block-heading">Web Hosting &amp; Web Server Technologies: A Quick Overview &amp; Primer</h4>
+
+
+
+<p>At the very least, to launch a live website, you&#8217;ll need the following two things:</p>
+
+
+
+<ol><li><strong>A Domain</strong> (e.g. yournmame.com) —&nbsp;approximately $10/year, can be purchased anywhere. Free options available as sub-domains (e.g. yourusername.github.io). </li><li><strong>A Web Host</strong> (e.g. a paid &#8220;Web Hosting Plan&#8221; at a &#8220;Web Host&#8221;) — <em>FREE</em> for small static sites (e.g. GitHub Pages &amp; Netlify) or ~$5/month for a <em>shared web hosting plan</em> (e.g. at BlueHost, GoDaddy, etc.)</li></ol>
+
+
+
+<p>A <strong>domain</strong> is essentially a human-friendly name for users to be able to enter into a browser url path bar. You can purchase them anywhere (e.g. at a &#8220;Domain Registrar&#8221;) — it does not have to be purchased via your web host. Domain names are stored in a centralized database called a registry that is accreditated by ICANN (Internet Corporation for Assigned Names and Numbers), a non-profit organization responsible for managing domain names. Domains are essentially a string of easy-to-remember characters that point to a string of hard-to-remember numbers called IP (Internet Protocol) addresses.</p>
+
+
+
+<p>A <strong>web hos</strong>t is essentially a computer that is always on and always connected to the internet to &#8220;serve&#8221; your website. A <strong>web hosting plan</strong> is essentially access to a directory (folder) on a shared computer that is running web server software and technologies required to &#8220;serve&#8221; your website (e.g. a &#8220;LAMP&#8221; technology stack consists of a computer running Linux as the OS, Apache as the web server, MySql for database queries, and Php as the server-side scripting language). Web developers access the server various ways, such as via SSH (command line), FTP (File Transfer Protocol), or through an automated deployment process known as CI (Continuous Integration). Many modern websites today use git repositories to automatically trigger deployment workflows.</p>
+
+
+
+<h4 class="wp-block-heading">Web Hosts</h4>
+
+
+
+<p>Below is a short list of old-school &#8220;traditional&#8221; web hosts that have been around since the inception of the web and aren&#8217;t going away any time soon because they are the backbone of the web. As private &#8220;for profit&#8221; commercial companies, they typically offer cheap monthly plans (e.g. $5/month) with popular features that any typical web host should provide out-of-the-box, such as unlimited storage, easy (<em>&#8220;one-click&#8221;</em>) WordPress installations, and a free domain upon purchase of a hosting plan. For web designers and frontend web developers, the specific features that I recommend for your web hosting plans are: </p>
+
+
+
+<ul><li>unlimited websites</li><li>unlimited&nbsp;add-on&nbsp;domains</li><li>unlimited sub-domains</li><li>unlimited WordPress installs in sub-directories</li><li>perk: free domain for new hosting plans</li></ul>
+
+
+
+<h4 class="wp-block-heading">Popular Web Hosting Companies</h4>
+
+
+
+<ul><li><a href="https://www.digitalocean.com/">Digital Ocean</a></li><li><a href="https://www.bluehost.com/">Bluehost</a> &#8211; offers solid PLUS and PLUS CHOICE shared hosting plans for ~$5/month</li><li><a href="https://www.godaddy.com/">GoDaddy</a></li><li><a href="https://www.siteground.com/">SiteGround</a></li><li><a href="https://www.000webhost.com/">000WebHost</a> <em>(FREE)</em></li></ul>
+
+
+
+<h4 class="wp-block-heading">Static Web Hosts</h4>
+
+
+
+<ul><li><a href="https://pages.github.com/">GitHub Pages</a> <em>(FREE)</em> &#8211; the easiest way to create and launch a free static website</li><li><a href="https://www.netlify.com/">Netlify</a> <em>(FREE)</em> &#8211; a simple one-click solution that connects to your GitHub repo and offers a blazing fast CDN with super duper <a href="https://jamstack.org/">JAMStack</a> powers</li></ul>
+
+
+
+<h4 class="wp-block-heading">Managed WordPress Hosting</h4>
+
+
+
+<ul><li><a href="https://getflywheel.com/">FlyWheel</a></li><li><a href="https://wpengine.com/">WP-Engine</a></li><li><a href="https://pantheon.io/">Pantheon</a></li><li><a href="https://www.bluehost.com/">Bluehost</a></li></ul>
+
+
+
+<h4 class="wp-block-heading">Domain Name Registrars</h4>
+
+
+
+<ul><li><a href="https://www.domain.com/">Domain.com</a></li><li><a href="https://domains.google/">Google Domains</a></li><li><a href="https://www.hover.com/">Hover</a></li><li><a href="https://www.bluehost.com/domains">Bluehost Domains</a></li></ul>
+
+
+
+<h4 class="wp-block-heading">Notable Related Technologies</h4>
+
+
+
+<ul><li><a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a> &#8211; File Transfer Protocol<ul><li><a href="https://filezilla-project.org/">FileZilla</a> <em>(FREE)</em> &#8211; a simple to use GUI (Drag &amp; Drop) for updating remote websites by manually transferring files from your local personal computer</li></ul></li><li>Local Web Servers<ul><li><a href="https://www.apachefriends.org/index.html">XAMPP</a> <em>(FREE)</em> &#8211; Apache, MariaDB, PHP, &amp; Perl</li><li><a href="https://www.mamp.info/">MAMP</a> <em>(FREE)</em> &#8211; Apache, Nginx, PHP, &amp; MySQL</li><li><a href="https://localwp.com/">Local</a> by FlyWheel <em>(FREE)</em> &#8211; an easy, simple to use GUI for running and testing WordPress sites locally on your personal computer</li></ul></li></ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3890</post-id>	</item>
+		<item>
+		<title>Syntax</title>
+		<link>..//syntax/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 20:33:02 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<guid isPermaLink="false">..//?p=3800</guid>
+
+					<description><![CDATA[Syntax (https://syntax.fm/) is a web design podcast hosted by Wes Bos and Scott Tolinski that is well suited for web developers and those interested in learning more about Javascript. They cover both frontend and backend web development topics, including HTML, CSS, and the many modern web technologies and build tools.]]></description>
+										<content:encoded><![CDATA[
+<p>Syntax (<a href="https://syntax.fm/">https://syntax.fm/</a>) is a web design podcast hosted by Wes Bos and Scott Tolinski that is well suited for web developers and those interested in learning more about Javascript. They cover both frontend and backend web development topics, including HTML, CSS, and the many modern web technologies and build tools.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3800</post-id>	</item>
+		<item>
+		<title>Swiss Graphic Design</title>
+		<link>..//swiss-graphic-design/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:46:53 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3788</guid>
+
+					<description><![CDATA[Swiss Graphic Design by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.richardhollis.com/books-as-author-and-designer/swiss-graphic-design/">Swiss Graphic Design</a> by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3788</post-id>	</item>
+		<item>
+		<title>Graphic Design: A Concise History</title>
+		<link>..//graphic-design-a-concise-history/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:38:28 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3785</guid>
+
+					<description><![CDATA[Part of the “World of Art” series of small books, Richard Hollis&#8217;s Graphic Design: A Concise History book provides a brief overview of the history of graphic design with accompanying visuals.]]></description>
+										<content:encoded><![CDATA[
+<p>Part of the “World of Art” series of small books, Richard Hollis&#8217;s <a href="https://www.richardhollis.com/books-as-author-and-designer/graphic-history/">Graphic Design: A Concise History</a> book provides a brief overview of the history of graphic design with accompanying visuals.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
+		<item>
+		<title>Design Your Resume</title>
+		<link>..//design-your-resume/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 01:03:37 +0000</pubDate>
+				<category><![CDATA[Exercises]]></category>
+		<guid isPermaLink="false">..//?p=3772</guid>
+
+					<description><![CDATA[Whether you are applying for an internship as a design student or for a full-time position as a professional designer, you will need a resume. Often times resumes are shared with prospective employers as pdf files (e.g. attached to an email) because they are easy to print and can serve as helpful physical resources during &#8230;<p class="read-more"> <a class="" href="../design-your-resume/"> <span class="screen-reader-text">Design Your Resume</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Whether you are applying for an internship as a design student or for a full-time position as a professional designer, you will need a resume. Often times resumes are shared with prospective employers as pdf files (e.g. attached to an email) because they are easy to print and can serve as helpful physical resources during the interview process. As a designer, it is important to thoughtfully craft your resume to demonstrate your design skills, clearly communicate your experience, and showcase your unique personality.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Instructions</h2>
+
+
+
+<ol>
+<li>Gather your content (copy/text) first. I recommend using Google Docs. </li>
+
+
+
+<li>Use design software to layout your resume visually. I recommend Adobe InDesign. Your document/page should be setup for print: 8.5&#8243; x 11&#8243; and the final export should be a pdf. Be sure to use a grid for layout and strong typography.</li>
+</ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Essential Elements to Include</h2>
+
+
+
+<ul>
+<li>Your Name (big)</li>
+
+
+
+<li>Contact Information
+<ul>
+<li>Phone</li>
+
+
+
+<li>Mailing Address (if you are concerned about privacy, at least state your city)</li>
+
+
+
+<li>Email Address</li>
+
+
+
+<li>Portfolio url</li>
+</ul>
+</li>
+
+
+
+<li>Education</li>
+
+
+
+<li>Work Experience</li>
+</ul>
+
+
+
+<ul></ul>
+
+
+
+<div style="height:35px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Recommended Elements to Include</h2>
+
+
+
+<ul>
+<li>Intro Statement/About Statement</li>
+
+
+
+<li>Software/programs/technologies you are familiar with</li>
+
+
+
+<li>Skills (eg photography? illustration?)</li>
+
+
+
+<li>Achievements / Awards</li>
+
+
+
+<li>References</li>
+</ul>
+
+
+
+<ul></ul>
+
+
+
+<div style="height:35px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Other Elements to Consider (Optional)</h2>
+
+
+
+<ul>
+<li>Activities/Extracurricular (eg Volunteer Work)</li>
+
+
+
+<li>Languages Spoken (if you speak multiple languages)</li>
+
+
+
+<li>Memberships (eg AIGA)</li>
+
+
+
+<li>Photo of Yourself (this is up to you?)</li>
+
+
+
+<li>Social media handles (this is up to you?)</li>
+
+
+
+<li>Infographics/charts (this is up to you?)</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<h2 class="wp-block-heading has-text-align-center">Examples from previous students</h2>
+
+
+
+<figure class="wp-block-gallery aligncenter has-nested-images columns-4 wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3821" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3821" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-johndoe.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3813" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3813" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sanako.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3811" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn-232x300.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3811" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-eryn.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3812" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3812" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-christy.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3815" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3815" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-shelby.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3814" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3814" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-romina.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3816" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3816" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-angelynne.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3819" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3819" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-gina.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3818" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3818" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-sharlene.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3817" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3817" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-stephan.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+
+
+
+<figure class="wp-block-image size-medium"><a href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?ssl=1"><img decoding="async" loading="lazy" width="232" height="300" data-id="3820" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=232%2C300&#038;ssl=1" alt="" class="wp-image-3820" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=1159%2C1500&amp;ssl=1 1159w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=768%2C994&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=1187%2C1536&amp;ssl=1 1187w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?resize=1582%2C2048&amp;ssl=1 1582w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2020/07/nma-studentwork-resume-kimi.jpg?w=1600&amp;ssl=1 1600w" sizes="(max-width: 232px) 100vw, 232px" data-recalc-dims="1" /></a></figure>
+</figure>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Advice from Ailed</h2>
+
+
+
+<p>None of the traditional books on resume writing are truly worth squat to the creative. While very important, your resume is secondary to your portfolio. A well-written resume can get you in the door at human resources, but won’t get you the job. However, if poorly written, your resume can get you rejected at the door!<br></p>
+
+
+
+<p>Keep it clean, visually and verbally. Then make sure it contains no errors. Spell check every time you edit. Have many other eyes read it as well. Clean means spare. Few resumes need to be longer than one page, even if you have a long career, older experience tends to be less relevant.<br></p>
+
+
+
+<p>Text-heavy resumes for creatives don’t get read. No paragraph should be longer than 4 sentences, and no sentence should run longer than four lines. Shorter is even better. Watch your line lengths also and remember the typographic rule of min 39 to max 52 characters rule—so use columns as necessary to keep your line-length within that rule.<br></p>
+
+
+
+<p>In terms of content, stick to your responsibilities, your range of work, and most significant accomplishments. Or simply take a sentence to explain what you did and then list the clients you did it for. You can always elaborate in person. A resume is best written to be printed and read offline. Don’t over design it graphically, as that will just slow down the connection to it. Use your name as the file name and not resume so when they download they know who’s it is. While writing the content for your resume, work in Microsoft Word. Once content is approved, you will design in InDesign and convert to a downloadable pdf which is quite advantageous to storing to including them in your site because people are able to find out more about you while your work is fresh in their minds (you may omit your address if posted online though for privacy reasons). Providing contact method like phone or email is necessary, they may want to call on the spot—try not to limit they way they can contact you.<br></p>
+
+
+
+<p>Keep in mind that you may need to continue to customize your resume when applying for different jobs, each with an emphasis in certain areas. For this assignment come up with content that is more general or that focuses on the area you wish to purse.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3772</post-id>	</item>
+		<item>
+		<title>Set Summer Goals</title>
+		<link>..//student-summers/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2020 23:22:15 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<guid isPermaLink="false">..//?p=3767</guid>
+
+					<description><![CDATA[Summer is the perfect time for students to recharge and get ready for the future. Below are some tips, advice, and resources to consider taking advantage of in-between semesters. Take Care of Yourself Get Healthy. Establish a healthy personal routine that includes exercise, eating healthy, and getting plenty of sleep regularly. Start by being mindful &#8230;<p class="read-more"> <a class="" href="../student-summers/"> <span class="screen-reader-text">Set Summer Goals</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Summer is the perfect time for students to recharge and get ready for the future. Below are some tips, advice, and resources to consider taking advantage of in-between semesters.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/kyCJmSvJGik?t=747">View Video Excerpt</a></div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Take Care of Yourself</h2>
+
+
+
+<ul><li>Get <strong>Healthy</strong>. Establish a healthy personal routine that includes exercise, eating healthy, and getting plenty of sleep regularly. Start by being mindful and honest with yourself and set realistic goals.</li><li>Get <strong>Organized</strong>. Clean up your workspace and computer. Start with your desktop and go through all of your old project folders and files. Establish a healthy digital routine that includes backing up your data (e.g. in the cloud) regularly.</li><li>Get <strong>Ahead</strong>. Do not wait for the next project or deadline. You can always work on internal documentation such as your resume, portfolio, and personal design system and branding assets.</li><li>Get <strong>Educated</strong>. There is so much to learn and so many wonderful books, websites, and educational resources available. Start by drafting a summer reading list and then stick to it. Consider taking an online course and/or completing online tutorials.</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer To-do List</h2>
+
+
+
+<ol><li>Design Your <a href="../design-your-resume/">Resume</a></li><li>Create a Portfolio Website (consider a <a href="../simple-portfolio-site/">Simple Thumb-Image-Grid Portfolio Site</a> or a <a href="../create-a-featured-projects-portfolio-site/">Featured Project Portfolio Site</a>)</li></ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Reading List</h2>
+
+
+
+<ul><li>Read Steve Krug&#8217;s <a href="../dont-make-me-think-by-steve-krug/">Don&#8217;t Make Me Think</a> (this is a MUST READ and worth purchasing)</li><li>Read Robert Bringhurst&#8217;s <a href="../the-elements-of-typographic-style/">The Element&#8217;s of Typographic Style</a> (another MUST READ and worth purchasing)</li><li>Other books to ckeck out:<ul><li><a href="../html-css/">HTML &amp;&nbsp;CSS</a> by Jon Duckett</li><li><a href="../javascript-jquery/">Javascript &amp;&nbsp;JQuery</a> by Jon Duckett</li><li><a href="../the-design-of-everyday-things/">The Design of Everyday&nbsp;Things</a> by Donald Norman</li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Listening List</h2>
+
+
+
+<ul><li>Listen to <a href="https://thecsspodcast.libsyn.com/">The CSS Podcast</a><ul><li>Listen to episodes 1-8 for css basics (e.g. the box model, the cascade, inheritance, &amp; specificity)</li><li>Listen to episodes 9-11 for layout-specific css (e.g. flexbox &amp; grid)</li></ul></li><li>Other Podcasts to check out:<ul><li><a href="https://shoptalkshow.com/">Shop Talk Show</a> hosted by Chris Coyier &amp; Dave Rupert</li><li><a href="https://syntax.fm/">Syntax</a> hosted by Wes Bos and Scott Tolinski</li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Watch List</h2>
+
+
+
+<ul><li>Youtube Videos to Watch:<ul><li>Watch The Futur&#8217;s <a href="https://www.youtube.com/watch?v=UDTCC-uyJF0&amp;list=PLzKJi2GjpkEFsV13D3WPm5s6tZVkvKJ1-">Building a Brand Series</a> (Season 1)</li></ul><ul><li>Watch Chris Coyier&#8217;s talk entitled <a href="https://www.youtube.com/watch?v=YiBau30kIjI">Ooooops I guess we’re full-stack developers now</a> </li><li>Watch Jen Simmon&#8217;s talk entitled <a href="https://www.youtube.com/watch?v=Gn3JOE6qMuE">Designing With CSS Grid</a></li></ul></li><li>Other videos and films to check out:<ul><li>Watch the film <a href="https://www.hustwit.com/helvetica">Helvetica</a> (if you haven&#8217;t already, this is a MUST SEE film)</li><li>Watch any of the conference talk videos on YouTube from <a href="https://www.youtube.com/channel/UC45yZ-KWbxPzi59OIXmI9sQ">A List Apart</a> and <a href="https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg">Jamstack Conf</a></li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Take an Online Class</h2>
+
+
+
+<ul><li>Take [watch] Jen Simmon&#8217;s <a href="https://www.linkedin.com/learning/html-essential-training-4?replacementOf=html-essential-training-2017">HTML Essential Training</a> course on LinkedIn Learning (FREE)</li><li>Take [read] Google&#8217;s <a href="https://web.dev/learn/css/">Learn CSS!</a> course on Web.dev (FREE)</li><li>Take a Wes Bos Course:<ul><li><a href="https://javascript30.com/">JavaScript 30</a> (FREE)</li><li><a href="http://flexbox.io/">What the Flexbox?</a> (FREE)</li><li><a href="https://cssgrid.io/">CSS Grid</a> (FREE)</li></ul></li><li>Take Ethan Marcotte&#8217; <a href="https://thegymnasium.com/courses/course-v1:GYM+016+0/about">Designing Accessible and Responsive Websites</a> course via The Gymnasium (FREE) </li><li>Take any of the courses at <a href="https://frontendmasters.com/learn/beginner/">Frontend Masters</a> (PAID)</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3767</post-id>	</item>
+		<item>
+		<title>Interface In Game</title>
+		<link>..//interface-in-game/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 17:35:01 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<guid isPermaLink="false">..//?p=3713</guid>
+
+					<description><![CDATA[Interface In Game (https://interfaceingame.com/) is a collection of video game interfaces, design patterns, screenshots, and video clips organized by taxonomies such as genre, theme, and platform. It is a free project developed by volunteer gamers.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://interfaceingame.com/">Interface In Game</a> (<a href="https://interfaceingame.com/">https://interfaceingame.com/</a>) is a collection of video game interfaces, design patterns, screenshots, and video clips organized by taxonomies such as genre, theme, and platform. It is a free project developed by volunteer gamers.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3713</post-id>	</item>
+		<item>
+		<title>CSS Podcast</title>
+		<link>..//css-podcast/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 20:50:47 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">..//?p=3591</guid>
+
+					<description><![CDATA[CSS Podcast (https://thecsspodcast.libsyn.com/) hosted by Una Kravets and Adam Argyle, Developer Advocates from Google, who discuss all things CSS in short, digestible episodes.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://thecsspodcast.libsyn.com/">CSS Podcast</a> (<a href="https://thecsspodcast.libsyn.com/">https://thecsspodcast.libsyn.com/</a>) hosted by Una Kravets and Adam Argyle, Developer Advocates from Google, who discuss all things CSS in short, digestible episodes.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3591</post-id>	</item>
+	</channel>
+</rss>

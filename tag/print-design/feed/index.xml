@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Print Design &#8211; CMS</title>
+	<atom:link href="../tag/print-design/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Tue, 14 Nov 2017 23:58:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Print Design &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Art of the Menu</title>
+		<link>..//art-of-the-menu/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 23:58:55 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Print Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/art-of-the-menu/</guid>
+
+					<description><![CDATA[Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.]]></description>
+										<content:encoded><![CDATA[<p>Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">732</post-id>	</item>
+	</channel>
+</rss>

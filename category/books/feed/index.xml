@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Books &#8211; CMS</title>
+	<atom:link href="../category/books/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Sun, 05 Jul 2020 01:48:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Books &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Swiss Graphic Design</title>
+		<link>..//swiss-graphic-design/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:46:53 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3788</guid>
+
+					<description><![CDATA[Swiss Graphic Design by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.richardhollis.com/books-as-author-and-designer/swiss-graphic-design/">Swiss Graphic Design</a> by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3788</post-id>	</item>
+		<item>
+		<title>Graphic Design: A Concise History</title>
+		<link>..//graphic-design-a-concise-history/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:38:28 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3785</guid>
+
+					<description><![CDATA[Part of the “World of Art” series of small books, Richard Hollis&#8217;s Graphic Design: A Concise History book provides a brief overview of the history of graphic design with accompanying visuals.]]></description>
+										<content:encoded><![CDATA[
+<p>Part of the “World of Art” series of small books, Richard Hollis&#8217;s <a href="https://www.richardhollis.com/books-as-author-and-designer/graphic-history/">Graphic Design: A Concise History</a> book provides a brief overview of the history of graphic design with accompanying visuals.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
+		<item>
+		<title>Homepage Usability: 50 Websites Deconstructed</title>
+		<link>..//homepage-usability-50-websites-deconstructed/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2018 19:22:51 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/homepage-usability-50-websites-deconstructed/</guid>
+
+					<description><![CDATA[By Jakob Nielsen. Includes an intro with Jakob Nielsen&#8217;s web usability principles based upon years of research. The 50 sites are from categories such as Fortune 500 Sites, High-Traffic Sites, and E-Commerce Sites. Although only the homepage of each site is analyzed, the critiques can be applied to overall website design. Buy on Amazon.]]></description>
+										<content:encoded><![CDATA[<p>By Jakob Nielsen.</p>
+<p>Includes an intro with Jakob Nielsen&#8217;s web usability principles based upon years of research. The 50 sites are from categories such as Fortune 500 Sites, High-Traffic Sites, and E-Commerce Sites. Although only the homepage of each site is analyzed, the critiques can be applied to overall website design.</p>
+<p><a href="https://www.amazon.com/exec/obidos/ASIN/073571102X/ref=nosim/useitcomusablein">Buy on Amazon</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1316</post-id>	</item>
+		<item>
+		<title>Javascript &#038; JQuery</title>
+		<link>..//javascript-jquery/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 03:25:15 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/javascript-jquery/</guid>
+
+					<description><![CDATA[An easy to follow book that teaches the basics of Javascript and JQuery. Be sure to check out the book&#8217;s web site http://javascriptbook.com/ for code examples. &#160; [button link=&#8221;http://www.amazon.com/gp/product/1118008189/ref=as_li_tf_tl?ie=UTF8&#38;tag=httpwwwhtmlan-20&#8243; newwindow=&#8221;yes&#8221;] Buy On Amazon[/button]]]></description>
+										<content:encoded><![CDATA[<p>An easy to follow book that teaches the basics of Javascript and JQuery. Be sure to check out the book&#8217;s web site <a href="http://javascriptbook.com/">http://javascriptbook.com/</a> for <a href="http://javascriptbook.com/code/">code examples</a>.</p>
+<p>&nbsp;</p>
+<p>[button link=&#8221;http://www.amazon.com/gp/product/1118008189/ref=as_li_tf_tl?ie=UTF8&amp;tag=httpwwwhtmlan-20&#8243; newwindow=&#8221;yes&#8221;] Buy On Amazon[/button]</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">803</post-id>	</item>
+		<item>
+		<title>HTML &#038; CSS</title>
+		<link>..//html-css/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 03:21:40 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/html-css/</guid>
+
+					<description><![CDATA[An easy to follow book that teaches the basics of HTML &#38; CSS. Be sure to check out the book&#8217;s web site http://www.htmlandcssbook.com/ for code examples.]]></description>
+										<content:encoded><![CDATA[
+<p>An easy to follow book that teaches the basics of HTML &amp; CSS. Be sure to check out the book&#8217;s web site <a href="http://www.htmlandcssbook.com/">http://www.htmlandcssbook.com/</a> for <a href="http://www.htmlandcssbook.com/code-samples/">code examples</a>.</p>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link" href="http://www.amazon.com/gp/product/1118008189/ref=as_li_tf_tl?ie=UTF8&amp;tag=httpwwwhtmlan-20">Buy on Amazon</a></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">801</post-id>	</item>
+		<item>
+		<title>Butterick’s Practical Typography</title>
+		<link>..//buttericks-practical-typography/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2017 23:19:07 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/buttericks-practical-typography/</guid>
+
+					<description><![CDATA[An online book (https://practicaltypography.com/) on typography by Matthew Butterick, a writer, ty­pog­ra­pher, and law­yer in Los Angeles. Foreword by Erik Spiek­er­mann.]]></description>
+										<content:encoded><![CDATA[<p>An online book (<a href="https://practicaltypography.com/">https://practicaltypography.com/</a>) on typography by Matthew Butterick, a writer, ty­pog­ra­pher, and law­yer in Los Angeles. Foreword by Erik Spiek­er­mann.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">789</post-id>	</item>
+		<item>
+		<title>Animation at Work</title>
+		<link>..//animation-at-work-good-book-recommend/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2017 01:01:46 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/animation-at-work-good-book-recommend/</guid>
+
+					<description><![CDATA[Animation book.]]></description>
+										<content:encoded><![CDATA[<p>Animation book.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">782</post-id>	</item>
+		<item>
+		<title>The Elements of Typographic Style</title>
+		<link>..//the-elements-of-typographic-style/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 00:22:37 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/the-elements-of-typographic-style/</guid>
+
+					<description><![CDATA[&#160;by Robert Bringhurst]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;by Robert Bringhurst</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">714</post-id>	</item>
+		<item>
+		<title>Designing with Web Standards</title>
+		<link>..//designing-with-web-standards/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 22:45:01 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/designing-with-web-standards/</guid>
+
+					<description><![CDATA[by Jeffrey Zeldman and Ethan Marcotte]]></description>
+										<content:encoded><![CDATA[<p>by Jeffrey Zeldman and Ethan Marcotte</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">681</post-id>	</item>
+		<item>
+		<title>The Design of Everyday Things</title>
+		<link>..//the-design-of-everyday-things/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2017 23:02:22 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/the-design-of-everyday-things/</guid>
+
+					<description><![CDATA[The Design of Everyday Things by Donald Norman.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/">The Design of Everyday Things</a> <br />by Donald Norman.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">272</post-id>	</item>
+	</channel>
+</rss>

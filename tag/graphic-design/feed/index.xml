@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Graphic Design &#8211; CMS</title>
+	<atom:link href="../tag/graphic-design/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Sun, 05 Jul 2020 01:47:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Graphic Design &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Swiss Graphic Design</title>
+		<link>..//swiss-graphic-design/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:46:53 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3788</guid>
+
+					<description><![CDATA[Swiss Graphic Design by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.richardhollis.com/books-as-author-and-designer/swiss-graphic-design/">Swiss Graphic Design</a> by Richard Hollis is a beautifully designed book on the origins and growth of the International Style from 1920-1965.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3788</post-id>	</item>
+		<item>
+		<title>Graphic Design: A Concise History</title>
+		<link>..//graphic-design-a-concise-history/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sun, 05 Jul 2020 01:38:28 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">..//?p=3785</guid>
+
+					<description><![CDATA[Part of the “World of Art” series of small books, Richard Hollis&#8217;s Graphic Design: A Concise History book provides a brief overview of the history of graphic design with accompanying visuals.]]></description>
+										<content:encoded><![CDATA[
+<p>Part of the “World of Art” series of small books, Richard Hollis&#8217;s <a href="https://www.richardhollis.com/books-as-author-and-designer/graphic-history/">Graphic Design: A Concise History</a> book provides a brief overview of the history of graphic design with accompanying visuals.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3785</post-id>	</item>
+		<item>
+		<title>Art of the Menu</title>
+		<link>..//art-of-the-menu/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2017 23:58:55 +0000</pubDate>
+				<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Graphic Design]]></category>
+		<category><![CDATA[Print Design]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/art-of-the-menu/</guid>
+
+					<description><![CDATA[Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.]]></description>
+										<content:encoded><![CDATA[<p>Art of the Menu is a visual collection of menu designs from around the world. Great for typography inspiration and reference.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">732</post-id>	</item>
+	</channel>
+</rss>

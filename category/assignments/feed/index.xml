@@ -1,0 +1,2712 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Assignments &#8211; CMS</title>
+	<atom:link href="../category/assignments/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 24 Aug 2023 20:25:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Assignments &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Set Summer Goals</title>
+		<link>..//student-summers/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2020 23:22:15 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<guid isPermaLink="false">..//?p=3767</guid>
+
+					<description><![CDATA[Summer is the perfect time for students to recharge and get ready for the future. Below are some tips, advice, and resources to consider taking advantage of in-between semesters. Take Care of Yourself Get Healthy. Establish a healthy personal routine that includes exercise, eating healthy, and getting plenty of sleep regularly. Start by being mindful &#8230;<p class="read-more"> <a class="" href="../student-summers/"> <span class="screen-reader-text">Set Summer Goals</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Summer is the perfect time for students to recharge and get ready for the future. Below are some tips, advice, and resources to consider taking advantage of in-between semesters.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/kyCJmSvJGik?t=747">View Video Excerpt</a></div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Take Care of Yourself</h2>
+
+
+
+<ul><li>Get <strong>Healthy</strong>. Establish a healthy personal routine that includes exercise, eating healthy, and getting plenty of sleep regularly. Start by being mindful and honest with yourself and set realistic goals.</li><li>Get <strong>Organized</strong>. Clean up your workspace and computer. Start with your desktop and go through all of your old project folders and files. Establish a healthy digital routine that includes backing up your data (e.g. in the cloud) regularly.</li><li>Get <strong>Ahead</strong>. Do not wait for the next project or deadline. You can always work on internal documentation such as your resume, portfolio, and personal design system and branding assets.</li><li>Get <strong>Educated</strong>. There is so much to learn and so many wonderful books, websites, and educational resources available. Start by drafting a summer reading list and then stick to it. Consider taking an online course and/or completing online tutorials.</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer To-do List</h2>
+
+
+
+<ol><li>Design Your <a href="../design-your-resume/">Resume</a></li><li>Create a Portfolio Website (consider a <a href="../simple-portfolio-site/">Simple Thumb-Image-Grid Portfolio Site</a> or a <a href="../create-a-featured-projects-portfolio-site/">Featured Project Portfolio Site</a>)</li></ol>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Reading List</h2>
+
+
+
+<ul><li>Read Steve Krug&#8217;s <a href="../dont-make-me-think-by-steve-krug/">Don&#8217;t Make Me Think</a> (this is a MUST READ and worth purchasing)</li><li>Read Robert Bringhurst&#8217;s <a href="../the-elements-of-typographic-style/">The Element&#8217;s of Typographic Style</a> (another MUST READ and worth purchasing)</li><li>Other books to ckeck out:<ul><li><a href="../html-css/">HTML &amp;&nbsp;CSS</a> by Jon Duckett</li><li><a href="../javascript-jquery/">Javascript &amp;&nbsp;JQuery</a> by Jon Duckett</li><li><a href="../the-design-of-everyday-things/">The Design of Everyday&nbsp;Things</a> by Donald Norman</li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Listening List</h2>
+
+
+
+<ul><li>Listen to <a href="https://thecsspodcast.libsyn.com/">The CSS Podcast</a><ul><li>Listen to episodes 1-8 for css basics (e.g. the box model, the cascade, inheritance, &amp; specificity)</li><li>Listen to episodes 9-11 for layout-specific css (e.g. flexbox &amp; grid)</li></ul></li><li>Other Podcasts to check out:<ul><li><a href="https://shoptalkshow.com/">Shop Talk Show</a> hosted by Chris Coyier &amp; Dave Rupert</li><li><a href="https://syntax.fm/">Syntax</a> hosted by Wes Bos and Scott Tolinski</li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Summer Watch List</h2>
+
+
+
+<ul><li>Youtube Videos to Watch:<ul><li>Watch The Futur&#8217;s <a href="https://www.youtube.com/watch?v=UDTCC-uyJF0&amp;list=PLzKJi2GjpkEFsV13D3WPm5s6tZVkvKJ1-">Building a Brand Series</a> (Season 1)</li></ul><ul><li>Watch Chris Coyier&#8217;s talk entitled <a href="https://www.youtube.com/watch?v=YiBau30kIjI">Ooooops I guess we’re full-stack developers now</a> </li><li>Watch Jen Simmon&#8217;s talk entitled <a href="https://www.youtube.com/watch?v=Gn3JOE6qMuE">Designing With CSS Grid</a></li></ul></li><li>Other videos and films to check out:<ul><li>Watch the film <a href="https://www.hustwit.com/helvetica">Helvetica</a> (if you haven&#8217;t already, this is a MUST SEE film)</li><li>Watch any of the conference talk videos on YouTube from <a href="https://www.youtube.com/channel/UC45yZ-KWbxPzi59OIXmI9sQ">A List Apart</a> and <a href="https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg">Jamstack Conf</a></li></ul></li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Take an Online Class</h2>
+
+
+
+<ul><li>Take [watch] Jen Simmon&#8217;s <a href="https://www.linkedin.com/learning/html-essential-training-4?replacementOf=html-essential-training-2017">HTML Essential Training</a> course on LinkedIn Learning (FREE)</li><li>Take [read] Google&#8217;s <a href="https://web.dev/learn/css/">Learn CSS!</a> course on Web.dev (FREE)</li><li>Take a Wes Bos Course:<ul><li><a href="https://javascript30.com/">JavaScript 30</a> (FREE)</li><li><a href="http://flexbox.io/">What the Flexbox?</a> (FREE)</li><li><a href="https://cssgrid.io/">CSS Grid</a> (FREE)</li></ul></li><li>Take Ethan Marcotte&#8217; <a href="https://thegymnasium.com/courses/course-v1:GYM+016+0/about">Designing Accessible and Responsive Websites</a> course via The Gymnasium (FREE) </li><li>Take any of the courses at <a href="https://frontendmasters.com/learn/beginner/">Frontend Masters</a> (PAID)</li></ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3767</post-id>	</item>
+		<item>
+		<title>Draft a Conceptual Plan</title>
+		<link>..//assignment-conceptual-plans/</link>
+					<comments>..//assignment-conceptual-plans/#comments</comments>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2018 11:36:57 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1584</guid>
+
+					<description><![CDATA[The Essentials To Planning a Design Project Conceptual plans are the blueprints for any design project. Conducted early in the design process, they can include any number of documents and exercises that will be helpful in communicating ideas to all stakeholders and instrumental in insuring a quality end product and user experience. The primary goal &#8230;<p class="read-more"> <a class="" href="../assignment-conceptual-plans/"> <span class="screen-reader-text">Draft a Conceptual Plan</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">The Essentials To Planning a Design Project</h3>
+
+
+
+<p>Conceptual plans are the blueprints for any design project. Conducted early in the design process, they can include any number of documents and exercises that will be helpful in communicating ideas to all stakeholders and instrumental in insuring a quality end product and user experience. The primary goal for is to map out the project using a user-centered (target audience) approach. Planning documents should try to be style/design independent, with a focus on the user’s (target audience) experience, goals, &amp; tasks to help determine the best possible presentation structure and content hierarchy.</p>
+
+
+
+<span id="more-1584"></span>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/XlUBAUs51vY">Watch Video Lesson</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="http://www.creativemedia.space/conceptual-planning/">See also &#8220;How to Begin Conceptual Planning&#8221;</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Conceptual Deliverables</h2>
+
+
+
+<p>Conceptual plans may vary from project-to-project and medium to medium. Below are a few of the most commonly used deliverables for web, print, and motion graphic design projects.</p>
+
+
+
+<h2 class="wp-block-heading">Web Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Site Map(s)</li><li>Lo-Fi UX Wireframes (e.g. Adobe XD Prototypes)</li><li>Style Tiles
+<ul><li>Color Studies</li><li>Type Studies</li></ul>
+</li></ul>
+
+
+
+<h2 class="wp-block-heading">Print Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Sketches</li><li>Lo-Fi Wireframes/Diagrams</li><li>Style Tiles
+<ul><li>Color Studies</li><li>Type Studies</li></ul>
+</li></ul>
+
+
+
+<h2 class="wp-block-heading">Motion Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Writing/Planning related:
+<ul><li>Synopsis</li><li>Outline</li></ul>
+</li><li>Pre-Visualization related:
+<ul><li>Storyboards</li><li>Story Reel</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Other Considerations</h3>
+
+
+
+<p><em>Related Deliverables:</em></p>
+
+
+
+<ul><li>Content Strategies
+<ul><li>User flow charts</li><li>Content language (nomenclature) options and writing styles (high risk? low risk? informal? formal?)</li><li>Content docs, maps, and matrices</li></ul>
+</li><li>Visual Studies:
+<ul><li>Mood Boards</li><li>List of Potential UI Components and Design Patterns</li><li>Visual and Technical Tests (as many as needed to help define the visual style)</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li><a href="http://www.creativemedia.space/conceptual-planning/">How to Begin Planning: A Guide to Conceptual Project Planning</a> (Lesson)</li><li><a href="https://www.usability.gov/">Usability.gov</a> <a href="https://www.usability.gov/how-to-and-tools/methods/index.html">methods</a>:
+<ul><li><a href="https://www.usability.gov/how-to-and-tools/methods/develop-plan.html">Develop a Project Plan</a></li><li><a href="https://www.usability.gov/what-and-why/project-management.html">Project Management Basics</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html">Kick-Off Meeting</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/requirements.html">Website Requirements</a></li><li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">User Design Basics</a></li><li><a href="https://www.usability.gov/what-and-why/user-research.html">User Research</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html">Heuristic Evaluation/Expert Review</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html">Online Surveys</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">Focus Groups</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html">Individual Interviews</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html">Contextual Interview</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">Personas</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/use-cases.html">Use Cases</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a></li><li><a href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">User Centered Design Process Map</a></li></ul>
+</li><li><a href="https://webstandards.hhs.gov/guidelines/">Usability Guidelines</a> from <a href="https://webstandards.hhs.gov/">HHS.gov Web Standards and Usability Guidelines</a>
+<ul><li><a href="https://webstandards.hhs.gov/guidelines/2">Establish User Requirements</a></li><li><a href="https://webstandards.hhs.gov/guidelines/3">Understand and Meet User&#8217;s Expectations</a></li><li><a href="https://webstandards.hhs.gov/guidelines/5">Set and State Goals</a></li><li><a href="https://webstandards.hhs.gov/guidelines/7">Consider Many User Interface Issues</a></li><li><a href="https://webstandards.hhs.gov/guidelines/9">Set Usability Goals</a></li></ul>
+</li><li>From <a href="https://www.userfocus.co.uk/">User Focus UK</a>
+<ul><li><a href="https://www.userfocus.co.uk/articles/field-guide-to-psychology.html">The User Researcher’s Field Guide to Psychology</a></li><li><a href="https://www.userfocus.co.uk/articles/user-journey-mapping-workshop.html">User Journey Mapping</a></li><li><a href="https://www.userfocus.co.uk/articles/desk-research-the-what-why-and-how.html">Desk research: the what, why and how</a></li></ul>
+</li><li><a href="https://briefbox.me/">Brief Box</a></li><li>Typography-related resources (e.g. for Style Tiles)
+<ul><li><a href="https://css-tricks.com/fout-foit-foft/">FOUT</a>&nbsp;(&#8220;Flash Of Un-styled Text)</li><li><a href="https://fonts.google.com/">Google fonts</a></li><li><a href="https://typekit.com/">Typekit</a>&nbsp;(by Adobe)</li><li><a href="https://www.fontsquirrel.com/">Font Squirrel</a></li><li><a href="https://www.cssfontstack.com/">CSS Font Stack</a></li><li><a href="https://www.typewolf.com/">Type Wolf</a></li><li><a href="https://unsplash.com/">Unsplash</a>&nbsp;– royalty free photos</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>..//assignment-conceptual-plans/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1584</post-id>	</item>
+		<item>
+		<title>Code a Simple Web Page with CSS</title>
+		<link>..//simple-web-page-with-css/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 18 Jan 2018 11:19:53 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[HTML]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1482</guid>
+
+					<description><![CDATA[Use CSS to style a web page from scratch One of the best ways to get started when learning about web design and CSS is to get your hands dirty and style a simple web page from scratch. See a Demo: https://johndoenma.github.io/coursework/art128/simplewebpagewithcss/index.html View on Github: https://github.com/johndoenma/coursework/tree/master/art128/simplewebpagewithcss View on Codepen: https://codepen.io/kccnma/pen/ppQdmo Video Lesson Watch this old &#8230;<p class="read-more"> <a class="" href="../simple-web-page-with-css/"> <span class="screen-reader-text">Code a Simple Web Page with CSS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Use CSS to style a web page from scratch</h3>
+
+
+
+<p>One of the best ways to get started when learning about web design and CSS is to get your hands dirty and style a simple web page from scratch.</p>
+
+
+
+<ul><li>See a Demo: <a href="https://johndoenma.github.io/coursework/art128/simplewebpagewithcss/index.html">https://johndoenma.github.io/coursework/art128/simplewebpagewithcss/index.html</a></li><li>View on Github: <a href="https://github.com/johndoenma/coursework/tree/master/art128/simplewebpagewithcss">https://github.com/johndoenma/coursework/tree/master/art128/simplewebpagewithcss</a></li><li>View on Codepen: <a href="https://codepen.io/kccnma/pen/ppQdmo">https://codepen.io/kccnma/pen/ppQdmo</a></li></ul>
+
+
+
+<h2 class="wp-block-heading">Video Lesson</h2>
+
+
+
+<p><em>Watch this old video below for a guided step-by-step demonstration of this assignment.</em></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/vkiqZRCnnKw?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Let&#8217;s Code!</h2>
+
+
+
+<p><em>Get started by launching your favorite code editor (IDE)</em></p>
+
+
+
+<h4 class="wp-block-heading">Create a new HTML folder named &#8220;simplewebpagewithcss&#8221;</h4>
+
+
+
+<figure class="wp-block-image"><img decoding="async" fetchpriority="high" width="751" height="813" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/screenshot-simplewebpagewithcss.png?resize=751%2C813&#038;ssl=1" alt="" class="wp-image-1483" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/screenshot-simplewebpagewithcss.png?w=751&amp;ssl=1 751w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/screenshot-simplewebpagewithcss.png?resize=277%2C300&amp;ssl=1 277w" sizes="(max-width: 751px) 100vw, 751px" data-recalc-dims="1" /></figure>
+
+
+
+<p>Inside of your new directory, copy-paste your simplewebpage.html file and rename it to index.html. Next, create another new folder named &#8220;css&#8221; and inside of it create a new file named style.css. This is the file that we will be editing. Once you are all set up, your local folder setup should look like this:<br></p>
+
+
+
+<h4 class="wp-block-heading">Start Styling!</h4>
+
+
+
+<p>Next, go line-by-line and write every line of CSS from the code below by hand. After each line, hit save then preview your changes in the browser by hitting refresh.</p>
+
+
+
+<h5 class="wp-block-heading">HTML</h5>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85662055" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-simplewebpage-withlinkedcss-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="simplewebpage-withlinkedcss.html">
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Simple Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>description</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>A simple HTML web page with sample markup and a linked CSS file for styling.</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC7" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- VIEWPORT FOR MOBILE --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC10" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- FOR IE --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>ie=edge</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC13" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- MAIN CSS --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>css/style.css</span>&quot; <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>text/css</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>This is a Simple HTML Web Page w/ Linked CSS<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>A basic External CSS setup via a single style.css file<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span>This is an H3<span class=pl-kos>&lt;/</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC24" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus urna neque, elementum et, auctor vel, vestibulum in, dui. Praesent laoreet. Aliquam semper ullamcorper augue. Integer vitae lorem. Suspendisse commodo. Donec vulputate. Nunc vel pede vel turpis consectetuer fermentum. Praesent a nisl eu diam luctus consectetuer. Phasellus at diam. Vestibulum turpis odio, bibendum interdum, adipiscing eu, facilisis id, erat. Nulla id magna id sapien molestie posuere. Nam faucibus. Donec commodo bibendum mi. Aliquam erat volutpat. Praesent felis mi, elementum ut, condimentum nec, nonummy at, enim.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Integer sem velit, ornare eu, blandit ac, elementum sit amet, metus. Pellentesque in est elementum est cursus consectetuer. Pellentesque mattis purus id erat. Cras volutpat bibendum neque. Nunc a dui. Mauris a neque cursus lorem ultrices sagittis. Morbi ligula. Aenean venenatis justo id arcu. Cras pretium ipsum ut velit. Integer pulvinar. Curabitur magna arcu, molestie at, rutrum at, gravida vulputate, nisl. Sed ipsum orci, accumsan sed, aliquet vel, tempor quis, arcu. Donec aliquam. In nulla nunc, tempor eu, laoreet id, tincidunt sit amet, arcu.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an unordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an ordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC39" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC41" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC42" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC43" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC44" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC46" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is a link to <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>http://google.com/</span>&quot;<span class=pl-kos>&gt;</span>google&#39;s web site<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span>.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC49" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withlinkedcss-html-L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="file-simplewebpage-withlinkedcss-html-LC51" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/8e23e593457c7bf9eea97f91e01e4c98/raw/0850e946f4591ad916ff12de1019573a2c75ac79/simplewebpage-withlinkedcss.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/8e23e593457c7bf9eea97f91e01e4c98#file-simplewebpage-withlinkedcss-html">
+          simplewebpage-withlinkedcss.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h4 class="wp-block-heading">CSS</h4>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85662118" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-simplewebpage-withcss-style-css" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-css  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="CSS" data-tagsearch-path="simplewebpage-withcss-style.css">
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* BASE (Initital Setup)</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-c>=====================================</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>    #BASE TYPOGRAPHY</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>            #BODY</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c>            #HEADINGS</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>            #PARAGRAPHS</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>            #LINKS</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c>===================================== */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* #BODY */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>body</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-family</span><span class=pl-kos>:</span> Helvetica<span class=pl-kos>,</span> Arial<span class=pl-kos>,</span> sans-serif;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>333</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>100<span class=pl-smi>%</span></span>; <span class=pl-c>/* 16px; */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.5<span class=pl-smi>em</span></span>; <span class=pl-c>/* 16px x 1.5em = 24px */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>background</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>eee</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC17" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* #HEADINGS</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	Based on a Traditional Typographic Scale</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>	48, 36, 24, 21, 18, 16</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-c>*/</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h1</span><span class=pl-kos>,</span> <span class=pl-ent>h2</span><span class=pl-kos>,</span> <span class=pl-ent>h3</span><span class=pl-kos>,</span> <span class=pl-ent>h4</span><span class=pl-kos>,</span> <span class=pl-ent>h5</span><span class=pl-kos>,</span> <span class=pl-ent>h6</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC25" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>margin</span><span class=pl-kos>:</span> <span class=pl-c1>.5<span class=pl-smi>em</span></span> <span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC26" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC27" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h1</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC29" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>3<span class=pl-smi>em</span></span>; <span class=pl-c>/* 48px / 16px = 3em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC30" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC31" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h2</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC34" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>2.25<span class=pl-smi>em</span></span>; <span class=pl-c>/* 36px / 16px = 2.25em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC35" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.1<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC36" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h3</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC39" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>1.5<span class=pl-smi>em</span></span>; <span class=pl-c>/* 24px / 16px = 1.5em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC40" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.2<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC41" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h4</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC44" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>1.3125<span class=pl-smi>em</span></span>; <span class=pl-c>/* 21px / 16px = 1.3125em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC45" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.3<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC46" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h5</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC49" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>1.125<span class=pl-smi>em</span></span>; <span class=pl-c>/* 18px / 16px = 1.125em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC50" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.4<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC51" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC53" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>h6</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC54" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>font-size</span><span class=pl-kos>:</span> <span class=pl-c1>1<span class=pl-smi>em</span></span>; <span class=pl-c>/* 16px / 16px = 1em */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC55" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>line-height</span><span class=pl-kos>:</span> <span class=pl-c1>1.5<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC56" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC57" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC58" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* #PARAGRAPHS */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>p</span> {</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC60" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>margin</span><span class=pl-kos>:</span> <span class=pl-c1>0</span> <span class=pl-c1>0</span> <span class=pl-c1>.5<span class=pl-smi>em</span></span> <span class=pl-c1>0</span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC61" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>max-width</span><span class=pl-kos>:</span> <span class=pl-c1>35<span class=pl-smi>em</span></span>;</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC62" class="blob-code blob-code-inner js-file-line">}</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC63" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC64" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC65" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/* #LINKS */</span></td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC66" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>a</span> { <span class=pl-c1>color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>39c</span>; <span class=pl-c1>text-decoration</span><span class=pl-kos>:</span> none; }</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC67" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>a</span><span class=pl-kos>:</span><span class=pl-c1>hover</span> { <span class=pl-c1>color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>069</span>; <span class=pl-c1>text-decoration</span><span class=pl-kos>:</span> underline; }</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC68" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>a</span><span class=pl-kos>:</span><span class=pl-c1>focus</span> { <span class=pl-c1>color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>39c</span>; }</td>
+        </tr>
+        <tr>
+          <td id="file-simplewebpage-withcss-style-css-L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="file-simplewebpage-withcss-style-css-LC69" class="blob-code blob-code-inner js-file-line"><span class=pl-ent>a</span><span class=pl-kos>:</span><span class=pl-c1>visited</span> { <span class=pl-c1>color</span><span class=pl-kos>:</span> <span class=pl-pds><span class=pl-kos>#</span>39c</span>; }</td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/07c097807856b1aabad207bec6076389/raw/d8643f545e99fb2a4e8843363f80ffd8d08347f8/simplewebpage-withcss-style.css" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/07c097807856b1aabad207bec6076389#file-simplewebpage-withcss-style-css">
+          simplewebpage-withcss-style.css
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h4 class="wp-block-heading">When you are done, it should look like this:</h4>
+
+
+<p class='codepen'  data-height='265' data-theme-id='0' data-slug-hash='ppQdmo' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/ppQdmo/">Simple HTML Web Page with Base CSS (ART 128 Assignment #2)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<p>If you completed this assignment, great job!</p>
+
+
+
+<h2 class="wp-block-heading">Summary</h2>
+
+
+
+<p>Getting started with CSS is a little harder than HTML, but not much harder. Just like HTML, the more you code, the easier it will get as you practice writing code and building web sites.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1482</post-id>	</item>
+		<item>
+		<title>Code a Simple HTML Web Page</title>
+		<link>..//simple-html-web-page/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 18 Jan 2018 10:45:23 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[HTML]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1471</guid>
+
+					<description><![CDATA[Writing HTML from scratch One of the best ways to get started when learning about web design and HTML is to get your hands dirty and code a simple HTML web page from scratch. See a Demo: https://johndoenma.github.io/coursework/art128/simplewebpage.html View on Github: https://github.com/johndoenma/coursework/blob/master/art128/simplewebpage.html View on Codepen: https://codepen.io/kccnma/pen/zxZQpM Before you get started, you&#8217;ll need the following: A Code &#8230;<p class="read-more"> <a class="" href="../simple-html-web-page/"> <span class="screen-reader-text">Code a Simple HTML Web Page</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Writing HTML from scratch</h3>
+
+
+
+<p>One of the best ways to get started when learning about web design and HTML is to get your hands dirty and code a simple HTML web page from scratch.</p>
+
+
+
+<ul><li>See a Demo: <a href="https://johndoenma.github.io/coursework/art128/simplewebpage.html">https://johndoenma.github.io/coursework/art128/simplewebpage.html</a></li><li>View on Github: <a href="https://github.com/johndoenma/coursework/blob/master/art128/simplewebpage.html">https://github.com/johndoenma/coursework/blob/master/art128/simplewebpage.html</a></li><li>View on Codepen: <a href="https://codepen.io/kccnma/pen/zxZQpM">https://codepen.io/kccnma/pen/zxZQpM</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Before you get started, you&#8217;ll need the following:</h3>
+
+
+
+<ol><li>A Code Editor (IDE)
+<ul><li>Download any (or all) of the following:
+<ul><li><a href="https://code.visualstudio.com/">Microsoft Visual Code</a></li><li><a href="http://brackets.io/">Brackets</a></li><li><a href="https://atom.io/">Atom</a></li><li><a href="https://www.sublimetext.com/">Sublime Text</a></li></ul>
+</li></ul>
+</li></ol>
+
+
+
+<h2 class="wp-block-heading">Video Lesson</h2>
+
+
+
+<p><em>Watch the video below for a guided step-by-step demonstration of this assignment. Skip ahead to the 16:00 minute mark to get to the simple web page part of the video.&nbsp;</em></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/AxCmL9sAlCY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Let&#8217;s Code!</h2>
+
+
+
+<p><em>Get started by launching your favorite code editor (IDE)</em></p>
+
+
+
+<h4 class="wp-block-heading">Create a new HTML file: simplewebpage.html</h4>
+
+
+
+<p>Tip: Resist the temptation to copy-paste the base/starter HTML code to speed up the process. Try writing every line of code from scratch. It&#8217;s good practice while you learn the basics.</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85372765" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-simple-html-page-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="simple-html-page.html">
+        <tr>
+          <td id="file-simple-html-page-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-simple-html-page-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-simple-html-page-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-simple-html-page-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-simple-html-page-html-LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-simple-html-page-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Simple Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-simple-html-page-html-LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>description</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>A Simple Web Page</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-simple-html-page-html-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-simple-html-page-html-LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-simple-html-page-html-LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-simple-html-page-html-LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>This is a Simple HTML Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-simple-html-page-html-LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-simple-html-page-html-LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>A basic HTML page using popular markup<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-simple-html-page-html-LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-simple-html-page-html-LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span>This is an H3<span class=pl-kos>&lt;/</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-simple-html-page-html-LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-simple-html-page-html-LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus urna neque, elementum et, auctor vel, vestibulum in, dui. Praesent laoreet. Aliquam semper ullamcorper augue. Integer vitae lorem. Suspendisse commodo. Donec vulputate. Nunc vel pede vel turpis consectetuer fermentum. Praesent a nisl eu diam luctus consectetuer. Phasellus at diam. Vestibulum turpis odio, bibendum interdum, adipiscing eu, facilisis id, erat. Nulla id magna id sapien molestie posuere. Nam faucibus. Donec commodo bibendum mi. Aliquam erat volutpat. Praesent felis mi, elementum ut, condimentum nec, nonummy at, enim.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-simple-html-page-html-LC17" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-simple-html-page-html-LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Integer sem velit, ornare eu, blandit ac, elementum sit amet, metus. Pellentesque in est elementum est cursus consectetuer. Pellentesque mattis purus id erat. Cras volutpat bibendum neque. Nunc a dui. Mauris a neque cursus lorem ultrices sagittis. Morbi ligula. Aenean venenatis justo id arcu. Cras pretium ipsum ut velit. Integer pulvinar. Curabitur magna arcu, molestie at, rutrum at, gravida vulputate, nisl. Sed ipsum orci, accumsan sed, aliquet vel, tempor quis, arcu. Donec aliquam. In nulla nunc, tempor eu, laoreet id, tincidunt sit amet, arcu.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-simple-html-page-html-LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-simple-html-page-html-LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an unordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-simple-html-page-html-LC21" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-simple-html-page-html-LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-simple-html-page-html-LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-simple-html-page-html-LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-simple-html-page-html-LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-simple-html-page-html-LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-simple-html-page-html-LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-simple-html-page-html-LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="file-simple-html-page-html-LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an ordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="file-simple-html-page-html-LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="file-simple-html-page-html-LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="file-simple-html-page-html-LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="file-simple-html-page-html-LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="file-simple-html-page-html-LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="file-simple-html-page-html-LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="file-simple-html-page-html-LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="file-simple-html-page-html-LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="file-simple-html-page-html-LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="file-simple-html-page-html-LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is a link to <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>http://google.com/</span>&quot;<span class=pl-kos>&gt;</span>google&#39;s web site<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span>.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="file-simple-html-page-html-LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="file-simple-html-page-html-LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="file-simple-html-page-html-LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/607c240aa236f602d6d539d7e2047493/raw/af62e35192c7b83b0c6cfe538e622561b036b468/simple-html-page.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/607c240aa236f602d6d539d7e2047493#file-simple-html-page-html">
+          simple-html-page.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h4 class="wp-block-heading">When you done, it should look like this:</h4>
+
+
+<p class='codepen'  data-height='500' data-theme-id='0' data-slug-hash='zxZQpM' data-default-tab='html,result' data-animations='run' data-editable='' data-embed-version='2'>
+See the Pen <a href="https://codepen.io/kccnma/pen/zxZQpM/">Simple HTML Web Page (ART 128 Assignment #1)</a> by kccnma (<a href="https://codepen.io/kccnma">@kccnma</a>) on <a href="https://codepen.io/">CodePen</a>.0</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Last Step: Use Filezilla to upload your web page via FTP</h4>
+
+
+
+<p>Launch Filezilla and connect to your host (remote) server. To do so, you&#8217;ll need to enter the domain ftp address and your host username and password. Once you are able to connect successfully, all you need to do is navigate to your target &#8220;public_html&#8221; or &#8220;www&#8221; directory and upload your new file to the correct sub folder/directory. In Filezilla, you can do this by dragging and dropping from the left (local files) to the right (remoter server files).</p>
+
+
+
+<p>If you completed this assignment, great job!<br></p>
+
+
+
+<h2 class="wp-block-heading">Summary</h2>
+
+
+
+<p>Getting started with front-end web development can be the hardest step. The good news is that once you get setup, it gets easier and easier for you to practice writing code and building web sites.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1471</post-id>	</item>
+		<item>
+		<title>Project Brief</title>
+		<link>..//assignment-project-brief/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2018 13:41:57 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1259</guid>
+
+					<description><![CDATA[The Essentials To Starting a Design Project A project brief is a practical and useful tool used as a first step in summarizing creative projects. It is used as foundational framework for developing strategic creative solutions to real-world project challenges. A Design brief is a written document for a design project developed by a person &#8230;<p class="read-more"> <a class="" href="../assignment-project-brief/"> <span class="screen-reader-text">Project Brief</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">The Essentials To Starting a Design Project</h3>
+
+
+
+<p>A project brief is a practical and useful tool used as a first step in summarizing creative projects. It is used as foundational framework for developing strategic creative solutions to real-world project challenges.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://youtu.be/aQc2D74ZQHE" target="_blank" rel="noreferrer noopener">View Video Lesson</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote">
+<p>A Design brief is a written document for a design project developed by a person or team (the &#8216;designer&#8217; or &#8216;design team&#8217;) in consultation with the &#8216;client&#8217;. They outline the deliverables and scope of the project including any products or works (function and aesthetics), timing and budget.<br> &#8211; <a href="https://en.wikipedia.org/wiki/Design_brief">Wikipedia</a></p>
+</blockquote>
+
+
+
+<div style="height:42px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:49px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Project Brief Example:</h3>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://docs.google.com/document/d/12pxXLyKJAh8pTlNk14IrBqbw-gE5URpKIzXl6p1LYl4/edit?usp=sharing" target="_blank" rel="noreferrer noopener">View a Project Brief Example (Google Doc)</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-border-color wp-element-button" href="https://docs.google.com/document/d/12pxXLyKJAh8pTlNk14IrBqbw-gE5URpKIzXl6p1LYl4/copy" style="border-color:#7d7a1c" target="_blank" rel="noreferrer noopener">Make a Copy of the Project Brief Doc</a></div>
+</div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Client:</strong> Client Name</p>
+
+
+
+<p><strong>Brief Summary:&nbsp;</strong></p>
+
+
+
+<p>The Summary is a quick introduction to the project in a single paragraph form. It should be a brief overview of the project, similar to an editorial nut graph in journalism. Suggested length is 4-5 sentences. Things to consider: the <em>who</em>, <em>what</em>, <em>why</em>, <em>when</em>, and <em>how</em>.</p>
+
+
+
+<p><strong>Primary Objectives:</strong></p>
+
+
+
+<ul>
+<li>These should short, clear, and actionable.</li>
+
+
+
+<li>List as many as you need, but try to keep this list short (under 1-3).</li>
+</ul>
+
+
+
+<p><strong>Target Audience and Primary Stakeholders:</strong></p>
+
+
+
+<ul>
+<li>List all parties that are involved, affected, invested, and impacted by this project.</li>
+</ul>
+
+
+
+<p><strong>Deliverables:</strong></p>
+
+
+
+<ul>
+<li>List all items that will be created and delivered.</li>
+
+
+
+<li>Tip: Do not be vague and general, be clear and exact.</li>
+</ul>
+
+
+
+<p><strong>Features &amp; Functionality:</strong></p>
+
+
+
+<ul>
+<li>List all important features and functionality here, such as technology-related items.</li>
+</ul>
+
+
+
+<p><strong>Project Schedule, Timeline, &amp; Key Deadlines:</strong></p>
+
+
+
+<ul>
+<li>If known, list the key dates for each deliverable. If unknown, consider listing an approximate schedule with proposed deadlines</li>
+
+
+
+<li>Example:
+<ul>
+<li>Phase I: Project Kickoff Meeting: May 15</li>
+
+
+
+<li>Phase II: Early Prototype &#8211; June 1</li>
+
+
+
+<li>Phase III: Designs
+<ul>
+<li>Initial Designs (3): June 15</li>
+
+
+
+<li>Revised Designs (2): July 1</li>
+
+
+
+<li>Final Designs:: July 15</li>
+</ul>
+</li>
+
+
+
+<li>Phase IV: Development
+<ul>
+<li>First Draft: August 1</li>
+
+
+
+<li>Revised: August 15</li>
+</ul>
+</li>
+
+
+
+<li>Phase V: Diligence
+<ul>
+<li>Final Product Launch: September 1</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p><strong>Assets needed:</strong></p>
+
+
+
+<ul>
+<li>List all things that you need to gather to complete the project, such as client assets (e.g. logo), copy (e.g. text), imagery (e.g. photography, video), any custom graphics needed (e.g. icons, illustration), and audio (music, voice over, sound effects)</li>
+</ul>
+
+
+
+<p><strong>Competitive Analysis:</strong></p>
+
+
+
+<ul>
+<li>Become a &#8220;mini-expert&#8221; in your client&#8217;s field by listing relevant competitors.</li>
+
+
+
+<li>Tip: Consider showing visual examples from each listed competitor.</li>
+
+
+
+<li>Tip: in addition to listing direct businesses in the same field/industry (e.g. local companies), consider listing national and international competitors in the same and/or related field that might be relevant to note and share as part of your research.</li>
+</ul>
+
+
+
+<p><strong>Visual Precedents:&nbsp;</strong></p>
+
+
+
+<p>As you do conduct your background research, be sure to collect visual examples of existing products that are relevant and potentially important to this project.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Initial Things to Consider</h2>
+
+
+
+<p><em>As you write up a project brief, be sure to consider the following questions</em></p>
+
+
+
+<ul>
+<li>What is the primary <strong><em>design problem</em></strong> that needs to be solved?</li>
+
+
+
+<li>Who are the target&nbsp;<strong><em>users </em></strong>and what are their primary <strong><em>goals</em></strong>? What specific <strong><em>tasks</em></strong> are they trying to do?</li>
+
+
+
+<li>What interesting <strong><em>conceptual</em></strong> solutions might there be? Any&nbsp;<em>out-of-the-box</em>&nbsp;<em>original</em> ideas that are both <em>aesthetic</em> and <em>functional</em>?</li>
+
+
+
+<li>What is the <em><strong>scope</strong></em> of this project? Can I realistically complete it successfully within the existing timeframe and budget?</li>
+</ul>
+
+
+
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Essential Elements to Include</h2>
+
+
+
+<p><em>Be sure to note the items in bold</em></p>
+
+
+
+<ul>
+<li>Project Name</li>
+
+
+
+<li>Client Name</li>
+
+
+
+<li>Brief Summary</li>
+
+
+
+<li><em><strong>Primary Objective(s)</strong></em></li>
+
+
+
+<li>Target Audience and Primary Stakeholders</li>
+
+
+
+<li><em><strong>Deliverables</strong> (be sure to define them clearly)</em></li>
+
+
+
+<li>Features, functionalities, &amp; technologies</li>
+
+
+
+<li>Project Schedule with deadlines</li>
+
+
+
+<li>Assets needed</li>
+
+
+
+<li>Competitive Analysis (examples of competitor sites)</li>
+
+
+
+<li><em><strong>Visual Precedents</strong> (be sure to include screenshots)</em></li>
+</ul>
+
+
+
+<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Other Elements to Consider Including</h2>
+
+
+
+<p><em>These might be helpful to identify and define upfront with your client at the very beginning of the project</em></p>
+
+
+
+<ul>
+<li><em><strong>User Profiles</strong></em> (Personas) &amp;&nbsp;<em><strong>User Scenarios</strong>&nbsp;(specific user situations with clear goals and tasks)</em></li>
+
+
+
+<li>User Flow Charts (diagrams for how users might interact with the product)</li>
+
+
+
+<li>Surveys and Questionnaire questions to gather user data</li>
+
+
+
+<li>Keyword lists to help identify conceptual themes that will match and enhance the client brand</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">User Profile &amp; User Scenario Examples:</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user3-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1272" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user2-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1271" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user1-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1270" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Project briefs can be a simple as a brief, half-page text document (for small projects) and can be as complex as multi-page reports containing detailed background information, project specifications, and a fully designed layout. There is no one-size-fits-all project brief for all client projects, so each project brief should be custom designed to help clearly define the project to all parties involved (e.g. so both the client and the designer are on the same page).</p>
+
+
+
+<p>More importantly, project briefs are good opportunities to explore interesting conceptual possibilities and solutions before getting too far committed in the design and development process. So take advantage of this exercise and have fun with it!</p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul>
+<li><a href="https://www.usability.gov/">Usability.gov</a><a href="https://www.usability.gov/how-to-and-tools/methods/index.html">methods</a>:
+<ul>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/develop-plan.html">Develop a Project Plan</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/project-management.html">Project Management Basics</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html">Kick-Off Meeting</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/requirements.html">Website Requirements</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">User Design Basics</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/user-research.html">User Research</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html">Heuristic Evaluation/Expert Review</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html">Online Surveys</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">Focus Groups</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html">Individual Interviews</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html">Contextual Interview</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">Personas</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/use-cases.html">Use Cases</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">User Centered Design Process Map</a></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/">Usability Guidelines</a> from <a href="https://webstandards.hhs.gov/">HHS.gov Web Standards and Usability Guidelines</a>
+<ul>
+<li><a href="https://webstandards.hhs.gov/guidelines/2">Establish User Requirements</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/3">Understand and Meet User&#8217;s Expectations</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/5">Set and State Goals</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/7">Consider Many User Interface Issues</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/9">Set Usability Goals</a></li>
+</ul>
+</li>
+
+
+
+<li>From <a href="https://www.userfocus.co.uk/">User Focus UK</a>
+<ul>
+<li><a href="https://www.userfocus.co.uk/articles/field-guide-to-psychology.html">The User Researcher’s Field Guide to Psychology</a></li>
+
+
+
+<li><a href="https://www.userfocus.co.uk/articles/user-journey-mapping-workshop.html">User Journey Mapping</a></li>
+
+
+
+<li><a href="https://www.userfocus.co.uk/articles/desk-research-the-what-why-and-how.html">Desk research: the what, why and how</a></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://briefbox.me/">Brief Box</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul>
+<li>Define and plan for client-based projects in a clear, concise, and organized manner.</li>
+
+
+
+<li>Apply best practices for user centered design using user research methods and guidelines.</li>
+
+
+
+<li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
+		<item>
+		<title>Create a Course Web Site</title>
+		<link>..//assignment-create-a-course-web-site/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2018 01:38:31 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[HTML]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1208</guid>
+
+					<description><![CDATA[Code a simple HTML website from scratch One of the best ways to learn about web design is to get your hands dirty and code a simple website from scratch. Having ones own domain and web site enables designers to learn through practice, by going through the full development process from beginning to end, from setting &#8230;<p class="read-more"> <a class="" href="../assignment-create-a-course-web-site/"> <span class="screen-reader-text">Create a Course Web Site</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">Code a simple HTML website from scratch</h3>
+
+
+
+<p>One of the best ways to learn about web design is to get your hands dirty and code a simple website from scratch. Having ones own domain and web site enables designers to learn through practice, by going through the full development process from beginning to end, from setting up a local development environment to deploying and maintaining a live site with continually changing content over time.</p>
+
+
+
+<ul><li>See a Demo: <a href="https://johndoenma.github.io/coursework/art128/index.html">https://johndoenma.github.io/coursework/art128/index.html</a></li><li>Download Source Files: <a href="https://github.com/johndoenma/coursework/archive/master.zip">https://github.com/johndoenma/coursework/archive/master.zip</a></li><li>View on Github: <a href="https://github.com/johndoenma/coursework">https://github.com/johndoenma/coursework</a></li></ul>
+
+
+
+<h3 class="wp-block-heading">Before you get started, you&#8217;ll need the following:</h3>
+
+
+
+<ol><li>You&#8217;ll need a hosting setup (e.g. at <a href="https://www.bluehost.com/">Bluehost</a>, <a href="https://www.godaddy.com/">GoDaddy</a>&#8216; etc.).
+<ul><li>There are several different hosts and plans to choose from, so I suggest going with a host that offers a student plan/discount (e.g. like <a href="https://www.bluehost.com/cgi/education">this Bluehost one</a>) or a similarly cheap option (~$5/month). For example, several offer a &#8220;shared&#8221; hosting plan that comes with the most of the features that you will need: unlimited storage, a free domain name, and the ability to host multiple websites (&#8220;addon&#8221; domains). Once you pick/purchase a domain name and a hosting plan, be your be sure to note the following information:
+<ul><li><strong>Your FTP address</strong>&nbsp;(e.g. ftp.yourdomain.com)</li><li><strong>Your Host Username</strong> (e.g. mybluehostusername)</li><li><strong>Your Host Password</strong> (e.g. chrisisthebest)</li></ul>
+</li></ul>
+</li><li>A FTP (File Transfer Protocol) Application
+<ul><li>Download <a href="https://filezilla-project.org/download.php">Filezilla</a></li></ul>
+</li><li>A Code Editor (IDE)
+<ul><li>Download any (or all) of the following:
+<ul><li><a href="https://code.visualstudio.com/">Microsoft Visual Code</a></li><li><a href="http://brackets.io/">Brackets</a></li><li><a href="https://atom.io/">Atom</a></li><li><a href="https://www.sublimetext.com/">Sublime Text</a></li></ul>
+</li></ul>
+</li></ol>
+
+
+
+<h2 class="wp-block-heading">Video Lesson</h2>
+
+
+
+<p><em>Watch the video below for a guided step-by-step demonstration of this assignment.&nbsp;</em></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" class="youtube-player" width="1200" height="675" src="https://www.youtube.com/embed/AxCmL9sAlCY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Setup Your Local Development Environment</h2>
+
+
+
+<p><em>Get setup by creating a root directory for your web site</em><br>Start by creating a &#8220;public_html&#8221; folder to act your web site&#8217;s root directory</p>
+
+
+
+<p>Before you can begin coding, you need to figure out where you are going to work and save your web site&#8217;s files. A good place would be to set up a root directory somewhere outside of your existing school class folders (where you typically save your class papers, design files, etc). It&#8217;s a good practice to keep these separate, for many reasons, but one of the most practical reasons is because this assignment (creating a course web site) is not just an assignment for one class (e.g. ART 128) but you are going to set up course web pages for all of your classes (e.g. ART 229). Knowing this, do not place your public_html folder inside of your existing ART128 folder (if you already have one). Instead, keep this up on a higher level.</p>
+
+
+
+<h4 class="wp-block-heading">Initial folder setup (as you get started)</h4>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="973" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-step2-1024x973.gif?resize=1024%2C973&#038;ssl=1" alt="" class="wp-image-1245" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-step2.gif?resize=1024%2C973&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-step2.gif?resize=300%2C285&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-step2.gif?resize=768%2C729&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<h4 class="wp-block-heading"><br>Final folder setup (once this assignment is completed)</h4>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="973" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-end-1024x973.gif?resize=1024%2C973&#038;ssl=1" alt="" class="wp-image-1246" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-end.gif?resize=1024%2C973&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-end.gif?resize=300%2C285&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2018/01/coursewebsite-folderview-end.gif?resize=768%2C729&amp;ssl=1 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<h4 class="wp-block-heading"><br>Start with a &#8220;base&#8221; or &#8220;starter&#8221; blank HTML page</h4>
+
+
+
+<p>Create a new, blank HTML file named index.html and place it in your course directory (e.g. in this case, inside of the art128 folder).</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist84796406" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-blank-html-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="blank-html.html">
+        <tr>
+          <td id="file-blank-html-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-blank-html-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-blank-html-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-blank-html-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-blank-html-html-LC4" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-blank-html-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-blank-html-html-LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-blank-html-html-LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>description</span>&quot; <span class=pl-c1>content</span>=&quot;&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-blank-html-html-LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-blank-html-html-LC9" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- VIEWPORT FOR MOBILE --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-blank-html-html-LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-blank-html-html-LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-blank-html-html-LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- FOR IE/EDGE --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-blank-html-html-LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>http-equiv</span>=&quot;<span class=pl-s>X-UA-Compatible</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>ie=edge</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-blank-html-html-LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-blank-html-html-LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-c>&lt;!-- MAIN CSS FILE --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-blank-html-html-LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>css/style.css</span>&quot; <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>text/css</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-blank-html-html-LC17" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-blank-html-html-LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-blank-html-html-LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-blank-html-html-LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-blank-html-html-LC21" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-blank-html-html-LC22" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-blank-html-html-LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!-- MAIN JS --&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-blank-html-html-LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>js/script.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span> </td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-blank-html-html-LC25" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-blank-html-html-LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-blank-html-html-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-blank-html-html-LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/fa2f9586407d9485ebc8dba98d8b0b2b/raw/faccce582a306943ac0aa689768e44494b4ae942/blank-html.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/fa2f9586407d9485ebc8dba98d8b0b2b#file-blank-html-html">
+          blank-html.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p></p>
+
+
+
+<h4 class="wp-block-heading">Add in the content for your course web page.</h4>
+
+
+
+<p>Go ahead and add course specific content, such as a link to your first assignment. In this example, for ART 128, add a link to simplewebpage.html. Don&#8217;t worry about the file not existing yet, because we&#8217;re going to create that page next.</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85373199" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-course-page-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="course-page.html">
+        <tr>
+          <td id="file-course-page-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-course-page-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-course-page-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-course-page-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-course-page-html-LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-course-page-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>John Doe ART 128<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-course-page-html-LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-course-page-html-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-course-page-html-LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-course-page-html-LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>My Course Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-course-page-html-LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-course-page-html-LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>Assignments:<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-course-page-html-LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-course-page-html-LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-course-page-html-LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>simplewebpage.html</span>&quot;<span class=pl-kos>&gt;</span>Simple Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-course-page-html-LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-course-page-html-LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-course-page-html-LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-course-page-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-course-page-html-LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/ce5583d8e705dd1fcf8456f88eac6eb3/raw/60f7b077c9c1c8e3300c42cfd074ef6c0eac4ce9/course-page.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/ce5583d8e705dd1fcf8456f88eac6eb3#file-course-page-html">
+          course-page.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<p>Repeat this step for each of your classes so you can post all of your assignments online.<br></p>
+
+
+
+<h4 class="wp-block-heading">Next, let&#8217;s create a new HTML file: simplewebpage.html</h4>
+
+
+
+<p>Tip: Resist the temptation to copy-paste the base/starter HTML code to speed up the process. Try writing every line of code from scratch. It&#8217;s good practice while you learn the basics.</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85372765" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-simple-html-page-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="simple-html-page.html">
+        <tr>
+          <td id="file-simple-html-page-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-simple-html-page-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-simple-html-page-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-simple-html-page-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-simple-html-page-html-LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-simple-html-page-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Simple Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-simple-html-page-html-LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>description</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>A Simple Web Page</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-simple-html-page-html-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-simple-html-page-html-LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-simple-html-page-html-LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-simple-html-page-html-LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>This is a Simple HTML Web Page<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-simple-html-page-html-LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-simple-html-page-html-LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>A basic HTML page using popular markup<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-simple-html-page-html-LC13" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-simple-html-page-html-LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span>This is an H3<span class=pl-kos>&lt;/</span><span class=pl-ent>h3</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-simple-html-page-html-LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-simple-html-page-html-LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vivamus urna neque, elementum et, auctor vel, vestibulum in, dui. Praesent laoreet. Aliquam semper ullamcorper augue. Integer vitae lorem. Suspendisse commodo. Donec vulputate. Nunc vel pede vel turpis consectetuer fermentum. Praesent a nisl eu diam luctus consectetuer. Phasellus at diam. Vestibulum turpis odio, bibendum interdum, adipiscing eu, facilisis id, erat. Nulla id magna id sapien molestie posuere. Nam faucibus. Donec commodo bibendum mi. Aliquam erat volutpat. Praesent felis mi, elementum ut, condimentum nec, nonummy at, enim.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-simple-html-page-html-LC17" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-simple-html-page-html-LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>Integer sem velit, ornare eu, blandit ac, elementum sit amet, metus. Pellentesque in est elementum est cursus consectetuer. Pellentesque mattis purus id erat. Cras volutpat bibendum neque. Nunc a dui. Mauris a neque cursus lorem ultrices sagittis. Morbi ligula. Aenean venenatis justo id arcu. Cras pretium ipsum ut velit. Integer pulvinar. Curabitur magna arcu, molestie at, rutrum at, gravida vulputate, nisl. Sed ipsum orci, accumsan sed, aliquet vel, tempor quis, arcu. Donec aliquam. In nulla nunc, tempor eu, laoreet id, tincidunt sit amet, arcu.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-simple-html-page-html-LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-simple-html-page-html-LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an unordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-simple-html-page-html-LC21" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-simple-html-page-html-LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-simple-html-page-html-LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="file-simple-html-page-html-LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="file-simple-html-page-html-LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="file-simple-html-page-html-LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="file-simple-html-page-html-LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="file-simple-html-page-html-LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="file-simple-html-page-html-LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is an ordered list:<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="file-simple-html-page-html-LC30" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="file-simple-html-page-html-LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="file-simple-html-page-html-LC32" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Cereal<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="file-simple-html-page-html-LC33" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Eggs<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="file-simple-html-page-html-LC34" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>OJ<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="file-simple-html-page-html-LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span>Milk<span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="file-simple-html-page-html-LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ol</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="file-simple-html-page-html-LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="file-simple-html-page-html-LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="file-simple-html-page-html-LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is a link to <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>http://google.com/</span>&quot;<span class=pl-kos>&gt;</span>google&#39;s web site<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span>.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="file-simple-html-page-html-LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="file-simple-html-page-html-LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-simple-html-page-html-L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="file-simple-html-page-html-LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/607c240aa236f602d6d539d7e2047493/raw/af62e35192c7b83b0c6cfe538e622561b036b468/simple-html-page.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/607c240aa236f602d6d539d7e2047493#file-simple-html-page-html">
+          simple-html-page.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h4 class="wp-block-heading">Almost done: Create a Home Page that will link to all of your courses</h4>
+
+
+
+<p>Directly inside the root &#8220;public_html&#8221; level, create another index.html file, but this time, instead of linking to individual course assignments, you are going to link to the individual course web pages (e.g. &#8220;art128/index.html&#8221;).</p>
+
+
+<style>.gist table { margin-bottom: 0; }</style><div style="tab-size: 8" id="gist85373225" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-coursesite-home-page-html" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="coursesite-home-page.html">
+        <tr>
+          <td id="file-coursesite-home-page-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-coursesite-home-page-html-LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!doctype html<span class=pl-kos>&gt;</span></span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-coursesite-home-page-html-LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-coursesite-home-page-html-LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-coursesite-home-page-html-LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>utf-8</span>&quot; /&gt;</td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-coursesite-home-page-html-LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>John Doe&#39;s Course Web Sites<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-coursesite-home-page-html-LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-coursesite-home-page-html-LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-coursesite-home-page-html-LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-coursesite-home-page-html-LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>index.html</span>&quot;<span class=pl-kos>&gt;</span>John Doe<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-coursesite-home-page-html-LC10" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-coursesite-home-page-html-LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span> </td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-coursesite-home-page-html-LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>art128/index.html</span>&quot;<span class=pl-kos>&gt;</span>ART 128<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-coursesite-home-page-html-LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>art229/index.html</span>&quot;<span class=pl-kos>&gt;</span>ART 229<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-coursesite-home-page-html-LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-coursesite-home-page-html-LC15" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-coursesite-home-page-html-LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>HI. I&#39;m a NMA Interface Design Student<span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-coursesite-home-page-html-LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span>This is a class web site for all of the NMA interface design classes that I am taking at KCC. I use this site to post all of my class assignments.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-coursesite-home-page-html-LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-coursesite-home-page-html-LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+        <tr>
+          <td id="file-coursesite-home-page-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-coursesite-home-page-html-LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/kccnma/68ce1413705ad92572d9227c2fe2ff12/raw/98defa21c130e9b68dc8e4e55ed720720337c385/coursesite-home-page.html" style="float:right">view raw</a>
+        <a href="https://gist.github.com/kccnma/68ce1413705ad92572d9227c2fe2ff12#file-coursesite-home-page-html">
+          coursesite-home-page.html
+        </a>
+        hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+      </div>
+    </div>
+</div>
+
+
+
+
+<h4 class="wp-block-heading">Last Step: Use Filezilla to upload your site via FTP</h4>
+
+
+
+<p>Launch Filezilla and connect to your host (remote) server. To do so, you&#8217;ll need to enter the domain ftp address and your host username and password. Once you are able to connect successfully, all you need to do is navigate to your target &#8220;public_html&#8221; or &#8220;www&#8221; directory and upload your new files and folders. In Filezilla, you can do this by dragging and dropping from the left (local files) to the right (remoter server files).</p>
+
+
+
+<p>If you completed this assignment, great job!</p>
+
+
+
+<h2 class="wp-block-heading">Summary</h2>
+
+
+
+<p>Getting started with front-end web development can be the hardest step. The good news is that once you get setup, it gets easier and easier for you to practice writing code and building web sites.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1208</post-id>	</item>
+	</channel>
+</rss>

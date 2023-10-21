@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Blogs &#8211; CMS</title>
+	<atom:link href="../category/blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 31 Oct 2019 01:40:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Blogs &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Typewolf</title>
+		<link>..//typewolf/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 21:01:19 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Newsletters]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=2179</guid>
+
+					<description><![CDATA[Typewolf (https://www.typewolf.com)/ is an online web typography resource and newsletter (https://www.typewolf.com/newsletter) created by Jeremiah Shoaf (https://www.jeremiahshoaf.com/) for all things related to typography on the web from a designer&#8217;s perspective. Typewolf is an independent site/online resource that showcases typefaces from several different type foundries and sources.]]></description>
+										<content:encoded><![CDATA[
+<p>Typewolf (<a href="https://www.typewolf.com/">https://www.typewolf.com/</a>) is an online web typography resource and newsletter (<a href="https://www.typewolf.com/newsletter">https://www.typewolf.com/newsletter</a>) created by Jeremiah Shoaf (<a href="https://www.jeremiahshoaf.com/">https://www.jeremiahshoaf.com/</a>) for all things related to typography on the web from a designer&#8217;s perspective. Typewolf is an independent site/online resource that showcases typefaces from several different type foundries and sources. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2179</post-id>	</item>
+		<item>
+		<title>Creative Bloq</title>
+		<link>..//creative-bloq/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 20:32:22 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/creative-bloq/</guid>
+
+					<description><![CDATA[Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.]]></description>
+										<content:encoded><![CDATA[<p>Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">814</post-id>	</item>
+		<item>
+		<title>I Love Typography</title>
+		<link>..//i-love-typography/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 00:28:31 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Typography]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/i-love-typography/</guid>
+
+					<description><![CDATA[I love Typography (ILT) is a blog site by John Boardley based on his passion for typography, type design, lettering, and for the pages, words, and letters born of those disciplines. The site aims to make the subject more accessible and to bring the study of typography to the masses]]></description>
+										<content:encoded><![CDATA[<p>I love Typography (ILT) is a blog site by John Boardley based on his passion for typography, type design, lettering, and for the pages, words, and letters born of those disciplines. The site aims to make the subject more accessible and to bring the study of typography to the masses</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">716</post-id>	</item>
+		<item>
+		<title>Web Designer Depot</title>
+		<link>..//web-designer-depot/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 20:28:07 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/web-designer-depot/</guid>
+
+					<description><![CDATA[Web Designer Depot (https://www.webdesignerdepot.com)/ is a resource hub that offers web design news, views, techniques, and resources. Posted daily, resources include blog posts, interviews, and free downloads.]]></description>
+										<content:encoded><![CDATA[<p><a href="https://www.webdesignerdepot.com/">Web Designer Depot</a> (<a href="https://www.webdesignerdepot.com/">https://www.webdesignerdepot.com/</a>) is a resource hub that offers web design news, views, techniques, and resources. Posted daily, resources include blog posts, interviews, and free downloads.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">651</post-id>	</item>
+		<item>
+		<title>A List Apart</title>
+		<link>..//a-list-apart/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 08 Nov 2017 19:16:07 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/a-list-apart/</guid>
+
+					<description><![CDATA[A List Apart (https://alistapart.com)/ explores the design, development, and meaning of web content, with a focus on web standards and best practices. Jeffrey Zeldman is the founder, publisher, and executive creative director. Contributors include Eric Meyer, Jason Santa Maria, Rachel Andrew, and Ethan Marcotte with authors such as Dan Cederholm, Andrew Clarke, Chris Coyier, Brad &#8230;<p class="read-more"> <a class="" href="../a-list-apart/"> <span class="screen-reader-text">A List Apart</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://alistapart.com/">A List Apart</a> (<a href="https://alistapart.com/">https://alistapart.com/</a>) explores the design, development, and meaning of web content, with a focus on web standards and best practices. Jeffrey Zeldman is the founder, publisher, and executive creative director. Contributors include Eric Meyer, Jason Santa Maria, Rachel Andrew, and Ethan Marcotte with authors such as Dan Cederholm, Andrew Clarke, Chris Coyier, Brad Frost, and Molly Holzschlag, amongst many others.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">613</post-id>	</item>
+		<item>
+		<title>Smashing Magazine</title>
+		<link>..//smashing-magazine/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 23:30:40 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/smashing-magazine/</guid>
+
+					<description><![CDATA[Smashing Magazine is a blog, source of books, and conference host for all things web design related with a focus on front-end techniques and design patterns.]]></description>
+										<content:encoded><![CDATA[<p><a href="//www.smashingmagazine.com/“">Smashing Magazine</a> is a blog, source of books, and conference host for all things web design related with a focus on front-end techniques and design patterns.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">232</post-id>	</item>
+	</channel>
+</rss>

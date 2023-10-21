@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>UX &#8211; CMS</title>
+	<atom:link href="../tag/ux/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Fri, 15 Sep 2023 00:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>UX &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Figma</title>
+		<link>..//figma/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 00:07:25 +0000</pubDate>
+				<category><![CDATA[Front-end Tools]]></category>
+		<category><![CDATA[Web Design]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">..//?p=4457</guid>
+
+					<description><![CDATA[Figma (https://figma.com)/ is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).]]></description>
+										<content:encoded><![CDATA[
+<p>Figma (<a href="https://figma.com/">https://figma.com/</a>) is a powerful browser-based tool for UX/UI design with convenient frontend web development features such as API for design tokens and features such as variables (to align with css custom properties).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4457</post-id>	</item>
+		<item>
+		<title>The Web Design and Development Process</title>
+		<link>..//web-design-dev-process/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 18 Jul 2018 18:42:01 +0000</pubDate>
+				<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[UI]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1907</guid>
+
+					<description><![CDATA[A User Centered Design Approach The web design and development process shares several resemblances to the software development process and systems development life cycle and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically &#8230;<p class="read-more"> <a class="" href="../web-design-dev-process/"> <span class="screen-reader-text">The Web Design and Development Process</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">A User Centered Design Approach</h3>
+
+
+
+<p>The web design and development process shares several resemblances to the <a href="https://en.wikipedia.org/wiki/Software_development_process">software development process</a> and <a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">systems development life cycle</a> and is influenced by the rich history and practice of related fields such as systems engineering and information science. Building upon several influential methodologies and preceding models, the following is a simple 5-Step process specifically for web design and development that embraces <a href="https://en.wikipedia.org/wiki/User-centered_design">User-centered design (UCD)</a>and consists of 5 D’s: <em>Define, Draft, Design, Develop, and Deliver.</em></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/2G_Ra_TLx4E" target="_blank" rel="noreferrer noopener">View Video Lesson</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote"><p><strong>User-centered design (UCD)</strong>&nbsp;or&nbsp;<strong>user-driven development (UDD)</strong>&nbsp;is a framework of processes (not restricted to interfaces or technologies) in which usability goals, user characteristics, environment, tasks and workflow of a product, service or process are given extensive attention at each stage of the design process. User-centered design can be characterized as a multi-stage problem-solving process that not only requires designers to analyze and envision the way users are likely to consume a product, but also to validate their assumptions with regard to the user behavior in real world tests. These tests are conducted with/without actual users during each stage of the process from requirements, pre-production models and post production, completing a circle of proof back to and ensuring that “development proceeds with the user as the center of focus.
+</p><cite>–&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">Wikipedia</a></cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" fetchpriority="high" width="1200" height="364" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-ddddd.gif?resize=1200%2C364&#038;ssl=1" alt="Design Process: 5 D's: Define, Draft, Design, Develop, and Deliver" class="wp-image-1375" data-recalc-dims="1"/></figure></div>
+
+
+
+<h3 class="wp-block-heading">A Simplified 5-Step Process:</h3>
+
+
+
+<ol><li><strong>Define</strong>&nbsp;– Define the project, problem(s), and stakeholder’s primary goals via the project brief. Gather background info to define user profiles, goals, and tasks.</li><li><strong>Draft</strong>&nbsp;– Brainstorm conceptual solutions; draft the information architecture, site-maps, wireframes, prototypes, content hierarchy, and structure.</li><li><strong>Design</strong>&nbsp;– Visualize and communicate the user interface design via mood boards, type studies, color studies, prototypes, iterative mockups, and multiple rounds of refinements.</li><li><strong>Develop</strong>&nbsp;– Build the interactive, fully functioning product using web standard compliant, accessible, valid, semantic markup, styling, and scripting.</li><li><strong>Deliver</strong>&nbsp;– Via due diligence, fix all bugs and conduct multiple tests for quality assurance across multiple platforms, browsers, devices, and screen-sizes.</li></ol>
+
+
+
+<h2 class="wp-block-heading">A Brief Backstory</h2>
+
+
+
+<p><em>Preceding Influential Models</em></p>
+
+
+
+<p>One of the most notable approaches that predates web development is the&nbsp;<a href="https://en.wikipedia.org/wiki/Waterfall_model">waterfall model</a>: a linear, step-by-step sequential process that is inherently flawed due to the fact that, like a waterfall, it only flows in one direction. Broken down into five phases, a typical waterfall process entails defining system requirements, designing, implementing/coding, testing, and maintaining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="1200" height="264" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-waterfall.gif?resize=1200%2C264&#038;ssl=1" alt="A waterfall process" class="wp-image-1379" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>A waterfall process</em></p>
+
+
+
+<p>In the text Usability for the Web (2002), Brinck, Gergle, and Wood illustrated a “Pervasive Usability Process” drafted specifically for web design and development. It consists of five phases that are sequential yet iterative through the process of continual evaluation. The five stages are requirements analysis, conceptual design, mockups and prototypes, production, and launch, and most closely resembles the Five D’s approach above.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" width="1200" height="419" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-pervasive.gif?resize=1200%2C419&#038;ssl=1" alt="Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process" class="wp-image-1378" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>Brinck, Gergle, and Wood’s 2001 Pervasive Usability Process</em></p>
+
+
+
+<p>In contrast to the waterfall model, other notable approaches are&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_design">iterative design</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">incremental development</a>, cyclical design and development processes that entail multiple rounds of designing, prototyping, testing, analyzing, and refining.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative.gif?resize=1200%2C551&#038;ssl=1" alt="An iterative process" class="wp-image-1377" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><em>An iterative process</em></p>
+
+
+
+<p>In recent years, the&nbsp;<a href="https://en.wikipedia.org/wiki/Agile_software_development">agile software development process</a>&nbsp;has had a big impact on web design and development. It embraces adaptive planning, evolutionary development, early delivery, and continuous improvement. Designed for speed, it encourages rapid and flexible responses to change throughout the process.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" loading="lazy" width="1200" height="551" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/process-iterative-modified.gif?resize=1200%2C551&#038;ssl=1" alt="A combined iterative and incremental “5 D” process influenced by multiple models." class="wp-image-1376" data-recalc-dims="1"/></figure></div>
+
+
+
+<p><br>
+<em>A combined iterative and incremental “5 D” process influenced by multiple models.</em></p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>There is no one-size-fits-all web design and development process. However, there are several existing models to follow as frameworks that embrace different principles related to user-centered design.</p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li>Via Wikipedia:
+<ul><li><a href="https://en.wikipedia.org/wiki/Software_development_process">Software development process</a><a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile software development</a></li><li><a href="https://en.wikipedia.org/wiki/Systems_development_life_cycle">Systems development life cycle</a></li><li><a href="https://en.wikipedia.org/wiki/Waterfall_model">Waterfall model</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_design">Iterative Design</a></li><li><a href="https://en.wikipedia.org/wiki/Iterative_and_incremental_development">Iterative and incremental development</a></li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Go Further</h3>
+
+
+
+<ul><li>Familiarize yourself with&nbsp;<a href="https://en.wikipedia.org/wiki/User-centered_design">User Centered Design</a></li><li><a href="https://www.interaction-design.org/literature/topics/user-centered-design">IDF’s User-centered Design</a> (includes a good video on <strike>User</strike> Human Centered Design)</li><li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">Usability.gov’s User Centered Design Basics</a></li><li>Read&nbsp;IDF’s&nbsp;<a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">5 Stages in the Design Thinking Process</a></li></ul>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1907</post-id>	</item>
+		<item>
+		<title>Draft a Conceptual Plan</title>
+		<link>..//assignment-conceptual-plans/</link>
+					<comments>..//assignment-conceptual-plans/#comments</comments>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Tue, 13 Feb 2018 11:36:57 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1584</guid>
+
+					<description><![CDATA[The Essentials To Planning a Design Project Conceptual plans are the blueprints for any design project. Conducted early in the design process, they can include any number of documents and exercises that will be helpful in communicating ideas to all stakeholders and instrumental in insuring a quality end product and user experience. The primary goal &#8230;<p class="read-more"> <a class="" href="../assignment-conceptual-plans/"> <span class="screen-reader-text">Draft a Conceptual Plan</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">The Essentials To Planning a Design Project</h3>
+
+
+
+<p>Conceptual plans are the blueprints for any design project. Conducted early in the design process, they can include any number of documents and exercises that will be helpful in communicating ideas to all stakeholders and instrumental in insuring a quality end product and user experience. The primary goal for is to map out the project using a user-centered (target audience) approach. Planning documents should try to be style/design independent, with a focus on the user’s (target audience) experience, goals, &amp; tasks to help determine the best possible presentation structure and content hierarchy.</p>
+
+
+
+<span id="more-1584"></span>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://youtu.be/XlUBAUs51vY">Watch Video Lesson</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="http://www.creativemedia.space/conceptual-planning/">See also &#8220;How to Begin Conceptual Planning&#8221;</a></div>
+</div>
+
+
+
+<h2 class="wp-block-heading">Conceptual Deliverables</h2>
+
+
+
+<p>Conceptual plans may vary from project-to-project and medium to medium. Below are a few of the most commonly used deliverables for web, print, and motion graphic design projects.</p>
+
+
+
+<h2 class="wp-block-heading">Web Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Site Map(s)</li><li>Lo-Fi UX Wireframes (e.g. Adobe XD Prototypes)</li><li>Style Tiles
+<ul><li>Color Studies</li><li>Type Studies</li></ul>
+</li></ul>
+
+
+
+<h2 class="wp-block-heading">Print Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Sketches</li><li>Lo-Fi Wireframes/Diagrams</li><li>Style Tiles
+<ul><li>Color Studies</li><li>Type Studies</li></ul>
+</li></ul>
+
+
+
+<h2 class="wp-block-heading">Motion Projects</h2>
+
+
+
+<p><em>Key Deliverables:</em></p>
+
+
+
+<ul><li>Writing/Planning related:
+<ul><li>Synopsis</li><li>Outline</li></ul>
+</li><li>Pre-Visualization related:
+<ul><li>Storyboards</li><li>Story Reel</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Other Considerations</h3>
+
+
+
+<p><em>Related Deliverables:</em></p>
+
+
+
+<ul><li>Content Strategies
+<ul><li>User flow charts</li><li>Content language (nomenclature) options and writing styles (high risk? low risk? informal? formal?)</li><li>Content docs, maps, and matrices</li></ul>
+</li><li>Visual Studies:
+<ul><li>Mood Boards</li><li>List of Potential UI Components and Design Patterns</li><li>Visual and Technical Tests (as many as needed to help define the visual style)</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul><li><a href="http://www.creativemedia.space/conceptual-planning/">How to Begin Planning: A Guide to Conceptual Project Planning</a> (Lesson)</li><li><a href="https://www.usability.gov/">Usability.gov</a> <a href="https://www.usability.gov/how-to-and-tools/methods/index.html">methods</a>:
+<ul><li><a href="https://www.usability.gov/how-to-and-tools/methods/develop-plan.html">Develop a Project Plan</a></li><li><a href="https://www.usability.gov/what-and-why/project-management.html">Project Management Basics</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html">Kick-Off Meeting</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/requirements.html">Website Requirements</a></li><li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">User Design Basics</a></li><li><a href="https://www.usability.gov/what-and-why/user-research.html">User Research</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html">Heuristic Evaluation/Expert Review</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html">Online Surveys</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">Focus Groups</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html">Individual Interviews</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html">Contextual Interview</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">Personas</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/use-cases.html">Use Cases</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis</a></li><li><a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a></li><li><a href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">User Centered Design Process Map</a></li></ul>
+</li><li><a href="https://webstandards.hhs.gov/guidelines/">Usability Guidelines</a> from <a href="https://webstandards.hhs.gov/">HHS.gov Web Standards and Usability Guidelines</a>
+<ul><li><a href="https://webstandards.hhs.gov/guidelines/2">Establish User Requirements</a></li><li><a href="https://webstandards.hhs.gov/guidelines/3">Understand and Meet User&#8217;s Expectations</a></li><li><a href="https://webstandards.hhs.gov/guidelines/5">Set and State Goals</a></li><li><a href="https://webstandards.hhs.gov/guidelines/7">Consider Many User Interface Issues</a></li><li><a href="https://webstandards.hhs.gov/guidelines/9">Set Usability Goals</a></li></ul>
+</li><li>From <a href="https://www.userfocus.co.uk/">User Focus UK</a>
+<ul><li><a href="https://www.userfocus.co.uk/articles/field-guide-to-psychology.html">The User Researcher’s Field Guide to Psychology</a></li><li><a href="https://www.userfocus.co.uk/articles/user-journey-mapping-workshop.html">User Journey Mapping</a></li><li><a href="https://www.userfocus.co.uk/articles/desk-research-the-what-why-and-how.html">Desk research: the what, why and how</a></li></ul>
+</li><li><a href="https://briefbox.me/">Brief Box</a></li><li>Typography-related resources (e.g. for Style Tiles)
+<ul><li><a href="https://css-tricks.com/fout-foit-foft/">FOUT</a>&nbsp;(&#8220;Flash Of Un-styled Text)</li><li><a href="https://fonts.google.com/">Google fonts</a></li><li><a href="https://typekit.com/">Typekit</a>&nbsp;(by Adobe)</li><li><a href="https://www.fontsquirrel.com/">Font Squirrel</a></li><li><a href="https://www.cssfontstack.com/">CSS Font Stack</a></li><li><a href="https://www.typewolf.com/">Type Wolf</a></li><li><a href="https://unsplash.com/">Unsplash</a>&nbsp;– royalty free photos</li></ul>
+</li></ul>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul><li>Define and plan for client-based projects in a clear, concise, and organized manner.</li><li>Apply best practices for user centered design using user research methods and guidelines.</li><li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>..//assignment-conceptual-plans/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1584</post-id>	</item>
+		<item>
+		<title>Project Brief</title>
+		<link>..//assignment-project-brief/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 11 Jan 2018 13:41:57 +0000</pubDate>
+				<category><![CDATA[Assignments]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/?p=1259</guid>
+
+					<description><![CDATA[The Essentials To Starting a Design Project A project brief is a practical and useful tool used as a first step in summarizing creative projects. It is used as foundational framework for developing strategic creative solutions to real-world project challenges. A Design brief is a written document for a design project developed by a person &#8230;<p class="read-more"> <a class="" href="../assignment-project-brief/"> <span class="screen-reader-text">Project Brief</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">The Essentials To Starting a Design Project</h3>
+
+
+
+<p>A project brief is a practical and useful tool used as a first step in summarizing creative projects. It is used as foundational framework for developing strategic creative solutions to real-world project challenges.</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://youtu.be/aQc2D74ZQHE" target="_blank" rel="noreferrer noopener">View Video Lesson</a></div>
+</div>
+
+
+
+<blockquote class="wp-block-quote">
+<p>A Design brief is a written document for a design project developed by a person or team (the &#8216;designer&#8217; or &#8216;design team&#8217;) in consultation with the &#8216;client&#8217;. They outline the deliverables and scope of the project including any products or works (function and aesthetics), timing and budget.<br> &#8211; <a href="https://en.wikipedia.org/wiki/Design_brief">Wikipedia</a></p>
+</blockquote>
+
+
+
+<div style="height:42px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:49px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">Project Brief Example:</h3>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://docs.google.com/document/d/12pxXLyKJAh8pTlNk14IrBqbw-gE5URpKIzXl6p1LYl4/edit?usp=sharing" target="_blank" rel="noreferrer noopener">View a Project Brief Example (Google Doc)</a></div>
+
+
+
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-border-color wp-element-button" href="https://docs.google.com/document/d/12pxXLyKJAh8pTlNk14IrBqbw-gE5URpKIzXl6p1LYl4/copy" style="border-color:#7d7a1c" target="_blank" rel="noreferrer noopener">Make a Copy of the Project Brief Doc</a></div>
+</div>
+
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p><strong>Client:</strong> Client Name</p>
+
+
+
+<p><strong>Brief Summary:&nbsp;</strong></p>
+
+
+
+<p>The Summary is a quick introduction to the project in a single paragraph form. It should be a brief overview of the project, similar to an editorial nut graph in journalism. Suggested length is 4-5 sentences. Things to consider: the <em>who</em>, <em>what</em>, <em>why</em>, <em>when</em>, and <em>how</em>.</p>
+
+
+
+<p><strong>Primary Objectives:</strong></p>
+
+
+
+<ul>
+<li>These should short, clear, and actionable.</li>
+
+
+
+<li>List as many as you need, but try to keep this list short (under 1-3).</li>
+</ul>
+
+
+
+<p><strong>Target Audience and Primary Stakeholders:</strong></p>
+
+
+
+<ul>
+<li>List all parties that are involved, affected, invested, and impacted by this project.</li>
+</ul>
+
+
+
+<p><strong>Deliverables:</strong></p>
+
+
+
+<ul>
+<li>List all items that will be created and delivered.</li>
+
+
+
+<li>Tip: Do not be vague and general, be clear and exact.</li>
+</ul>
+
+
+
+<p><strong>Features &amp; Functionality:</strong></p>
+
+
+
+<ul>
+<li>List all important features and functionality here, such as technology-related items.</li>
+</ul>
+
+
+
+<p><strong>Project Schedule, Timeline, &amp; Key Deadlines:</strong></p>
+
+
+
+<ul>
+<li>If known, list the key dates for each deliverable. If unknown, consider listing an approximate schedule with proposed deadlines</li>
+
+
+
+<li>Example:
+<ul>
+<li>Phase I: Project Kickoff Meeting: May 15</li>
+
+
+
+<li>Phase II: Early Prototype &#8211; June 1</li>
+
+
+
+<li>Phase III: Designs
+<ul>
+<li>Initial Designs (3): June 15</li>
+
+
+
+<li>Revised Designs (2): July 1</li>
+
+
+
+<li>Final Designs:: July 15</li>
+</ul>
+</li>
+
+
+
+<li>Phase IV: Development
+<ul>
+<li>First Draft: August 1</li>
+
+
+
+<li>Revised: August 15</li>
+</ul>
+</li>
+
+
+
+<li>Phase V: Diligence
+<ul>
+<li>Final Product Launch: September 1</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p><strong>Assets needed:</strong></p>
+
+
+
+<ul>
+<li>List all things that you need to gather to complete the project, such as client assets (e.g. logo), copy (e.g. text), imagery (e.g. photography, video), any custom graphics needed (e.g. icons, illustration), and audio (music, voice over, sound effects)</li>
+</ul>
+
+
+
+<p><strong>Competitive Analysis:</strong></p>
+
+
+
+<ul>
+<li>Become a &#8220;mini-expert&#8221; in your client&#8217;s field by listing relevant competitors.</li>
+
+
+
+<li>Tip: Consider showing visual examples from each listed competitor.</li>
+
+
+
+<li>Tip: in addition to listing direct businesses in the same field/industry (e.g. local companies), consider listing national and international competitors in the same and/or related field that might be relevant to note and share as part of your research.</li>
+</ul>
+
+
+
+<p><strong>Visual Precedents:&nbsp;</strong></p>
+
+
+
+<p>As you do conduct your background research, be sure to collect visual examples of existing products that are relevant and potentially important to this project.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Initial Things to Consider</h2>
+
+
+
+<p><em>As you write up a project brief, be sure to consider the following questions</em></p>
+
+
+
+<ul>
+<li>What is the primary <strong><em>design problem</em></strong> that needs to be solved?</li>
+
+
+
+<li>Who are the target&nbsp;<strong><em>users </em></strong>and what are their primary <strong><em>goals</em></strong>? What specific <strong><em>tasks</em></strong> are they trying to do?</li>
+
+
+
+<li>What interesting <strong><em>conceptual</em></strong> solutions might there be? Any&nbsp;<em>out-of-the-box</em>&nbsp;<em>original</em> ideas that are both <em>aesthetic</em> and <em>functional</em>?</li>
+
+
+
+<li>What is the <em><strong>scope</strong></em> of this project? Can I realistically complete it successfully within the existing timeframe and budget?</li>
+</ul>
+
+
+
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Essential Elements to Include</h2>
+
+
+
+<p><em>Be sure to note the items in bold</em></p>
+
+
+
+<ul>
+<li>Project Name</li>
+
+
+
+<li>Client Name</li>
+
+
+
+<li>Brief Summary</li>
+
+
+
+<li><em><strong>Primary Objective(s)</strong></em></li>
+
+
+
+<li>Target Audience and Primary Stakeholders</li>
+
+
+
+<li><em><strong>Deliverables</strong> (be sure to define them clearly)</em></li>
+
+
+
+<li>Features, functionalities, &amp; technologies</li>
+
+
+
+<li>Project Schedule with deadlines</li>
+
+
+
+<li>Assets needed</li>
+
+
+
+<li>Competitive Analysis (examples of competitor sites)</li>
+
+
+
+<li><em><strong>Visual Precedents</strong> (be sure to include screenshots)</em></li>
+</ul>
+
+
+
+<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Other Elements to Consider Including</h2>
+
+
+
+<p><em>These might be helpful to identify and define upfront with your client at the very beginning of the project</em></p>
+
+
+
+<ul>
+<li><em><strong>User Profiles</strong></em> (Personas) &amp;&nbsp;<em><strong>User Scenarios</strong>&nbsp;(specific user situations with clear goals and tasks)</em></li>
+
+
+
+<li>User Flow Charts (diagrams for how users might interact with the product)</li>
+
+
+
+<li>Surveys and Questionnaire questions to gather user data</li>
+
+
+
+<li>Keyword lists to help identify conceptual themes that will match and enhance the client brand</li>
+</ul>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="wp-block-heading">User Profile &amp; User Scenario Examples:</h3>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-8 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user3-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1272" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user2-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1271" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter"><img decoding="async" loading="lazy" width="525" height="525" src="https://i0.wp.com/www.creativemedia.space/wp-content/uploads/2018/01/user1-avatar.gif?resize=525%2C525&#038;ssl=1" alt="" class="wp-image-1270" data-recalc-dims="1"/></figure>
+
+
+
+<p>This user is in this <strong><em>environment</em></strong>&nbsp;(e.g. in car on cell phone, or at work on a laptop) and wants&nbsp;<em>to </em>achieve this <em><strong>goal</strong></em>. To do so, this user tries to do this <em><strong>task</strong></em>. He/she tries this <em><strong>subtask</strong></em>, then this&nbsp;<em><strong>subtask</strong></em>, then this <strong><em>subtask</em></strong>. In the current <em><strong>user scenario</strong></em>, this user ends up with this <em><strong>result</strong></em> (<em>was the goal achieved? yes/no? yes, but struggled? yes, but too many steps?</em>)</p>
+</div>
+</div>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>Project briefs can be a simple as a brief, half-page text document (for small projects) and can be as complex as multi-page reports containing detailed background information, project specifications, and a fully designed layout. There is no one-size-fits-all project brief for all client projects, so each project brief should be custom designed to help clearly define the project to all parties involved (e.g. so both the client and the designer are on the same page).</p>
+
+
+
+<p>More importantly, project briefs are good opportunities to explore interesting conceptual possibilities and solutions before getting too far committed in the design and development process. So take advantage of this exercise and have fun with it!</p>
+
+
+
+<h3 class="wp-block-heading">Related Resources and Reading</h3>
+
+
+
+<ul>
+<li><a href="https://www.usability.gov/">Usability.gov</a><a href="https://www.usability.gov/how-to-and-tools/methods/index.html">methods</a>:
+<ul>
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/develop-plan.html">Develop a Project Plan</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/project-management.html">Project Management Basics</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/kick-off-meeting.html">Kick-Off Meeting</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/requirements.html">Website Requirements</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/user-centered-design.html">User Design Basics</a></li>
+
+
+
+<li><a href="https://www.usability.gov/what-and-why/user-research.html">User Research</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html">Heuristic Evaluation/Expert Review</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html">First Click Testing</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/online-surveys.html">Online Surveys</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/focus-groups.html">Focus Groups</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/individual-interviews.html">Individual Interviews</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/contextual-interview.html">Contextual Interview</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/personas.html">Personas</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/scenarios.html">Scenarios</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/use-cases.html">Use Cases</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/task-analysis.html">Task Analysis</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/methods/content-inventory.html">Content Inventory</a></li>
+
+
+
+<li><a href="https://www.usability.gov/how-to-and-tools/resources/ucd-map.html">User Centered Design Process Map</a></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/">Usability Guidelines</a> from <a href="https://webstandards.hhs.gov/">HHS.gov Web Standards and Usability Guidelines</a>
+<ul>
+<li><a href="https://webstandards.hhs.gov/guidelines/2">Establish User Requirements</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/3">Understand and Meet User&#8217;s Expectations</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/5">Set and State Goals</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/7">Consider Many User Interface Issues</a></li>
+
+
+
+<li><a href="https://webstandards.hhs.gov/guidelines/9">Set Usability Goals</a></li>
+</ul>
+</li>
+
+
+
+<li>From <a href="https://www.userfocus.co.uk/">User Focus UK</a>
+<ul>
+<li><a href="https://www.userfocus.co.uk/articles/field-guide-to-psychology.html">The User Researcher’s Field Guide to Psychology</a></li>
+
+
+
+<li><a href="https://www.userfocus.co.uk/articles/user-journey-mapping-workshop.html">User Journey Mapping</a></li>
+
+
+
+<li><a href="https://www.userfocus.co.uk/articles/desk-research-the-what-why-and-how.html">Desk research: the what, why and how</a></li>
+</ul>
+</li>
+
+
+
+<li><a href="https://briefbox.me/">Brief Box</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Author Notes</h3>
+
+
+
+<p>This was written specifically to help aspiring web designers as they aim to:</p>
+
+
+
+<ul>
+<li>Define and plan for client-based projects in a clear, concise, and organized manner.</li>
+
+
+
+<li>Apply best practices for user centered design using user research methods and guidelines.</li>
+
+
+
+<li>Communicate project-related goals, deliverables, issues, and concerns to both clients and internal team members (co-workers).</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1259</post-id>	</item>
+		<item>
+		<title>Jakob Nielson</title>
+		<link>..//jakob-nielson/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 21:44:09 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/jakob-nielson/</guid>
+
+					<description><![CDATA[Usability expert behind Nielsen Norman Group (NN/G) and Alertbox, Jakob Nielsen, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with Dr. Donald A. Norman (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has &#8230;<p class="read-more"> <a class="" href="../jakob-nielson/"> <span class="screen-reader-text">Jakob Nielson</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Usability expert behind <a href="https://www.nngroup.com/">Nielsen Norman Group (NN/G)</a> and Alertbox, <a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a>, Ph.D., is a User Advocate and principal of the Nielsen Norman Group which he co-founded with <a href="https://www.nngroup.com/people/don-norman/">Dr. Donald A. Norman</a> (former VP of research at Apple Computer). Dr. Nielsen established the &#8220;discount usability engineering&#8221; movement for fast and cheap improvements of user interfaces and has invented several usability methods, including heuristic evaluation. He holds 79 United States patents, mainly on ways of making the Internet easier to use.</p>
+<div style="clear: both;">
+<h2></h2>
+</div>
+<h3>Articles by Jakob Nielsen at NN/G:</h3>
+<ul>
+<li><a href="https://www.nngroup.com/articles/top-10-mistakes-web-design/"><strong>Jakob Nielsen&#8217;s Top 10 Mistakes in Web Design</strong></a><br />
+A short list of egregious offenses against users, such as Bad Search, PDF files for online reading, not changing the color of visited links, non-scannable text (the &#8220;wall of text&#8221;), fixed font sizes, poor page titles, anything that looks like an ad, violating design conventions, opening new browser windows, and not answering user questions.</li>
+<li><a href="https://www.nngroup.com/articles/ten-good-deeds-in-web-design/"><strong>Jakob Nielsen&#8217;s 10 Good Deeds in Web Design</strong></a><br />
+Ten design elements that would increase the usability of all websites if they were employed more widely. List includes things such as placing your name and logo on every page and make the logo a link to the home page, providing search if the site has more than 100 pages, and writing straightforward and simple headlines and page titles.</li>
+<li><a href="https://www.nngroup.com/articles/top-10-ia-mistakes/"><strong>Jakob Nielsen&#8217;s Top 10 Information Architecture (IA) Mistakes</strong></a><br />
+Structure and navigation must support each other and integrate with search and across subsites. Complexity, inconsistency, hidden options, and clumsy UI mechanics prevent users from finding what they need.</li>
+<li><a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/"><strong>Jakob Nielsen&#8217;s Usability 101: Introduction to Usability</strong></a><br />
+Usability is a quality attribute that assesses how easy user interfaces are to use. The word &#8220;usability&#8221; also refers to methods for improving ease-of-use during the design process. Usability is defined by 5 quality components: Learnability, Efficiency, Memorability, Errors, and Satisfaction.</li>
+<li><a href="https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/"><strong>Jakob Nielsen&#8217;s Top 10 Guidelines for Homepage Usability</strong></a><br />
+The homepage is often times the starting point for user visits. Improving the homepage multiplies the entire website&#8217;s value, so following key guidelines for homepage usability is important.</li>
+<li><a href="https://www.nngroup.com/articles/most-violated-homepage-guidelines/"><strong>Jakob Nielsen&#8217;s 10 Most Violated Homepage Design Guidelines</strong></a><br />
+A short list of ten usability mistakes that about two-thirds of corporate websites make, according to Nielsen Norman Group. The prevalence of these errors alone warrants attention.</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>Donald Norman</title>
+		<link>..//donald-norman/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2017 06:44:17 +0000</pubDate>
+				<category><![CDATA[People]]></category>
+		<category><![CDATA[User-centered Design]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/donald-norman/</guid>
+
+					<description><![CDATA[Author of The Design of Everyday Things,  Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the Nielsen Norman Group. &#160;]]></description>
+										<content:encoded><![CDATA[<p>Author of <em>The Design of Everyday Things, </em> Donald Norman is widely regarded for his expertise in the fields of design, usability engineering, and cognitive science. He is co-founder and consultant with the <a href="https://www.nngroup.com/">Nielsen Norman Group</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">728</post-id>	</item>
+		<item>
+		<title>Don&#8217;t Make Me Think by Steve Krug</title>
+		<link>..//dont-make-me-think-by-steve-krug/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 23:36:34 +0000</pubDate>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/dont-make-me-think-by-steve-krug/</guid>
+
+					<description><![CDATA[Don&#8217;t Make Me Think by Steve Krug is an easy-to-read classic.]]></description>
+										<content:encoded><![CDATA[<p><a href="//www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=la_B001KHCFUU_1_1?s=books&amp;ie=UTF8&amp;qid=1503531073&amp;sr=1-1“">Don&#8217;t Make Me Think</a> <br /> by Steve Krug is an easy-to-read classic.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">234</post-id>	</item>
+	</channel>
+</rss>

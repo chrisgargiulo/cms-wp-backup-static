@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Podcasts &#8211; CMS</title>
+	<atom:link href="../category/podcasts/feed/" rel="self" type="application/rss+xml" />
+	<link>..//</link>
+	<description>Creative Media Space</description>
+	<lastBuildDate>Thu, 14 Sep 2023 23:44:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Podcasts &#8211; CMS</title>
+	<link>..//</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">163816717</site>	<item>
+		<title>Syntax</title>
+		<link>..//syntax/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2020 20:33:02 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<guid isPermaLink="false">..//?p=3800</guid>
+
+					<description><![CDATA[Syntax (https://syntax.fm/) is a web design podcast hosted by Wes Bos and Scott Tolinski that is well suited for web developers and those interested in learning more about Javascript. They cover both frontend and backend web development topics, including HTML, CSS, and the many modern web technologies and build tools.]]></description>
+										<content:encoded><![CDATA[
+<p>Syntax (<a href="https://syntax.fm/">https://syntax.fm/</a>) is a web design podcast hosted by Wes Bos and Scott Tolinski that is well suited for web developers and those interested in learning more about Javascript. They cover both frontend and backend web development topics, including HTML, CSS, and the many modern web technologies and build tools.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3800</post-id>	</item>
+		<item>
+		<title>CSS Podcast</title>
+		<link>..//css-podcast/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 20:50:47 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">..//?p=3591</guid>
+
+					<description><![CDATA[CSS Podcast (https://thecsspodcast.libsyn.com/) hosted by Una Kravets and Adam Argyle, Developer Advocates from Google, who discuss all things CSS in short, digestible episodes.]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://thecsspodcast.libsyn.com/">CSS Podcast</a> (<a href="https://thecsspodcast.libsyn.com/">https://thecsspodcast.libsyn.com/</a>) hosted by Una Kravets and Adam Argyle, Developer Advocates from Google, who discuss all things CSS in short, digestible episodes.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3591</post-id>	</item>
+		<item>
+		<title>Smashing Magazine Podcast</title>
+		<link>..//smashing-magazine-podcast/</link>
+		
+		<dc:creator><![CDATA[Chris Gargiulo]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2020 01:11:20 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<guid isPermaLink="false">..//?p=3515</guid>
+
+					<description><![CDATA[The Smashing Magazine Podcast is an interview-based podcast from Smashing Magazine. Host Drew McLellan talks to design and development experts about their work on the web, as well as recent news and articles at Smashing Magazine. Links Podcast-specific: https://podcast.smashingmagazine.com/ https://www.smashingmagazine.com/category/smashing-podcast https://podcasts.apple.com/us/podcast/smashing-podcast/id1485403438 Smashing Magazine: https://www.smashingmagazine.com/ &#160;]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://podcast.smashingmagazine.com/">The Smashing Magazine Podcast</a> is an interview-based podcast from <a href="https://www.smashingmagazine.com/">Smashing Magazine</a>. Host Drew McLellan talks to design and development experts about their work on the web, as well as recent news and articles at Smashing Magazine.</p>
+
+
+
+<h3 class="wp-block-heading">Links</h3>
+
+
+
+<ul><li>Podcast-specific:
+<ul>
+<li><a href="https://podcast.smashingmagazine.com/">https://podcast.smashingmagazine.com/</a></li>
+<li><a href="https://www.smashingmagazine.com/category/smashing-podcast">https://www.smashingmagazine.com/category/smashing-podcast</a></li>
+<li><a href="https://podcasts.apple.com/us/podcast/smashing-podcast/id1485403438">https://podcasts.apple.com/us/podcast/smashing-podcast/id1485403438</a></li>
+</ul>
+</li><li>Smashing Magazine:
+<ul>
+<li><a href="https://www.smashingmagazine.com/">https://www.smashingmagazine.com/</a></li>
+</ul>
+</li></ul>
+
+
+
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3515</post-id>	</item>
+		<item>
+		<title>Design Matters with Debbie Millman</title>
+		<link>..//design-matters-with-debbie-millman/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 20:11:43 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/design-matters-with-debbie-millman/</guid>
+
+					<description><![CDATA[Debbie Millman&#8217;s Design Matters podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought.]]></description>
+										<content:encoded><![CDATA[<p>Debbie Millman&#8217;s <a href="https://www.designmattersmedia.com/">Design Matters</a> podcast about design and an inquiry into the broader world of creative culture through wide-ranging conversations with designers, writers, artists, curators, musicians, and other luminaries of contemporary thought.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">812</post-id>	</item>
+		<item>
+		<title>Shop Talk</title>
+		<link>..//shop-talk/</link>
+		
+		<dc:creator><![CDATA[cms]]></dc:creator>
+		<pubDate>Wed, 23 Aug 2017 20:43:23 +0000</pubDate>
+				<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Front-end Web Development]]></category>
+		<guid isPermaLink="false">https://www.creativemedia.space/shop-talk/</guid>
+
+					<description><![CDATA[The Shop Talk Show is a radio show about the internet starring Dave Rupert and Chris Coyier (from Codepen and CSS Tricks).]]></description>
+										<content:encoded><![CDATA[<p>The <a href="http://shoptalkshow.com/">Shop Talk Show</a> is a radio show about the internet starring <a href="http://daverupert.com/">Dave Rupert </a>and <a href="https://chriscoyier.net/">Chris Coyier</a> (from <a href="https://codepen.io/">Codepen</a> and <a href="https://css-tricks.com/">CSS Tricks</a>).</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">193</post-id>	</item>
+	</channel>
+</rss>
