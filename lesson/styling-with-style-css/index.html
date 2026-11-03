@@ -3,24 +3,36 @@
 
 <head>
 	<meta charset="UTF-8">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
-	<link rel="manifest" href="../superpwa-manifest.json">
-	<link rel="prefetch" href="../superpwa-manifest.json">
+	<link rel="manifest" href="../..//superpwa-manifest.json">
 	<meta name="theme-color" content="#ffffff">
 	<!-- / SuperPWA.com -->
-	<title>Styling with Style.css &#8211; CMS</title>
+	<title>Styling with Style.css – CMS</title>
 	<meta name="robots" content="noindex, nofollow">
-	<link rel="dns-prefetch" href="https://stats.wp.com">
+	<link rel="dns-prefetch" href="https://cpwebassets.codepen.io">
 	<link rel="dns-prefetch" href="https://use.typekit.net">
 	<link rel="dns-prefetch" href="https://v0.wordpress.com">
-	<link rel="dns-prefetch" href="https://i0.wp.com">
-	<link rel="dns-prefetch" href="https://c0.wp.com">
-	<link rel="alternate" type="application/rss+xml" title="CMS &raquo; Feed" href="../feed/">
-	<link rel="alternate" type="application/rss+xml" title="CMS &raquo; Comments Feed" href="../comments/feed/">
-	<link rel="stylesheet" id="astra-theme-css-css" href="../wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.9.4" media="all">
+	<link rel="preconnect" href="https://i0.wp.com">
+	<link rel="preconnect" href="https://c0.wp.com">
+	<link rel="alternate" type="application/rss+xml" title="CMS » Feed" href="../..//feed/index.html">
+	<link rel="alternate" type="application/rss+xml" title="CMS » Comments Feed" href="../..//comments/feed/index.html">
+	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
+		href="../..//wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flesson%2Fstyling-with-style-css%2F">
+	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
+		href="../..//wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flesson%2Fstyling-with-style-css%2F&amp;format=xml">
+	<style id="wp-img-auto-sizes-contain-inline-css">
+		img:is([sizes=auto i], [sizes^="auto," i]) {
+			contain-intrinsic-size: 3000px 1500px
+		}
+
+		/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+	</style>
+	<link rel="stylesheet" id="astra-theme-css-css"
+		href="../..//wp-content/themes/astra/assets/css/minified/style.min.css?ver=4.12.0" media="all">
 	<style id="astra-theme-css-inline-css">
 		.ast-no-sidebar .entry-content .alignfull {
 			margin-left: calc(-50vw + 50%);
@@ -111,6 +123,7 @@
 		}
 
 		:root {
+			--ast-post-nav-space: 0;
 			--ast-container-default-xlg-padding: 6.67em;
 			--ast-container-default-lg-padding: 5.67em;
 			--ast-container-default-slg-padding: 4.34em;
@@ -118,6 +131,27 @@
 			--ast-container-default-sm-padding: 6.67em;
 			--ast-container-default-xs-padding: 2.4em;
 			--ast-container-default-xxs-padding: 1.4em;
+			--ast-code-block-background: #EEEEEE;
+			--ast-comment-inputs-background: #FAFAFA;
+			--ast-normal-container-width: 1200px;
+			--ast-narrow-container-width: 750px;
+			--ast-blog-title-font-weight: normal;
+			--ast-blog-meta-weight: inherit;
+			--ast-global-color-primary: var(--ast-global-color-5);
+			--ast-global-color-secondary: var(--ast-global-color-4);
+			--ast-global-color-alternate-background: var(--ast-global-color-7);
+			--ast-global-color-subtle-background: var(--ast-global-color-6);
+			--ast-bg-style-guide: var(--ast-global-color-secondary, --ast-global-color-5);
+			--ast-shadow-style-guide: 0px 0px 4px 0 #00000057;
+			--ast-global-dark-bg-style: #fff;
+			--ast-global-dark-lfs: #fbfbfb;
+			--ast-widget-bg-color: #fafafa;
+			--ast-wc-container-head-bg-color: #fbfbfb;
+			--ast-title-layout-bg: #eeeeee;
+			--ast-search-border-color: #e7e7e7;
+			--ast-lifter-hover-bg: #e6e6e6;
+			--ast-gallery-block-color: #000;
+			--srfm-color-input-label: var(--ast-global-color-2);
 		}
 
 		html {
@@ -145,6 +179,7 @@
 			font-weight: 400;
 			font-size: 16px;
 			font-size: 1rem;
+			line-height: var(--ast-body-line-height, 1.65em);
 		}
 
 		blockquote {
@@ -152,21 +187,20 @@
 		}
 
 		h1,
-		.entry-content h1,
 		h2,
-		.entry-content h2,
 		h3,
-		.entry-content h3,
 		h4,
-		.entry-content h4,
 		h5,
-		.entry-content h5,
 		h6,
-		.entry-content h6,
+		.entry-content :where(h1, h2, h3, h4, h5, h6),
 		.site-title,
 		.site-title a {
 			font-family: 'Kepler-Std', kepler-std, serif;
 			font-weight: 400;
+		}
+
+		.ast-site-identity .site-title a {
+			color: var(--ast-global-color-2);
 		}
 
 		.site-title {
@@ -177,15 +211,11 @@
 
 		header .custom-logo-link img {
 			max-width: 80px;
+			width: 80px;
 		}
 
 		.astra-logo-svg {
 			width: 80px;
-		}
-
-		.ast-archive-description .ast-archive-title {
-			font-size: 40px;
-			font-size: 2.5rem;
 		}
 
 		.site-header .site-description {
@@ -195,56 +225,63 @@
 		}
 
 		.entry-title {
-			font-size: 30px;
-			font-size: 1.875rem;
+			font-size: 26px;
+			font-size: 1.625rem;
+		}
+
+		.archive .ast-article-post .ast-article-inner,
+		.blog .ast-article-post .ast-article-inner,
+		.archive .ast-article-post .ast-article-inner:hover,
+		.blog .ast-article-post .ast-article-inner:hover {
+			overflow: hidden;
 		}
 
 		h1,
-		.entry-content h1 {
+		.entry-content :where(h1) {
 			font-size: 40px;
 			font-size: 2.5rem;
 			font-family: 'Kepler-Std', kepler-std, serif;
+			line-height: 1.4em;
 		}
 
 		h2,
-		.entry-content h2 {
-			font-size: 30px;
-			font-size: 1.875rem;
+		.entry-content :where(h2) {
+			font-size: 32px;
+			font-size: 2rem;
 			font-family: 'Kepler-Std', kepler-std, serif;
+			line-height: 1.3em;
 		}
 
 		h3,
-		.entry-content h3 {
-			font-size: 25px;
-			font-size: 1.5625rem;
+		.entry-content :where(h3) {
+			font-size: 26px;
+			font-size: 1.625rem;
 			font-family: 'Kepler-Std', kepler-std, serif;
+			line-height: 1.3em;
 		}
 
 		h4,
-		.entry-content h4 {
-			font-size: 20px;
-			font-size: 1.25rem;
+		.entry-content :where(h4) {
+			font-size: 24px;
+			font-size: 1.5rem;
+			line-height: 1.2em;
 			font-family: 'Kepler-Std', kepler-std, serif;
 		}
 
 		h5,
-		.entry-content h5 {
-			font-size: 18px;
-			font-size: 1.125rem;
+		.entry-content :where(h5) {
+			font-size: 20px;
+			font-size: 1.25rem;
+			line-height: 1.2em;
 			font-family: 'Kepler-Std', kepler-std, serif;
 		}
 
 		h6,
-		.entry-content h6 {
-			font-size: 15px;
-			font-size: 0.9375rem;
+		.entry-content :where(h6) {
+			font-size: 16px;
+			font-size: 1rem;
+			line-height: 1.25em;
 			font-family: 'Kepler-Std', kepler-std, serif;
-		}
-
-		.ast-single-post .entry-title,
-		.page-title {
-			font-size: 30px;
-			font-size: 1.875rem;
 		}
 
 		::selection {
@@ -254,18 +291,13 @@
 
 		body,
 		h1,
-		.entry-title a,
-		.entry-content h1,
 		h2,
-		.entry-content h2,
 		h3,
-		.entry-content h3,
 		h4,
-		.entry-content h4,
 		h5,
-		.entry-content h5,
 		h6,
-		.entry-content h6 {
+		.entry-title a,
+		.entry-content :where(h1, h2, h3, h4, h5, h6) {
 			color: #333333;
 		}
 
@@ -316,10 +348,10 @@
 			color: #7d7a1c;
 		}
 
-		.entry-meta a:hover,
-		.entry-meta a:hover *,
-		.entry-meta a:focus,
-		.entry-meta a:focus *,
+		.entry-meta a:not(.ast-button):hover,
+		.entry-meta a:not(.ast-button):hover *,
+		.entry-meta a:not(.ast-button):focus,
+		.entry-meta a:not(.ast-button):focus *,
 		.page-links>.page-link,
 		.page-links .page-link:hover,
 		.post-navigation a:hover {
@@ -352,7 +384,25 @@
 			color: #7d7a1c;
 		}
 
-		.widget-title {
+		.ast-search-menu-icon .search-form button.search-submit {
+			padding: 0 4px;
+		}
+
+		.ast-search-menu-icon form.search-form {
+			padding-right: 0;
+		}
+
+		.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form,
+		.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus {
+			transition: all 0.2s;
+		}
+
+		.search-form input.search-field:focus {
+			outline: none;
+		}
+
+		.widget-title,
+		.widget .wp-block-heading {
 			font-size: 22px;
 			font-size: 1.375rem;
 			color: #333333;
@@ -365,6 +415,57 @@
 		#secondary textarea {
 			font-size: 16px;
 			font-size: 1rem;
+		}
+
+		.ast-search-menu-icon.slide-search a:focus-visible:focus-visible,
+		.astra-search-icon:focus-visible,
+		#close:focus-visible,
+		a:focus-visible,
+		.ast-menu-toggle:focus-visible,
+		.site .skip-link:focus-visible,
+		.wp-block-loginout input:focus-visible,
+		.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,
+		.ast-header-navigation-arrow:focus-visible,
+		.ast-orders-table__row .ast-orders-table__cell:focus-visible,
+		a#ast-apply-coupon:focus-visible,
+		#ast-apply-coupon:focus-visible,
+		#close:focus-visible,
+		.button.search-submit:focus-visible,
+		#search_submit:focus,
+		.normal-search:focus-visible,
+		.ast-header-account-wrap:focus-visible,
+		.astra-cart-drawer-close:focus,
+		.ast-single-variation:focus,
+		.ast-button:focus,
+		.ast-builder-button-wrap:has(.ast-custom-button-link:focus),
+		.ast-builder-button-wrap .ast-custom-button-link:focus {
+			outline-style: dotted;
+			outline-color: inherit;
+			outline-width: thin;
+		}
+
+		input:focus,
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="reset"]:focus,
+		input[type="search"]:focus,
+		input[type="number"]:focus,
+		textarea:focus,
+		.wp-block-search__input:focus,
+		[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,
+		.ast-mobile-popup-drawer.active .menu-toggle-close:focus,
+		#ast-scroll-top:focus,
+		#coupon_code:focus,
+		#ast-coupon-code:focus {
+			border-style: dotted;
+			border-color: inherit;
+			border-width: thin;
+		}
+
+		input {
+			outline: none;
 		}
 
 		.main-header-menu .menu-link,
@@ -400,6 +501,18 @@
 			transition: all 0.2s linear;
 		}
 
+		body .ast-oembed-container * {
+			position: absolute;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			left: 0;
+		}
+
+		body .wp-block-embed-pocket-casts .ast-oembed-container * {
+			position: unset;
+		}
+
 		.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle {
 			background: transparent;
 			color: #7d7a1c;
@@ -413,6 +526,64 @@
 
 		.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle {
 			background: #7d7a1c;
+		}
+
+		.ast-single-post-featured-section+article {
+			margin-top: 2em;
+		}
+
+		.site-content .ast-single-post-featured-section img {
+			width: 100%;
+			overflow: hidden;
+			object-fit: cover;
+		}
+
+		.ast-separate-container .site-content .ast-single-post-featured-section+article {
+			margin-top: -80px;
+			z-index: 9;
+			position: relative;
+			border-radius: 4px;
+		}
+
+		@media (min-width: 769px) {
+			.ast-no-sidebar .site-content .ast-article-image-container--wide {
+				margin-left: -120px;
+				margin-right: -120px;
+				max-width: unset;
+				width: unset;
+			}
+
+			.ast-left-sidebar .site-content .ast-article-image-container--wide,
+			.ast-right-sidebar .site-content .ast-article-image-container--wide {
+				margin-left: -10px;
+				margin-right: -10px;
+			}
+
+			.site-content .ast-article-image-container--full {
+				margin-left: calc(-50vw + 50%);
+				margin-right: calc(-50vw + 50%);
+				max-width: 100vw;
+				width: 100vw;
+			}
+
+			.ast-left-sidebar .site-content .ast-article-image-container--full,
+			.ast-right-sidebar .site-content .ast-article-image-container--full {
+				margin-left: -10px;
+				margin-right: -10px;
+				max-width: inherit;
+				width: auto;
+			}
+		}
+
+		.site>.ast-single-related-posts-container {
+			margin-top: 0;
+		}
+
+		@media (min-width: 769px) {
+			.ast-desktop .ast-container--narrow {
+				max-width: var(--ast-narrow-container-width);
+				margin: 0 auto;
+			}
 		}
 
 		#secondary {
@@ -520,6 +691,15 @@
 			;
 		}
 
+		@media(max-width: 420px) {
+
+			.single .nav-links .nav-previous,
+			.single .nav-links .nav-next {
+				width: 100%;
+				text-align: center;
+			}
+		}
+
 		.wp-block-buttons.aligncenter {
 			justify-content: center;
 		}
@@ -540,19 +720,35 @@
 			margin-right: auto;
 		}
 
+		.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,
+		.ast-outline-button,
+		.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button {
+			border-top-width: 2px;
+			border-right-width: 2px;
+			border-bottom-width: 2px;
+			border-left-width: 2px;
+			font-family: inherit;
+			font-weight: inherit;
+			line-height: 1em;
+		}
+
+		.wp-block-buttons .wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color),
+		.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color),
+		.ast-outline-button {
+			color: #beb93b;
+		}
+
+		.wp-block-button .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),
+		.wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:not(.has-background),
+		.ast-outline-button {
+			background-color: transparent;
+		}
+
+		.entry-content[data-ast-blocks-layout]>figure {
+			margin-bottom: 1em;
+		}
+
 		@media (max-width:768px) {
-
-			.ast-separate-container #primary,
-			.ast-separate-container #secondary {
-				padding: 1.5em 0;
-			}
-
-			#primary,
-			#secondary {
-				padding: 1.5em 0;
-				margin: 0;
-			}
-
 			.ast-left-sidebar #content>.ast-container {
 				display: flex;
 				flex-direction: column-reverse;
@@ -676,7 +872,6 @@
 			color: #ffffff;
 			border-color: #7d7a1c;
 			background-color: #7d7a1c;
-			border-radius: 2px;
 			padding-top: 10px;
 			padding-right: 40px;
 			padding-bottom: 10px;
@@ -704,6 +899,32 @@
 			border-color: #585610;
 		}
 
+		@media (max-width:768px) {
+			.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon {
+				display: inline-block;
+			}
+
+			.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon {
+				margin: 0;
+			}
+
+			.ast-comment-avatar-wrap img {
+				max-width: 2.5em;
+			}
+
+			.ast-comment-meta {
+				padding: 0 1.8888em 1.3333em;
+			}
+
+			.ast-separate-container .ast-comment-list li.depth-1 {
+				padding: 1.5em 2.14em;
+			}
+
+			.ast-separate-container .comment-respond {
+				padding: 2em 2.14em;
+			}
+		}
+
 		@media (min-width:544px) {
 			.ast-container {
 				max-width: 100%;
@@ -722,11 +943,6 @@
 			.ast-separate-container #content .ast-container {
 				padding-left: 0.54em;
 				padding-right: 0.54em;
-			}
-
-			.ast-separate-container .ast-comment-list li.depth-1 {
-				padding: 1.5em 1em;
-				margin-bottom: 1.5em;
 			}
 
 			.ast-separate-container .ast-comment-list .bypostauthor {
@@ -753,32 +969,6 @@
 			}
 		}
 
-		@media (max-width:768px) {
-			.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon {
-				display: inline-block;
-			}
-
-			.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon {
-				margin: 0;
-			}
-
-			.ast-comment-avatar-wrap img {
-				max-width: 2.5em;
-			}
-
-			.ast-separate-container .ast-comment-list li.depth-1 {
-				padding: 1.5em 2.14em;
-			}
-
-			.ast-separate-container .comment-respond {
-				padding: 2em 2.14em;
-			}
-
-			.ast-comment-meta {
-				padding: 0 1.8888em 1.3333em;
-			}
-		}
-
 		.footer-adv .tagcloud a:hover,
 		.footer-adv .tagcloud a.current-item {
 			color: #ffffff;
@@ -786,6 +976,10 @@
 
 		.footer-adv .calendar_wrap #today {
 			color: #ffffff;
+		}
+
+		#ast-mobile-header .ast-site-header-cart-li a {
+			pointer-events: none;
 		}
 
 		.ast-no-sidebar.ast-separate-container .entry-content .alignfull {
@@ -832,36 +1026,23 @@
 				display: none;
 			}
 
-			.ast-archive-description .ast-archive-title {
-				font-size: 40px;
-			}
-
 			.site-header .site-description {
 				display: none;
 			}
 
-			.entry-title {
-				font-size: 30px;
-			}
-
 			h1,
-			.entry-content h1 {
+			.entry-content :where(h1) {
 				font-size: 30px;
 			}
 
 			h2,
-			.entry-content h2 {
+			.entry-content :where(h2) {
 				font-size: 25px;
 			}
 
 			h3,
-			.entry-content h3 {
+			.entry-content :where(h3) {
 				font-size: 20px;
-			}
-
-			.ast-single-post .entry-title,
-			.page-title {
-				font-size: 30px;
 			}
 		}
 
@@ -870,42 +1051,30 @@
 				display: none;
 			}
 
-			.ast-archive-description .ast-archive-title {
-				font-size: 40px;
-			}
-
 			.site-header .site-description {
 				display: none;
 			}
 
-			.entry-title {
-				font-size: 30px;
-			}
-
 			h1,
-			.entry-content h1 {
+			.entry-content :where(h1) {
 				font-size: 30px;
 			}
 
 			h2,
-			.entry-content h2 {
+			.entry-content :where(h2) {
 				font-size: 25px;
 			}
 
 			h3,
-			.entry-content h3 {
+			.entry-content :where(h3) {
 				font-size: 20px;
-			}
-
-			.ast-single-post .entry-title,
-			.page-title {
-				font-size: 30px;
 			}
 
 			header .custom-logo-link img,
 			.ast-header-break-point .site-branding img,
 			.ast-header-break-point .custom-logo-link img {
 				max-width: 80px;
+				width: 80px;
 			}
 
 			.astra-logo-svg {
@@ -937,7 +1106,7 @@
 
 		@font-face {
 			font-family: "Astra";
-			src: url(../wp-content/themes/astra/assets/fonts/astra.woff) format("woff"), url(../wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"), url(../wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");
+			src: url(..//wp-content/themes/astra/assets/fonts/astra.woff) format("woff"), url(..//wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"), url(..//wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");
 			font-weight: normal;
 			font-style: normal;
 			font-display: fallback;
@@ -965,9 +1134,6 @@
 
 		.ast-desktop .main-header-menu.submenu-with-border .sub-menu {
 			border-top-width: 2px;
-			border-right-width: 0px;
-			border-left-width: 0px;
-			border-bottom-width: 0px;
 			border-style: solid;
 		}
 
@@ -992,12 +1158,16 @@
 
 		.ast-small-footer {
 			border-top-style: solid;
-			border-top-width: 0;
+			border-top-width: 0px;
 			border-top-color: #7a7a7a;
 		}
 
 		.ast-small-footer-wrap {
 			text-align: center;
+		}
+
+		.site .comments-area {
+			padding-bottom: 3em;
 		}
 
 		.ast-header-break-point.ast-header-custom-item-inside .main-header-bar .main-header-bar-navigation .ast-search-icon {
@@ -1657,6 +1827,7 @@
 			border: none;
 			background: inherit;
 			text-indent: 0;
+			text-decoration: none;
 		}
 
 		.ast-breadcrumbs .trail-browse {
@@ -1681,12 +1852,6 @@
 
 		.trail-items li::after {
 			content: "/";
-		}
-
-		.ast-breadcrumbs-wrapper,
-		.ast-breadcrumbs-wrapper a {
-			font-family: inherit;
-			font-weight: inherit;
 		}
 
 		.ast-breadcrumbs-wrapper {
@@ -1725,27 +1890,22 @@
 		}
 
 		h1,
-		.entry-content h1,
 		h2,
-		.entry-content h2,
 		h3,
-		.entry-content h3,
 		h4,
-		.entry-content h4,
 		h5,
-		.entry-content h5,
 		h6,
-		.entry-content h6 {
+		.entry-content :where(h1, h2, h3, h4, h5, h6) {
 			color: var(--ast-global-color-2);
 		}
 
 		.ast-header-break-point .main-header-bar {
-			border-bottom-width: 0;
+			border-bottom-width: 0px;
 		}
 
 		@media (min-width:769px) {
 			.main-header-bar {
-				border-bottom-width: 0;
+				border-bottom-width: 0px;
 			}
 		}
 
@@ -1859,7 +2019,7 @@
 
 		.main-header-bar .main-header-bar-navigation .page_item_has_children>a:after,
 		.main-header-bar .main-header-bar-navigation .menu-item-has-children>a:after,
-		.site-header-focus-item .main-header-bar-navigation .menu-item-has-children>.menu-link:after {
+		.menu-item-has-children .ast-header-navigation-arrow:after {
 			content: "\e900";
 			display: inline-block;
 			font-family: Astra;
@@ -1872,6 +2032,10 @@
 			line-height: normal;
 		}
 
+		.menu-item-has-children .sub-menu .ast-header-navigation-arrow:after {
+			margin-left: 0;
+		}
+
 		.ast-mobile-popup-drawer .main-header-bar-navigation .ast-submenu-expanded>.ast-menu-toggle::before {
 			transform: rotateX(180deg);
 		}
@@ -1880,100 +2044,904 @@
 			display: none;
 		}
 
-		.ast-separate-container .blog-layout-1,
-		.ast-separate-container .blog-layout-2,
-		.ast-separate-container .blog-layout-3 {
+		@media (min-width:769px) {
+			.ast-builder-menu .main-navigation>ul>li:last-child a {
+				margin-right: 0;
+			}
+		}
+
+		.ast-separate-container .ast-article-inner {
 			background-color: transparent;
 			background-image: none;
 		}
 
 		.ast-separate-container .ast-article-post {
 			background-color: var(--ast-global-color-5);
-			;
 		}
 
 		@media (max-width:768px) {
 			.ast-separate-container .ast-article-post {
 				background-color: var(--ast-global-color-5);
-				;
 			}
 		}
 
 		@media (max-width:544px) {
 			.ast-separate-container .ast-article-post {
 				background-color: var(--ast-global-color-5);
-				;
 			}
 		}
 
 		.ast-separate-container .ast-article-single:not(.ast-related-post),
-		.ast-separate-container .comments-area .comment-respond,
-		.ast-separate-container .comments-area .ast-comment-list li,
-		.ast-separate-container .ast-woocommerce-container,
 		.ast-separate-container .error-404,
 		.ast-separate-container .no-results,
 		.single.ast-separate-container .ast-author-meta,
 		.ast-separate-container .related-posts-title-wrapper,
-		.ast-separate-container.ast-two-container #secondary .widget,
 		.ast-separate-container .comments-count-wrapper,
 		.ast-box-layout.ast-plain-container .site-content,
 		.ast-padded-layout.ast-plain-container .site-content,
+		.ast-separate-container .ast-archive-description,
+		.ast-separate-container .comments-area .comment-respond,
+		.ast-separate-container .comments-area .ast-comment-list li,
 		.ast-separate-container .comments-area .comments-title {
 			background-color: var(--ast-global-color-5);
-			;
 		}
 
 		@media (max-width:768px) {
 
 			.ast-separate-container .ast-article-single:not(.ast-related-post),
-			.ast-separate-container .comments-area .comment-respond,
-			.ast-separate-container .comments-area .ast-comment-list li,
-			.ast-separate-container .ast-woocommerce-container,
 			.ast-separate-container .error-404,
 			.ast-separate-container .no-results,
 			.single.ast-separate-container .ast-author-meta,
 			.ast-separate-container .related-posts-title-wrapper,
-			.ast-separate-container.ast-two-container #secondary .widget,
 			.ast-separate-container .comments-count-wrapper,
 			.ast-box-layout.ast-plain-container .site-content,
 			.ast-padded-layout.ast-plain-container .site-content,
-			.ast-separate-container .comments-area .comments-title {
+			.ast-separate-container .ast-archive-description {
 				background-color: var(--ast-global-color-5);
-				;
 			}
 		}
 
 		@media (max-width:544px) {
 
 			.ast-separate-container .ast-article-single:not(.ast-related-post),
-			.ast-separate-container .comments-area .comment-respond,
-			.ast-separate-container .comments-area .ast-comment-list li,
-			.ast-separate-container .ast-woocommerce-container,
 			.ast-separate-container .error-404,
 			.ast-separate-container .no-results,
 			.single.ast-separate-container .ast-author-meta,
 			.ast-separate-container .related-posts-title-wrapper,
-			.ast-separate-container.ast-two-container #secondary .widget,
 			.ast-separate-container .comments-count-wrapper,
 			.ast-box-layout.ast-plain-container .site-content,
 			.ast-padded-layout.ast-plain-container .site-content,
-			.ast-separate-container .comments-area .comments-title {
+			.ast-separate-container .ast-archive-description {
 				background-color: var(--ast-global-color-5);
-				;
 			}
 		}
-	</style>
-	<link rel="stylesheet" id="astra-lifterlms-css" href="../wp-content/themes/astra/assets/css/minified/compatibility/lifterlms.min.css?ver=3.9.4" media="all">
-	<link rel="stylesheet" id="wp-block-library-css" href="https://c0.wp.com/c/6.3.2/wp-includes/css/dist/block-library/style.min.css" media="all">
-	<style id="wp-block-library-inline-css">
-		.has-text-align-justify {
-			text-align: justify;
+
+		.ast-separate-container.ast-two-container #secondary .widget {
+			background-color: var(--ast-global-color-5);
 		}
+
+		@media (max-width:768px) {
+			.ast-separate-container.ast-two-container #secondary .widget {
+				background-color: var(--ast-global-color-5);
+			}
+		}
+
+		@media (max-width:544px) {
+			.ast-separate-container.ast-two-container #secondary .widget {
+				background-color: var(--ast-global-color-5);
+			}
+		}
+
+		/*# sourceURL=astra-theme-css-inline-css */
 	</style>
-	<link rel="stylesheet" id="mediaelement-css" href="https://c0.wp.com/c/6.3.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css" media="all">
-	<link rel="stylesheet" id="wp-mediaelement-css" href="https://c0.wp.com/c/6.3.2/wp-includes/js/mediaelement/wp-mediaelement.min.css" media="all">
+	<link rel="stylesheet" id="astra-lifterlms-css"
+		href="../..//wp-content/themes/astra/assets/css/minified/compatibility/lifterlms.min.css?ver=4.12.0"
+		media="all">
+	<style id="wp-block-library-inline-css">
+		:root {
+			--wp-block-synced-color: #7a00df;
+			--wp-block-synced-color--rgb: 122, 0, 223;
+			--wp-bound-block-color: var(--wp-block-synced-color);
+			--wp-editor-canvas-background: #ddd;
+			--wp-admin-theme-color: #007cba;
+			--wp-admin-theme-color--rgb: 0, 124, 186;
+			--wp-admin-theme-color-darker-10: #006ba1;
+			--wp-admin-theme-color-darker-10--rgb: 0, 107, 160.5;
+			--wp-admin-theme-color-darker-20: #005a87;
+			--wp-admin-theme-color-darker-20--rgb: 0, 90, 135;
+			--wp-admin-border-width-focus: 2px
+		}
+
+		@media (min-resolution:192dpi) {
+			:root {
+				--wp-admin-border-width-focus: 1.5px
+			}
+		}
+
+		.wp-element-button {
+			cursor: pointer
+		}
+
+		:root .has-very-light-gray-background-color {
+			background-color: #eee
+		}
+
+		:root .has-very-dark-gray-background-color {
+			background-color: #313131
+		}
+
+		:root .has-very-light-gray-color {
+			color: #eee
+		}
+
+		:root .has-very-dark-gray-color {
+			color: #313131
+		}
+
+		:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background {
+			background: linear-gradient(135deg, #00d084, #0693e3)
+		}
+
+		:root .has-purple-crush-gradient-background {
+			background: linear-gradient(135deg, #34e2e4, #4721fb 50%, #ab1dfe)
+		}
+
+		:root .has-hazy-dawn-gradient-background {
+			background: linear-gradient(135deg, #faaca8, #dad0ec)
+		}
+
+		:root .has-subdued-olive-gradient-background {
+			background: linear-gradient(135deg, #fafae1, #67a671)
+		}
+
+		:root .has-atomic-cream-gradient-background {
+			background: linear-gradient(135deg, #fdd79a, #004a59)
+		}
+
+		:root .has-nightshade-gradient-background {
+			background: linear-gradient(135deg, #330968, #31cdcf)
+		}
+
+		:root .has-midnight-gradient-background {
+			background: linear-gradient(135deg, #020381, #2874fc)
+		}
+
+		:root {
+			--wp--preset--font-size--normal: 16px;
+			--wp--preset--font-size--huge: 42px
+		}
+
+		.has-regular-font-size {
+			font-size: 1em
+		}
+
+		.has-larger-font-size {
+			font-size: 2.625em
+		}
+
+		.has-normal-font-size {
+			font-size: var(--wp--preset--font-size--normal)
+		}
+
+		.has-huge-font-size {
+			font-size: var(--wp--preset--font-size--huge)
+		}
+
+		:root .has-text-align-center {
+			text-align: center
+		}
+
+		:root .has-text-align-left {
+			text-align: left
+		}
+
+		:root .has-text-align-right {
+			text-align: right
+		}
+
+		.has-fit-text {
+			white-space: nowrap !important
+		}
+
+		#end-resizable-editor-section {
+			display: none
+		}
+
+		.aligncenter {
+			clear: both
+		}
+
+		.items-justified-left {
+			justify-content: flex-start
+		}
+
+		.items-justified-center {
+			justify-content: center
+		}
+
+		.items-justified-right {
+			justify-content: flex-end
+		}
+
+		.items-justified-space-between {
+			justify-content: space-between
+		}
+
+		.screen-reader-text {
+			word-wrap: normal !important;
+			border: 0;
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute;
+			width: 1px;
+			word-break: normal !important
+		}
+
+		.screen-reader-text:focus {
+			background-color: #ddd;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000
+		}
+
+		html :where(.has-border-color) {
+			border-style: solid
+		}
+
+		html :where([style^=border-color], [style*=";border-color"], [style*="; border-color"]) {
+			border-style: solid
+		}
+
+		html :where([style^=border-top-color], [style*=";border-top-color"], [style*="; border-top-color"]) {
+			border-top-style: solid
+		}
+
+		html :where([style^=border-right-color], [style*=";border-right-color"], [style*="; border-right-color"]) {
+			border-right-style: solid
+		}
+
+		html :where([style^=border-bottom-color], [style*=";border-bottom-color"], [style*="; border-bottom-color"]) {
+			border-bottom-style: solid
+		}
+
+		html :where([style^=border-left-color], [style*=";border-left-color"], [style*="; border-left-color"]) {
+			border-left-style: solid
+		}
+
+		html :where([style^=border-width], [style*=";border-width"], [style*="; border-width"]) {
+			border-style: solid
+		}
+
+		html :where([style^=border-top-width], [style*=";border-top-width"], [style*="; border-top-width"]) {
+			border-top-style: solid
+		}
+
+		html :where([style^=border-right-width], [style*=";border-right-width"], [style*="; border-right-width"]) {
+			border-right-style: solid
+		}
+
+		html :where([style^=border-bottom-width], [style*=";border-bottom-width"], [style*="; border-bottom-width"]) {
+			border-bottom-style: solid
+		}
+
+		html :where([style^=border-left-width], [style*=";border-left-width"], [style*="; border-left-width"]) {
+			border-left-style: solid
+		}
+
+		html :where(img[class*=wp-image-]) {
+			height: auto;
+			max-width: 100%
+		}
+
+		:where(figure) {
+			margin: 0 0 1em
+		}
+
+		html :where(.is-position-sticky) {
+			--wp-admin--admin-bar--position-offset: var(--wp-admin--admin-bar--height, 0px)
+		}
+
+		@media screen and (max-width:600px) {
+			html :where(.is-position-sticky) {
+				--wp-admin--admin-bar--position-offset: 0px
+			}
+		}
+
+		/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+	</style>
+	<style id="wp-block-heading-inline-css">
+		h1:where(.wp-block-heading).has-background,
+		h2:where(.wp-block-heading).has-background,
+		h3:where(.wp-block-heading).has-background,
+		h4:where(.wp-block-heading).has-background,
+		h5:where(.wp-block-heading).has-background,
+		h6:where(.wp-block-heading).has-background {
+			padding: 1.25em 2.375em
+		}
+
+		h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
+		h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
+		h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
+		h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
+		h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),
+		h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),
+		h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]) {
+			rotate: 180deg
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/heading/style.min.css */
+	</style>
+	<style id="wp-block-image-inline-css">
+		.wp-block-image>a,
+		.wp-block-image>figure>a {
+			display: inline-block
+		}
+
+		.wp-block-image img {
+			box-sizing: border-box;
+			height: auto;
+			max-width: 100%;
+			vertical-align: bottom
+		}
+
+		@media not (prefers-reduced-motion) {
+			.wp-block-image img.hide {
+				visibility: hidden
+			}
+
+			.wp-block-image img.show {
+				animation: show-content-image .4s
+			}
+		}
+
+		.wp-block-image[style*=border-radius] img,
+		.wp-block-image[style*=border-radius]>a {
+			border-radius: inherit
+		}
+
+		.wp-block-image.has-custom-border img {
+			box-sizing: border-box
+		}
+
+		.wp-block-image.aligncenter {
+			text-align: center
+		}
+
+		.wp-block-image.alignfull>a,
+		.wp-block-image.alignwide>a {
+			width: 100%
+		}
+
+		.wp-block-image.alignfull img,
+		.wp-block-image.alignwide img {
+			height: auto;
+			width: 100%
+		}
+
+		.wp-block-image .aligncenter,
+		.wp-block-image .alignleft,
+		.wp-block-image .alignright,
+		.wp-block-image.aligncenter,
+		.wp-block-image.alignleft,
+		.wp-block-image.alignright {
+			display: table
+		}
+
+		.wp-block-image .aligncenter>figcaption,
+		.wp-block-image .alignleft>figcaption,
+		.wp-block-image .alignright>figcaption,
+		.wp-block-image.aligncenter>figcaption,
+		.wp-block-image.alignleft>figcaption,
+		.wp-block-image.alignright>figcaption {
+			caption-side: bottom;
+			display: table-caption
+		}
+
+		.wp-block-image .alignleft {
+			float: left;
+			margin: .5em 1em .5em 0
+		}
+
+		.wp-block-image .alignright {
+			float: right;
+			margin: .5em 0 .5em 1em
+		}
+
+		.wp-block-image .aligncenter {
+			margin-left: auto;
+			margin-right: auto
+		}
+
+		.wp-block-image :where(figcaption) {
+			margin-bottom: 1em;
+			margin-top: .5em
+		}
+
+		.wp-block-image.is-style-circle-mask img {
+			border-radius: 9999px
+		}
+
+		@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none) {
+			.wp-block-image.is-style-circle-mask img {
+				border-radius: 0;
+				-webkit-mask-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/>');
+				mask-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/>');
+				mask-mode: alpha;
+				-webkit-mask-position: center;
+				mask-position: center;
+				-webkit-mask-repeat: no-repeat;
+				mask-repeat: no-repeat;
+				-webkit-mask-size: contain;
+				mask-size: contain
+			}
+		}
+
+		:root :where(.wp-block-image.is-style-rounded img, .wp-block-image .is-style-rounded img) {
+			border-radius: 9999px
+		}
+
+		.wp-block-image figure {
+			margin: 0
+		}
+
+		.wp-lightbox-container {
+			display: flex;
+			flex-direction: column;
+			position: relative
+		}
+
+		.wp-lightbox-container img {
+			cursor: zoom-in
+		}
+
+		.wp-lightbox-container img:hover+button {
+			opacity: 1
+		}
+
+		.wp-lightbox-container button {
+			align-items: center;
+			backdrop-filter: blur(16px) saturate(180%);
+			background-color: rgba(90, 90, 90, .25);
+			border: none;
+			border-radius: 4px;
+			cursor: zoom-in;
+			display: flex;
+			height: 20px;
+			justify-content: center;
+			opacity: 0;
+			padding: 0;
+			position: absolute;
+			right: 16px;
+			text-align: center;
+			top: 16px;
+			width: 20px;
+			z-index: 100
+		}
+
+		@media not (prefers-reduced-motion) {
+			.wp-lightbox-container button {
+				transition: opacity .2s ease
+			}
+		}
+
+		.wp-lightbox-container button:focus-visible {
+			outline: 3px auto rgba(90, 90, 90, .25);
+			outline: 3px auto -webkit-focus-ring-color;
+			outline-offset: 3px
+		}
+
+		.wp-lightbox-container button:hover {
+			cursor: pointer;
+			opacity: 1
+		}
+
+		.wp-lightbox-container button:focus {
+			opacity: 1
+		}
+
+		.wp-lightbox-container button:focus,
+		.wp-lightbox-container button:hover,
+		.wp-lightbox-container button:not(:hover):not(:active):not(.has-background) {
+			background-color: rgba(90, 90, 90, .25);
+			border: none
+		}
+
+		.wp-lightbox-overlay {
+			box-sizing: border-box;
+			cursor: zoom-out;
+			height: 100vh;
+			left: 0;
+			overflow: hidden;
+			position: fixed;
+			top: 0;
+			visibility: hidden;
+			width: 100%;
+			z-index: 100000
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-close-button {
+			align-items: center;
+			cursor: pointer;
+			display: flex;
+			font-family: inherit;
+			gap: 8px;
+			justify-content: center;
+			line-height: 1;
+			min-height: 40px;
+			min-width: 40px;
+			padding: 0 4px;
+			position: absolute;
+			right: calc(env(safe-area-inset-right) + 16px);
+			top: calc(env(safe-area-inset-top) + 16px);
+			z-index: 5000000
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-close-button:focus,
+		.wp-lightbox-overlay .wp-lightbox-close-button:hover,
+		.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background) {
+			background: none;
+			border: none
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg {
+			height: 1em;
+			width: 1em
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-close-icon svg {
+			display: block
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev {
+			align-items: center;
+			bottom: 16px;
+			cursor: pointer;
+			display: flex;
+			font-family: inherit;
+			gap: 4px;
+			justify-content: center;
+			line-height: 1;
+			min-height: 40px;
+			min-width: 40px;
+			padding: 0 8px;
+			position: absolute;
+			z-index: 2000002
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden] {
+			display: none
+		}
+
+		@media (min-width:960px) {
+
+			.wp-lightbox-overlay .wp-lightbox-navigation-button-next,
+			.wp-lightbox-overlay .wp-lightbox-navigation-button-prev {
+				bottom: 50%;
+				transform: translateY(-50%)
+			}
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background) {
+			background: none;
+			border: none;
+			padding: 0 8px
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg {
+			display: block;
+			height: 1.5em;
+			width: 1.5em
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-prev {
+			left: calc(env(safe-area-inset-left) + 16px)
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-button-next {
+			right: calc(env(safe-area-inset-right) + 16px)
+		}
+
+		.wp-lightbox-overlay .wp-lightbox-navigation-icon svg {
+			vertical-align: middle
+		}
+
+		.wp-lightbox-overlay .lightbox-image-container {
+			height: var(--wp--lightbox-container-height);
+			left: 50%;
+			overflow: hidden;
+			position: absolute;
+			top: 50%;
+			transform: translate(-50%, -50%);
+			transform-origin: top left;
+			width: var(--wp--lightbox-container-width);
+			z-index: 2000001
+		}
+
+		.wp-lightbox-overlay .wp-block-image {
+			align-items: center;
+			box-sizing: border-box;
+			display: flex;
+			height: 100%;
+			justify-content: center;
+			margin: 0;
+			position: relative;
+			transform-origin: 0 0;
+			width: 100%;
+			z-index: 3000000
+		}
+
+		.wp-lightbox-overlay .wp-block-image img {
+			height: var(--wp--lightbox-image-height);
+			min-height: var(--wp--lightbox-image-height);
+			min-width: var(--wp--lightbox-image-width);
+			width: var(--wp--lightbox-image-width)
+		}
+
+		.wp-lightbox-overlay .wp-block-image figcaption {
+			display: none
+		}
+
+		.wp-lightbox-overlay button {
+			background: none;
+			border: none
+		}
+
+		.wp-lightbox-overlay .scrim {
+			background-color: #fff;
+			height: 100%;
+			opacity: .9;
+			position: absolute;
+			width: 100%;
+			z-index: 2000000
+		}
+
+		.wp-lightbox-overlay.active {
+			visibility: visible
+		}
+
+		@media not (prefers-reduced-motion) {
+			.wp-lightbox-overlay.active {
+				animation: turn-on-visibility .25s both
+			}
+
+			.wp-lightbox-overlay.active img {
+				animation: turn-on-visibility .35s both
+			}
+
+			.wp-lightbox-overlay.show-closing-animation:not(.active) {
+				animation: turn-off-visibility .35s both
+			}
+
+			.wp-lightbox-overlay.show-closing-animation:not(.active) img {
+				animation: turn-off-visibility .25s both
+			}
+
+			.wp-lightbox-overlay.zoom.active {
+				animation: none;
+				opacity: 1;
+				visibility: visible
+			}
+
+			.wp-lightbox-overlay.zoom.active .lightbox-image-container {
+				animation: lightbox-zoom-in .4s
+			}
+
+			.wp-lightbox-overlay.zoom.active .lightbox-image-container img {
+				animation: none
+			}
+
+			.wp-lightbox-overlay.zoom.active .scrim {
+				animation: turn-on-visibility .4s forwards
+			}
+
+			.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) {
+				animation: none
+			}
+
+			.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container {
+				animation: lightbox-zoom-out .4s
+			}
+
+			.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img {
+				animation: none
+			}
+
+			.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim {
+				animation: turn-off-visibility .4s forwards
+			}
+		}
+
+		@keyframes show-content-image {
+			0% {
+				visibility: hidden
+			}
+
+			99% {
+				visibility: hidden
+			}
+
+			to {
+				visibility: visible
+			}
+		}
+
+		@keyframes turn-on-visibility {
+			0% {
+				opacity: 0
+			}
+
+			to {
+				opacity: 1
+			}
+		}
+
+		@keyframes turn-off-visibility {
+			0% {
+				opacity: 1;
+				visibility: visible
+			}
+
+			99% {
+				opacity: 0;
+				visibility: visible
+			}
+
+			to {
+				opacity: 0;
+				visibility: hidden
+			}
+		}
+
+		@keyframes lightbox-zoom-in {
+			0% {
+				transform: translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)), calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))
+			}
+
+			to {
+				transform: translate(-50%, -50%) scale(1)
+			}
+		}
+
+		@keyframes lightbox-zoom-out {
+			0% {
+				transform: translate(-50%, -50%) scale(1);
+				visibility: visible
+			}
+
+			99% {
+				visibility: visible
+			}
+
+			to {
+				transform: translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)), calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));
+				visibility: hidden
+			}
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/image/style.min.css */
+	</style>
+	<style id="wp-block-list-inline-css">
+		ol,
+		ul {
+			box-sizing: border-box
+		}
+
+		:root :where(.wp-block-list.has-background) {
+			padding: 1.25em 2.375em
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/list/style.min.css */
+	</style>
+	<style id="wp-block-paragraph-inline-css">
+		.is-small-text {
+			font-size: .875em
+		}
+
+		.is-regular-text {
+			font-size: 1em
+		}
+
+		.is-large-text {
+			font-size: 2.25em
+		}
+
+		.is-larger-text {
+			font-size: 3em
+		}
+
+		.has-drop-cap:not(:focus):first-letter {
+			float: left;
+			font-size: 8.4em;
+			font-style: normal;
+			font-weight: 100;
+			line-height: .68;
+			margin: .05em .1em 0 0;
+			text-transform: uppercase
+		}
+
+		body.rtl .has-drop-cap:not(:focus):first-letter {
+			float: none;
+			margin-left: .1em
+		}
+
+		p.has-drop-cap.has-background {
+			overflow: hidden
+		}
+
+		:root :where(p.has-background) {
+			padding: 1.25em 2.375em
+		}
+
+		:where(p.has-text-color:not(.has-link-color)) a {
+			color: inherit
+		}
+
+		p.has-text-align-left[style*="writing-mode:vertical-lr"],
+		p.has-text-align-right[style*="writing-mode:vertical-rl"] {
+			rotate: 180deg
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/paragraph/style.min.css */
+	</style>
+	<style id="wp-block-code-inline-css">
+		.wp-block-code {
+			box-sizing: border-box
+		}
+
+		.wp-block-code code {
+			direction: ltr;
+			display: block;
+			font-family: inherit;
+			overflow-wrap: break-word;
+			text-align: initial;
+			white-space: break-spaces
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/code/style.min.css */
+	</style>
+	<style id="wp-block-spacer-inline-css">
+		.wp-block-spacer {
+			clear: both
+		}
+
+		/*# sourceURL=https://c0.wp.com/c/7.1.4/wp-includes/blocks/spacer/style.min.css */
+	</style>
+
+
 	<style id="global-styles-inline-css">
-		body {
+		:root {
+			--wp--preset--aspect-ratio--square: 1;
+			--wp--preset--aspect-ratio--4-3: 4/3;
+			--wp--preset--aspect-ratio--3-4: 3/4;
+			--wp--preset--aspect-ratio--3-2: 3/2;
+			--wp--preset--aspect-ratio--2-3: 2/3;
+			--wp--preset--aspect-ratio--16-9: 16/9;
+			--wp--preset--aspect-ratio--9-16: 9/16;
 			--wp--preset--color--black: #000000;
 			--wp--preset--color--cyan-bluish-gray: #abb8c3;
 			--wp--preset--color--white: #ffffff;
@@ -1995,10 +2963,10 @@
 			--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);
 			--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);
 			--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);
-			--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+			--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgb(6, 147, 227) 0%, rgb(155, 81, 224) 100%);
 			--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
-			--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
-			--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+			--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgb(252, 185, 0) 0%, rgb(255, 105, 0) 100%);
+			--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgb(255, 105, 0) 0%, rgb(207, 46, 46) 100%);
 			--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
 			--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
 			--wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
@@ -2021,14 +2989,24 @@
 			--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
 			--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
 			--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
-			--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
-			--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+			--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);
+			--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);
 		}
 
-		body {
-			margin: 0;
+		.wp-block-button {
+			--wp--preset--dimension--25: 25%;
+			--wp--preset--dimension--50: 50%;
+			--wp--preset--dimension--75: 75%;
+			--wp--preset--dimension--100: 100%;
+		}
+
+		:root {
 			--wp--style--global--content-size: var(--wp--custom--ast-content-width-size);
 			--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size);
+		}
+
+		:where(body) {
+			margin: 0;
 		}
 
 		.wp-site-blocks>.alignleft {
@@ -2052,93 +3030,93 @@
 			margin-block-end: 0;
 		}
 
-		:where(.wp-site-blocks)> :first-child:first-child {
+		:where(.wp-site-blocks)> :first-child {
 			margin-block-start: 0;
 		}
 
-		:where(.wp-site-blocks)> :last-child:last-child {
+		:where(.wp-site-blocks)> :last-child {
 			margin-block-end: 0;
 		}
 
-		body {
+		:root {
 			--wp--style--block-gap: 24px;
 		}
 
-		:where(body .is-layout-flow)> :first-child:first-child {
+		:root :where(.is-layout-flow)> :first-child {
 			margin-block-start: 0;
 		}
 
-		:where(body .is-layout-flow)> :last-child:last-child {
+		:root :where(.is-layout-flow)> :last-child {
 			margin-block-end: 0;
 		}
 
-		:where(body .is-layout-flow)>* {
+		:root :where(.is-layout-flow)>* {
 			margin-block-start: 24px;
 			margin-block-end: 0;
 		}
 
-		:where(body .is-layout-constrained)> :first-child:first-child {
+		:root :where(.is-layout-constrained)> :first-child {
 			margin-block-start: 0;
 		}
 
-		:where(body .is-layout-constrained)> :last-child:last-child {
+		:root :where(.is-layout-constrained)> :last-child {
 			margin-block-end: 0;
 		}
 
-		:where(body .is-layout-constrained)>* {
+		:root :where(.is-layout-constrained)>* {
 			margin-block-start: 24px;
 			margin-block-end: 0;
 		}
 
-		:where(body .is-layout-flex) {
+		:root :where(.is-layout-flex) {
 			gap: 24px;
 		}
 
-		:where(body .is-layout-grid) {
+		:root :where(.is-layout-grid) {
 			gap: 24px;
 		}
 
-		body .is-layout-flow>.alignleft {
+		.is-layout-flow>.alignleft {
 			float: left;
 			margin-inline-start: 0;
 			margin-inline-end: 2em;
 		}
 
-		body .is-layout-flow>.alignright {
+		.is-layout-flow>.alignright {
 			float: right;
 			margin-inline-start: 2em;
 			margin-inline-end: 0;
 		}
 
-		body .is-layout-flow>.aligncenter {
+		.is-layout-flow>.aligncenter {
 			margin-left: auto !important;
 			margin-right: auto !important;
 		}
 
-		body .is-layout-constrained>.alignleft {
+		.is-layout-constrained>.alignleft {
 			float: left;
 			margin-inline-start: 0;
 			margin-inline-end: 2em;
 		}
 
-		body .is-layout-constrained>.alignright {
+		.is-layout-constrained>.alignright {
 			float: right;
 			margin-inline-start: 2em;
 			margin-inline-end: 0;
 		}
 
-		body .is-layout-constrained>.aligncenter {
+		.is-layout-constrained>.aligncenter {
 			margin-left: auto !important;
 			margin-right: auto !important;
 		}
 
-		body .is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+		.is-layout-constrained> :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
 			max-width: var(--wp--style--global--content-size);
 			margin-left: auto !important;
 			margin-right: auto !important;
 		}
 
-		body .is-layout-constrained>.alignwide {
+		.is-layout-constrained>.alignwide {
 			max-width: var(--wp--style--global--wide-size);
 		}
 
@@ -2146,12 +3124,12 @@
 			display: flex;
 		}
 
-		body .is-layout-flex {
+		.is-layout-flex {
 			flex-wrap: wrap;
 			align-items: center;
 		}
 
-		body .is-layout-flex>* {
+		.is-layout-flex> :is(*, div) {
 			margin: 0;
 		}
 
@@ -2159,7 +3137,7 @@
 			display: grid;
 		}
 
-		body .is-layout-grid>* {
+		.is-layout-grid> :is(*, div) {
 			margin: 0;
 		}
 
@@ -2174,16 +3152,22 @@
 			text-decoration: none;
 		}
 
-		.wp-element-button,
-		.wp-block-button__link {
+		:root :where(.wp-element-button, .wp-block-button__link) {
 			background-color: #32373c;
 			border-width: 0;
 			color: #fff;
 			font-family: inherit;
 			font-size: inherit;
+			font-style: inherit;
+			font-weight: inherit;
+			letter-spacing: inherit;
 			line-height: inherit;
-			padding: calc(0.667em + 2px) calc(1.333em + 2px);
+			padding-top: calc(0.667em + 2px);
+			padding-right: calc(1.333em + 2px);
+			padding-bottom: calc(0.667em + 2px);
+			padding-left: calc(1.333em + 2px);
 			text-decoration: none;
+			text-transform: inherit;
 		}
 
 		.has-black-color {
@@ -2502,51 +3486,41 @@
 			font-size: var(--wp--preset--font-size--x-large) !important;
 		}
 
-		.wp-block-navigation a:where(:not(.wp-element-button)) {
-			color: inherit;
-		}
-
-		.wp-block-pullquote {
-			font-size: 1.5em;
-			line-height: 1.6;
-		}
+		/*# sourceURL=global-styles-inline-css */
 	</style>
-	<link rel="stylesheet" id="mkaz-code-syntax-prism-css-css" href="../wp-content/plugins/code-syntax-block/assets/prism-a11y-dark.css?ver=1672772307" media="all">
-	<link rel="stylesheet" id="custom-typekit-css-css" href="https://use.typekit.net/amd8oww.css?ver=1.0.18" media="all">
-	<link rel="stylesheet" id="webui-popover-css" href="../wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.css?ver=1.2.15" media="all">
-	<link rel="stylesheet" id="lifterlms-styles-css" href="../wp-content/plugins/lifterlms/assets/css/lifterlms.min.css?ver=7.4.2" media="all">
-	<link rel="stylesheet" id="uagb-block-css-css" href="../wp-content/uploads/uag-plugin/custom-style-blocks.css?ver=2.2.0" media="all">
-	<link rel="stylesheet" id="cms-theme-css-css" href="../wp-content/themes/astra-child-creativemediaspace/style.css?ver=1.0.0" media="all">
-	<link rel="stylesheet" id="jetpack_css-css" href="https://c0.wp.com/p/jetpack/12.7/css/jetpack.css" media="all">
-	<!--[if IE]>
-<script src='https://creativemedia.space/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.9.4' id='astra-flexibility-js'></script>
-<script id="astra-flexibility-js-after">
-flexibility(document.documentElement);
-</script>
-<![endif]-->
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-	<link rel="https://api.w.org/" href="../wp-json/">
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
-	<meta name="generator" content="WordPress 6.3.2">
-	<link rel="canonical" href="../lesson/styling-with-style-css/">
-	<link rel="shortlink" href="../?p=3158">
-	<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flesson%2Fstyling-with-style-css%2F">
-	<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Flesson%2Fstyling-with-style-css%2F#038;format=xml">
-	<style>
+
+	<link rel="stylesheet" id="mkaz-code-syntax-prism-css-css"
+		href="../..//wp-content/plugins/code-syntax-block/assets/prism-a11y-dark.css?ver=1723656164" media="all">
+	<link rel="stylesheet" id="custom-typekit-css-css" href="https://use.typekit.net/amd8oww.css?ver=2.1.1" media="all">
+	<link rel="stylesheet" id="webui-popover-css"
+		href="../..//wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.css?ver=1.2.15"
+		media="all">
+	<link rel="stylesheet" id="lifterlms-styles-css"
+		href="../..//wp-content/plugins/lifterlms/assets/css/lifterlms.min.css?ver=11.0.0" media="all">
+	<style id="jetpack-stats-inline-css">
 		img#wpstats {
 			display: none
 		}
+
+		/*# sourceURL=jetpack-stats-inline-css */
 	</style>
-	<style type="text/css">
-		/* If html does not have either class, do not show lazy loaded images. */
-		html:not(.jetpack-lazy-images-js-enabled):not(.js) .jetpack-lazy-image {
-			display: none;
-		}
-	</style>
-	<script>document.documentElement.classList.add(
-			'jetpack-lazy-images-js-enabled'
-		);</script>
+	<link rel="stylesheet" id="uagb-block-css-css"
+		href="../..//wp-content/uploads/uag-plugin/custom-style-blocks.css?ver=2.19.26" media="all">
+	<link rel="stylesheet" id="cms-theme-css-css"
+		href="../..//wp-content/themes/astra-child-creativemediaspace/style.css?ver=1.0.0" media="all">
+	<script id="astra-flexibility-js"
+		src="../..//wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.12.0"></script>
+	<script id="astra-flexibility-js-after">
+		typeof flexibility !== "undefined" && flexibility(document.documentElement);
+		//# sourceURL=astra-flexibility-js-after
+	</script>
+	<script id="jquery-core-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery.min.js"></script>
+	<script id="jquery-migrate-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+	<link rel="https://api.w.org/index.html" href="../..//wp-json/index.html">
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../..//xmlrpc.php?rsd">
+	<meta name="generator" content="WordPress 7.1.4">
+	<link rel="canonical" href="../..//lesson/styling-with-style-css/index.html">
+	<link rel="shortlink" href="../..//?p=3158">
 	<style id="uagb-style-conditional-extension">
 		@media (min-width: 1025px) {
 
@@ -2573,166 +3547,144 @@ flexibility(document.documentElement);
 		}
 	</style>
 	<style id="uagb-style-frontend-3158">
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-heading-text {
-			margin-bottom: 15px;
-		}
-
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading {
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading {
 			text-align: center;
 		}
 
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-desc-text {
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-desc-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight {
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight {
 			font-style: normal;
+			font-weight: Default;
 			background: #007cba;
 			color: #fff;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight::selection {
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-highlight::selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2.wp-block-uagb-advanced-heading .uagb-separator {
-			border-top-style: solid;
-			border-top-width: 2px;
-			width: 12%;
-			border-color: #0170b9;
+		.wp-block-uagb-advanced-heading.uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2 .uagb-heading-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-heading-text {
-			margin-bottom: 15px;
-		}
-
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading {
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading {
 			text-align: center;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-desc-text {
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-desc-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight {
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight {
 			font-style: normal;
+			font-weight: Default;
 			background: #007cba;
 			color: #fff;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight::selection {
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-highlight::selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396.wp-block-uagb-advanced-heading .uagb-separator {
-			border-top-style: solid;
-			border-top-width: 2px;
-			width: 12%;
-			border-color: #0170b9;
+		.wp-block-uagb-advanced-heading.uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396 .uagb-heading-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-heading-text {
-			margin-bottom: 15px;
-		}
-
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading {
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading {
 			text-align: center;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-desc-text {
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-desc-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight {
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight {
 			font-style: normal;
+			font-weight: Default;
 			background: #007cba;
 			color: #fff;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight::selection {
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-highlight::selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d.wp-block-uagb-advanced-heading .uagb-separator {
-			border-top-style: solid;
-			border-top-width: 2px;
-			width: 12%;
-			border-color: #0170b9;
+		.wp-block-uagb-advanced-heading.uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d .uagb-heading-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-heading-text {
-			margin-bottom: 15px;
-		}
-
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading {
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading {
 			text-align: center;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-desc-text {
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-desc-text {
 			margin-bottom: 15px;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight {
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight {
 			font-style: normal;
+			font-weight: Default;
 			background: #007cba;
 			color: #fff;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight::-moz-selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight::selection {
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-highlight::selection {
 			color: #fff;
 			background: #007cba;
 			-webkit-text-fill-color: #fff;
 		}
 
-		.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462.wp-block-uagb-advanced-heading .uagb-separator {
-			border-top-style: solid;
-			border-top-width: 2px;
-			width: 12%;
-			border-color: #0170b9;
+		.wp-block-uagb-advanced-heading.uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462 .uagb-heading-text {
 			margin-bottom: 15px;
 		}
 	</style>
-	<link rel="icon" href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&#038;ssl=1" sizes="32x32">
-	<link rel="icon" href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=192%2C192&#038;ssl=1" sizes="192x192">
-	<link rel="apple-touch-icon" href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=180%2C180&#038;ssl=1">
-	<meta name="msapplication-TileImage" content="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=270%2C270&#038;ssl=1">
+	<link rel="icon"
+		href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=32%2C32&amp;ssl=1"
+		sizes="32x32">
+	<link rel="icon"
+		href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=192%2C192&amp;ssl=1"
+		sizes="192x192">
+	<link rel="apple-touch-icon"
+		href="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=180%2C180&amp;ssl=1">
+	<meta name="msapplication-TileImage"
+		content="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/10/cropped-cms-splash-icon.png?fit=270%2C270&amp;ssl=1">
 	<style id="wp-custom-css">
 		.main-header-menu .llms-nav-item-signout a:hover {
 			color: white !important;
@@ -2743,16 +3695,46 @@ flexibility(document.documentElement);
 			color: white;
 			background-color: #7d7a1c;
 		}
+
+		.single-lesson .entry-meta {
+			margin-bottom: 1em;
+		}
+
+		.llms-lesson-preview,
+		.llms-course-navigation .llms-lesson-preview,
+		.llms-syllabus-wrapper .llms-section-title+.llms-lesson-preview {
+			border: none;
+		}
+
+		.llms-lesson-preview .llms-extra {
+			text-align: left;
+		}
+
+		/* FIX WEIRD WHITE BG ON LESSON BACK BUTTON */
+		.llms-lesson-preview section {
+			background: transparent;
+		}
+
+		/* FIX BLOCK QUOTES */
+		.uagb-blockquote__content p {
+			margin-inline: auto;
+		}
 	</style>
+	<link rel="stylesheet" id="jetpack-gist-styling-css"
+		href="https://github.githubassets.com/assets/gist-embed-f13bb713f99941a3.css?ver=16.3.1" media="all">
+
 </head>
 
-<body itemtype="https://schema.org/Blog" itemscope="itemscope" class="lesson-template-default single single-lesson postid-3158 wp-custom-logo ast-desktop ast-plain-container ast-left-sidebar astra-3.9.4 ast-header-custom-item-inside ast-full-width-primary-header group-blog ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-normal-title-enabled">
+<body itemtype="https://schema.org/Blog" itemscope="itemscope"
+	class="wp-singular lesson-template-default single single-lesson postid-3158 wp-custom-logo wp-embed-responsive wp-theme-astra wp-child-theme-astra-child-creativemediaspace ast-desktop ast-plain-container ast-left-sidebar astra-4.12.0 ast-header-custom-item-inside ast-full-width-primary-header group-blog ast-blog-single-style-1 ast-custom-post-type ast-single-post ast-inherit-site-logo-transparent ast-normal-title-enabled">
 
 	<div id="page" class="hfeed site">
 		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
 
-		<header class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
+		<header
+			class="site-header header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline"
+			id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
 
 			<div class="main-header-bar-wrap">
 				<div class="main-header-bar">
@@ -2761,8 +3743,14 @@ flexibility(document.documentElement);
 						<div class="ast-flex main-header-container">
 
 							<div class="site-branding">
-								<div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
-									<span class="site-logo-img"><a href="../index.html" class="custom-logo-link" rel="home"><img width="80" height="34" src="../wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1-80x34.png" class="custom-logo" alt="CMS" decoding="async" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=80%2C34&amp;ssl=1 80w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=300%2C129&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=768%2C329&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?w=1026&amp;ssl=1 1026w" sizes="(max-width: 80px) 100vw, 80px"></a></span>
+								<div class="ast-site-identity" itemtype="https://schema.org/Organization"
+									itemscope="itemscope">
+									<span class="site-logo-img"><a href="../..//index.html" class="custom-logo-link"
+											rel="home"><img width="80" height="34"
+												src="../..//wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1-80x34.png"
+												class="custom-logo" alt="CMS" decoding="async"
+												srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=80%2C34&amp;ssl=1 80w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=300%2C129&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?resize=768%2C329&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/09/cropped-cms-logo-dark-trans-1.png?w=1026&amp;ssl=1 1026w"
+												sizes="(max-width: 80px) 100vw, 80px"></a></span>
 								</div>
 							</div>
 
@@ -2771,30 +3759,48 @@ flexibility(document.documentElement);
 
 
 								<div class="ast-button-wrap">
-									<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal " aria-controls="primary-menu" aria-expanded="false">
+									<button type="button"
+										class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal "
+										aria-controls="primary-menu" aria-expanded="false">
 										<span class="screen-reader-text">Main Menu</span>
-										<span class="ast-icon icon-menu-bars"><span class="menu-toggle-icon"></span></span> </button>
+										<span class="ast-icon icon-menu-bars"><span
+												class="menu-toggle-icon"></span></span> </button>
 								</div>
 
 
 							</div>
 							<div class="ast-main-header-bar-alignment">
 								<div class="main-header-bar-navigation">
-									<nav class="site-navigation ast-flex-grow-1 navigation-accessibility" id="primary-site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+									<nav class="site-navigation ast-flex-grow-1 navigation-accessibility"
+										id="primary-site-navigation" aria-label="Site Navigation"
+										itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
 										<div class="main-navigation">
-											<ul id="primary-menu" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
-												<li id="menu-item-3131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3131"><a href="../resources/index.html" class="menu-link">Explore</a></li>
-												<li id="menu-item-3130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="../courses/index.html" class="menu-link">Learn</a></li>
-												<li id="menu-item-3120" class="llms-nav-item-signin menu-item menu-item-type-custom menu-item-object-custom menu-item-3120"><a href="../my-dashboard/index.html" class="menu-link">Sign In</a></li>
+											<ul id="primary-menu"
+												class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
+												<li id="menu-item-3131"
+													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3131">
+													<a href="../..//resources/index.html" class="menu-link">Explore</a>
+												</li>
+												<li id="menu-item-3130"
+													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130">
+													<a href="../..//courses/index.html" class="menu-link">Learn</a>
+												</li>
+												<!--
+
+<li id="menu-item-3120"
+													class="llms-nav-item-signin menu-item menu-item-type-custom menu-item-object-custom menu-item-3120">
+													<a href="../..//my-dashboard/index.html" class="menu-link">Sign
+														In</a>
+												</li>
+
+-->
 											</ul>
 										</div>
 									</nav>
 								</div>
 							</div>
-						</div>
-						<!-- Main Header Container -->
-					</div>
-					<!-- ast-row -->
+						</div><!-- Main Header Container -->
+					</div><!-- ast-row -->
 				</div> <!-- Main Header Bar -->
 			</div> <!-- Main Header Bar Wrap -->
 		</header><!-- #masthead -->
@@ -2804,14 +3810,12 @@ flexibility(document.documentElement);
 					<div class="ast-breadcrumbs-inner">
 						<nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs">
 							<div class="ast-breadcrumbs">
-								<ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
-									<meta content="2" name="numberOfItems">
-									<meta name="itemListOrder" content="Ascending">
-									<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
-										<a href="../index.html" rel="home" itemprop="item"><span itemprop="name">Home</span></a>
-										<meta itemprop="position" content="1">
+								<ul class="trail-items">
+									<li class="trail-item trail-begin"><a href="../..//index.html"
+											rel="home"><span>Home</span></a>
 									</li>
-									<li class="trail-item trail-end"><span><span>Styling with Style.css</span></span></li>
+									<li class="trail-item trail-end"><span><span>Styling with Style.css</span></span>
+									</li>
 								</ul>
 							</div>
 						</nav>
@@ -2827,7 +3831,8 @@ flexibility(document.documentElement);
 
 
 
-				<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+				<div class="widget-area secondary" id="secondary" itemtype="https://schema.org/WPSideBar"
+					itemscope="itemscope">
 					<div class="sidebar-main">
 
 						<aside id="course_syllabus-3" class="widget widget_course_syllabus">
@@ -2861,7 +3866,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intro-to-the-course/">
+													<a href="../..//lesson/intro-to-the-course/index.html">
 														Intro to the Course </a>
 
 
@@ -2885,7 +3890,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intro-to-web-design-and-development/">
+													<a
+														href="../..//lesson/intro-to-web-design-and-development/index.html">
 														Intro to Web Design and Development  </a>
 
 
@@ -2924,8 +3930,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/github-and-github-pages/">
-														Intro to Github &#038; Github Pages </a>
+													<a href="../..//lesson/github-and-github-pages/index.html">
+														Intro to Github &amp; Github Pages </a>
 
 
 												</span>
@@ -2948,7 +3954,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/setup-github-pages/">
+													<a href="../..//lesson/setup-github-pages/index.html">
 														Get Setup on Github Pages </a>
 
 
@@ -2972,7 +3978,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intro-to-web-design-best-practices/">
+													<a
+														href="../..//lesson/intro-to-web-design-best-practices/index.html">
 														Setup a Local Dev Environment </a>
 
 
@@ -2996,7 +4003,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/the-home-page/">
+													<a href="../..//lesson/the-home-page/index.html">
 														Initial HTML Home Page </a>
 
 
@@ -3020,7 +4027,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/add-somestyle-via-css/">
+													<a href="../..//lesson/add-somestyle-via-css/index.html">
 														Add Style with CSS </a>
 
 
@@ -3059,7 +4066,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/html-essentials/">
+													<a href="../..//lesson/html-essentials/index.html">
 														HTML Essentials </a>
 
 
@@ -3083,7 +4090,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/exercise-markup-text-with-html/">
+													<a href="../..//lesson/exercise-markup-text-with-html/index.html">
 														Markup Text with HTML </a>
 
 
@@ -3107,7 +4114,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/activity-update-your-home-page-with-essential-html/">
+													<a
+														href="../..//lesson/activity-update-your-home-page-with-essential-html/index.html">
 														Update Your Home Page with Essential HTML </a>
 
 
@@ -3131,7 +4139,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/css-essentials/">
+													<a href="../..//lesson/css-essentials/index.html">
 														CSS Essentials </a>
 
 
@@ -3155,7 +4163,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/styling-with-style-css/">
+													<a href="../..//lesson/styling-with-style-css/index.html">
 														Styling with Style.css </a>
 
 
@@ -3194,7 +4202,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/frontend-dev-site-structure/">
+													<a href="../..//lesson/frontend-dev-site-structure/index.html">
 														Front-end Dev: Site Structure </a>
 
 
@@ -3218,7 +4226,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/front-end-dev-sub-pages/">
+													<a href="../..//lesson/front-end-dev-sub-pages/index.html">
 														Front-end Dev: Sub Pages </a>
 
 
@@ -3242,7 +4250,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/customize/">
+													<a href="../..//lesson/customize/index.html">
 														Designing with Code </a>
 
 
@@ -3281,7 +4289,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intro-to-design-software-2/">
+													<a href="../..//lesson/intro-to-design-software-2/index.html">
 														Intro to Design Software </a>
 
 
@@ -3305,7 +4313,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intro-to-adobe-xd/">
+													<a href="../..//lesson/intro-to-adobe-xd/index.html">
 														Intro to Adobe XD </a>
 
 
@@ -3329,7 +4337,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/intermediate-adobe-xd/">
+													<a href="../..//lesson/intermediate-adobe-xd/index.html">
 														Prototyping in Adobe XD </a>
 
 
@@ -3368,7 +4376,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/web-design-terminology-a-primer/">
+													<a href="../..//lesson/web-design-terminology-a-primer/index.html">
 														Web Design Terminology: A Primer </a>
 
 
@@ -3392,7 +4400,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/web-design-and-development-process/">
+													<a
+														href="../..//lesson/web-design-and-development-process/index.html">
 														Web Design and Dev Process </a>
 
 
@@ -3416,8 +4425,8 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/content-strategy/">
-														Project Planning &#038; Content Strategy </a>
+													<a href="../..//lesson/content-strategy/index.html">
+														Project Planning &amp; Content Strategy </a>
 
 
 												</span>
@@ -3440,7 +4449,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/design-patterns/">
+													<a href="../..//lesson/design-patterns/index.html">
 														Design Patterns </a>
 
 
@@ -3479,7 +4488,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/site-headers/">
+													<a href="../..//lesson/site-headers/index.html">
 														Site Headers </a>
 
 
@@ -3503,7 +4512,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/site-heros/">
+													<a href="../..//lesson/site-heros/index.html">
 														Site Heros </a>
 
 
@@ -3524,7 +4533,7 @@ flexibility(document.documentElement);
 
 
 
-											<span class="section-title">Testing &#038; Delivery</span>
+											<span class="section-title">Testing &amp; Delivery</span>
 
 
 										</div>
@@ -3542,7 +4551,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/quality-assurance/">
+													<a href="../..//lesson/quality-assurance/index.html">
 														Quality Assurance </a>
 
 
@@ -3566,7 +4575,7 @@ flexibility(document.documentElement);
 												<span class="lesson-title ">
 
 
-													<a href="../lesson/site-launch/">
+													<a href="../..//lesson/site-launch/index.html">
 														Site Launch! </a>
 
 
@@ -3587,10 +4596,8 @@ flexibility(document.documentElement);
 
 							</div>
 						</aside>
-					</div>
-					<!-- .sidebar-main -->
-				</div>
-				<!-- #secondary -->
+					</div><!-- .sidebar-main -->
+				</div><!-- #secondary -->
 
 
 				<div id="primary" class="content-area primary">
@@ -3599,29 +4606,45 @@ flexibility(document.documentElement);
 					<main id="main" class="site-main">
 
 
-						<article class="post-3158 lesson type-lesson status-publish hentry ast-article-single not-enrolled is-complete" id="post-3158" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+						<article
+							class="post-3158 lesson type-lesson status-publish hentry ast-article-single not-enrolled is-complete"
+							id="post-3158" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 
 
 
 							<div class="ast-post-format- ast-no-thumb single-layout-1">
 
 
-								<header class="entry-header ast-no-thumbnail ast-no-meta">
+
+								<header class="entry-header ">
 
 
-									<div class="ast-single-post-order">
-										<h1 class="entry-title" itemprop="headline">Styling with Style.css</h1>
-									</div>
+									<h1 class="entry-title" itemprop="headline">Styling with Style.css</h1>
+									<div class="entry-meta">By <span class="posted-by vcard author"
+											itemtype="https://schema.org/Person" itemscope="itemscope"
+											itemprop="author"> <a title="View all posts by Chris Gargiulo"
+												href="../..//author/chrisgargiulogmail-com/index.html" rel="author"
+												class="url fn n" itemprop="url">
+												<span class="author-name" itemprop="name">
+													Chris Gargiulo </span>
+											</a>
+										</span>
 
+										/ <span class="posted-on"><span class="published" itemprop="datePublished"> June
+												14, 2019 </span></span></div>
 
 								</header><!-- .entry-header -->
+
 
 
 								<div class="entry-content clear" itemprop="text">
 
 
-									<p class="llms-parent-course-link">Back to: <a class="llms-lesson-link" href="../course/web-design-for-all-ages/">Web Design for All Ages</a></p>
-									<h3 class="wp-block-heading">Have fun adding CSS the right way: via an external style.css file in the head of your index.html file</h3>
+									<p class="llms-parent-course-link">Back to: <a class="llms-lesson-link"
+											href="../..//course/web-design-for-all-ages/index.html">Web Design for All
+											Ages</a></p>
+									<h3 class="wp-block-heading">Have fun adding CSS the right way: via an external
+										style.css file in the head of your index.html file</h3>
 
 
 
@@ -3629,14 +4652,18 @@ flexibility(document.documentElement);
 
 
 
-									<p>This exercise assumes the following:</p>
+									<p class="wp-block-paragraph">This exercise assumes the following:</p>
 
 
 
-									<ol>
-										<li>You should already have a Github pages repo setup (e.g. https://github.com/yourusername/yourusername.github.io).</li>
-										<li>You should have already established a local dev environment (e.g. already cloned your Github repo to your local computer. If not, please refer to the previous lesson(s).</li>
-										<li>You should already have a bare-bones, minimal index.html file already created.</li>
+									<ol class="wp-block-list">
+										<li>You should already have a Github pages repo setup (e.g.
+											https://github.com/yourusername/yourusername.github.io).</li>
+										<li>You should have already established a local dev environment (e.g. already
+											cloned your Github repo to your local computer. If not, please refer to the
+											previous lesson(s).</li>
+										<li>You should already have a bare-bones, minimal index.html file already
+											created.</li>
 									</ol>
 
 
@@ -3645,7 +4672,8 @@ flexibility(document.documentElement);
 
 
 
-									<div class="wp-block-uagb-advanced-heading uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2 step-heading" id="uagb-adv-heading-7083ba3d-d144-4721-8f11-6b53e2d07e7d">
+									<div class="wp-block-uagb-advanced-heading uagb-block-acc4e52b-1a3b-4711-90fa-717ebf3b9ae2 step-heading"
+										id="uagb-adv-heading-7083ba3d-d144-4721-8f11-6b53e2d07e7d">
 										<h2 class="uagb-heading-text">Step</h2>
 										<div class="uagb-separator-wrap">
 											<div class="uagb-separator"></div>
@@ -3655,19 +4683,27 @@ flexibility(document.documentElement);
 
 
 
-									<h2 class="wp-block-heading">In <strong>Finder</strong>, create a new folder and name it <strong>css </strong>(all <em>lowercase</em>)</h2>
+									<h2 class="wp-block-heading">In <strong>Finder</strong>, create a new folder and
+										name it <strong>css </strong>(all <em>lowercase</em>)</h2>
 
 
 
-									<p>This new <strong>css</strong> folder is where we are going to place our CSS in the next step.</p>
+									<p class="wp-block-paragraph">This new <strong>css</strong> folder is where we are
+										going to place our CSS in the next step.</p>
 
 
 
-									<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="856" height="808" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=856%2C808&#038;ssl=1" alt class="wp-image-3063 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?w=856&amp;ssl=1 856w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=300%2C283&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=768%2C725&amp;ssl=1 768w" data-lazy-sizes="(max-width: 856px) 100vw, 856px" data-lazy-src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=856%2C808&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,..//lesson/styling-with-style-css/R0lGODlhAQABAIAAAAAAAP/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" decoding="async" fetchpriority="high" width="856" height="808" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=856%2C808&#038;ssl=1" alt="" class="wp-image-3063" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?w=856&amp;ssl=1 856w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=300%2C283&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=768%2C725&amp;ssl=1 768w" sizes="(max-width: 856px) 100vw, 856px" data-recalc-dims="1"></noscript></figure>
+									<figure class="wp-block-image size-large"><img data-recalc-dims="1"
+											fetchpriority="high" decoding="async" width="856" height="808"
+											src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=856%2C808&amp;ssl=1"
+											alt="" class="wp-image-3063"
+											srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?w=856&amp;ssl=1 856w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=300%2C283&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/finder-create-css-folder.png?resize=768%2C725&amp;ssl=1 768w"
+											sizes="(max-width: 856px) 100vw, 856px"></figure>
 
 
 
-									<div class="wp-block-uagb-advanced-heading uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396 step-heading" id="uagb-adv-heading-66275746-157f-45c2-953e-0d38cc929c26">
+									<div class="wp-block-uagb-advanced-heading uagb-block-2b3a526f-d429-4e0e-9d93-71ce6bb1b396 step-heading"
+										id="uagb-adv-heading-66275746-157f-45c2-953e-0d38cc929c26">
 										<h2 class="uagb-heading-text">Step</h2>
 										<div class="uagb-separator-wrap">
 											<div class="uagb-separator"></div>
@@ -3677,19 +4713,25 @@ flexibility(document.documentElement);
 
 
 
-									<h2 class="wp-block-heading">In <strong>VS Code</strong>, open up your home page<strong> index.html</strong> and <em>link</em> it to a new <em>external</em> CSS file<strong> style.css</strong>
-									</h2>
+									<h2 class="wp-block-heading">In <strong>VS Code</strong>, open up your home
+										page<strong> index.html</strong> and <em>link</em> it to a new <em>external</em>
+										CSS file<strong> style.css</strong></h2>
 
 
 
-									<ul>
-										<li>Launch your text editor, <strong>VS Code</strong>, open your project folder, then open your home page <strong>index.html</strong> file. </li>
-										<li>Next, create a new file (File > New File) and name it <strong>style.css.</strong>
+									<ul class="wp-block-list">
+										<li>Launch your text editor, <strong>VS Code</strong>, open your project folder,
+											then open your home page <strong>index.html</strong> file. </li>
+										<li>Next, create a new file (File &gt; New File) and name it
+											<strong>style.css.</strong>
 											<ul>
-												<li>Tip: when working on both an HTML and CSS file that are linked together, split your editor view so that the HTML is on the left and the CSS is on the right.</li>
+												<li>Tip: when working on both an HTML and CSS file that are linked
+													together, split your editor view so that the HTML is on the left and
+													the CSS is on the right.</li>
 											</ul>
 										</li>
-										<li>Next, add one initial quick style change, such as changing the body background to red, for testing purposes.</li>
+										<li>Next, add one initial quick style change, such as changing the body
+											background to red, for testing purposes.</li>
 									</ul>
 
 
@@ -3700,17 +4742,21 @@ flexibility(document.documentElement);
 
 
 
-									<ul>
-										<li>Next, return to your <strong>index.html </strong>file, and within the <strong>head</strong>, add a link to the new external style sheet style.css.</li>
+									<ul class="wp-block-list">
+										<li>Next, return to your <strong>index.html </strong>file, and within the
+											<strong>head</strong>, add a link to the new external style sheet style.css.
+										</li>
 									</ul>
 
 
 
-									<pre class="wp-block-code"><code lang="markup" class="language-markup">&lt;link href="css/style.css" rel="stylesheet" type="text/css" /></code></pre>
+									<pre
+										class="wp-block-code"><code lang="markup" class="language-markup">&lt;link href="css/style.css" rel="stylesheet" type="text/css" /&gt;</code></pre>
 
 
 
-									<p>When you are done, your index.html file should look something like this:</p>
+									<p class="wp-block-paragraph">When you are done, your index.html file should look
+										something like this:</p>
 
 
 									<style>
@@ -3719,139 +4765,251 @@ flexibility(document.documentElement);
 										}
 									</style>
 									<div style="tab-size: 8" id="gist96736714" class="gist">
-										<div class="gist-file" translate="no">
+										<div class="gist-file" translate="no" data-color-mode="light"
+											data-light-theme="light">
 											<div class="gist-data">
-												<div class="js-gist-file-update-container js-task-list-container file-box">
-													<div id="file-bare-bones-essentials-html-css-summer-2019-html" class="file my-2">
 
-														<div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  ">
+												<div class="js-gist-file-update-container js-task-list-container">
+													<div id="file-bare-bones-essentials-html-css-summer-2019-html"
+														class="file my-2">
+
+														<div itemprop="text"
+															class="Box-body p-0 blob-wrapper data type-html  "
+															style="overflow: auto" tabindex="0" role="region"
+															aria-label="bare-bones-essentials-html-css-summer-2019.html content, created by kccnma on 08:13PM on June 14, 2019.">
 
 
-															<div class="js-check-bidi js-blob-code-container blob-code-content">
+															<div
+																class="js-check-hidden-unicode js-blob-code-container blob-code-content">
 
 																<template class="js-file-alert-template">
-																	<div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
-																		<svg aria-hidden="true" height="16" viewbox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-																			<path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+																	<div data-view-component="true"
+																		class="flash flash-warn flash-full d-flex flex-items-center">
+																		<svg aria-hidden="true" data-component="Octicon"
+																			height="16" viewbox="0 0 16 16"
+																			version="1.1" width="16"
+																			data-view-component="true"
+																			class="octicon octicon-alert">
+																			<path
+																				d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z">
+																			</path>
 																		</svg>
 																		<span>
-																			This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
-																			<a class="Link--inTextBlock" href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+																			This file contains hidden or bidirectional
+																			Unicode text that may be interpreted or
+																			compiled differently than what appears
+																			below. To review, open the file in an editor
+																			that reveals hidden Unicode characters.
+																			<a class="Link--inTextBlock"
+																				href="https://github.co/hiddenchars"
+																				target="_blank">Learn more about
+																				bidirectional Unicode characters</a>
 																		</span>
 
 
-																		<div data-view-component="true" class="flash-action"> <a href="../lesson/styling-with-style-css/{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn"> Show hidden characters
+																		<div data-view-component="true"
+																			class="flash-action"> <a
+																				href="../..//lesson/styling-with-style-css/%7B%7B%20revealButtonHref%20%7D%7D"
+																				data-view-component="true"
+																				class="btn-sm btn"> Show hidden
+																				characters
 																			</a>
 																		</div>
 																	</div>
 																</template>
 																<template class="js-line-alert-template">
-																	<span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
-																		<svg aria-hidden="true" height="16" viewbox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-																			<path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+																	<span
+																		aria-label="This line has hidden Unicode characters"
+																		data-view-component="true"
+																		class="line-alert tooltipped tooltipped-e">
+																		<svg aria-hidden="true" data-component="Octicon"
+																			height="16" viewbox="0 0 16 16"
+																			version="1.1" width="16"
+																			data-view-component="true"
+																			class="octicon octicon-alert">
+																			<path
+																				d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z">
+																			</path>
 																		</svg>
 																	</span></template>
 
-																<table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="bare-bones-essentials-html-css-summer-2019.html">
+																<table data-hpc
+																	class="highlight tab-size js-file-line-container"
+																	data-tab-size="4" data-paste-markdown-skip
+																	data-tagsearch-path="bare-bones-essentials-html-css-summer-2019.html">
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">&lt;!doctype html<span class="pl-kos">&gt;</span></span></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L1"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="1"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC1"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;!doctype html&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC2" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;</span><span class="pl-ent">html</span> <span class="pl-c1">lang</span>=&quot;<span class="pl-s">en</span>&quot;<span class="pl-kos">&gt;</span>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L2"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="2"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC2"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;html lang=&quot;en&quot;&gt;</td>
+																	</tr>
+																	<tr>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L3"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="3"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC3"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;head&gt;</td>
+																	</tr>
+																	<tr>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L4"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="4"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC4"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;meta charset=&quot;utf-8&quot; /&gt;
 																		</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC3" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;</span><span class="pl-ent">head</span><span class="pl-kos">&gt;</span>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L5"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="5"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC5"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;title&gt;Summer Site 2019&lt;/title&gt;
 																		</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC4" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">charset</span>=&quot;<span class="pl-s">utf-8</span>&quot; /&gt;</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L6"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="6"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC6"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;meta name=&quot;description&quot;
+																			content=&quot;This is my Summer 2019
+																			website.&quot; /&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC5" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">title</span><span class="pl-kos">&gt;</span>Summer Site 2019<span class="pl-kos">&lt;/</span><span class="pl-ent">title</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L7"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="7"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC7"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;meta name=&quot;viewport&quot;
+																			content=&quot;width=device-width,
+																			initial-scale=1&quot; /&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC6" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">name</span>=&quot;<span class="pl-s">description</span>&quot; <span class="pl-c1">content</span>=&quot;<span class="pl-s">This is my Summer 2019 website.</span>&quot; /&gt;</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L8"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="8"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC8"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;meta
+																			http-equiv=&quot;X-UA-Compatible&quot;
+																			content=&quot;ie=edge&quot; /&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC7" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">name</span>=&quot;<span class="pl-s">viewport</span>&quot; <span class="pl-c1">content</span>=&quot;<span class="pl-s">width=device-width, initial-scale=1</span>&quot; /&gt;</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L9"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="9"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC9"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;link href=&quot;css/style.css&quot;
+																			rel=&quot;stylesheet&quot;
+																			type=&quot;text/css&quot; /&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC8" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">http-equiv</span>=&quot;<span class="pl-s">X-UA-Compatible</span>&quot; <span class="pl-c1">content</span>=&quot;<span class="pl-s">ie=edge</span>&quot; /&gt;</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L10"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="10"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC10"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;/head&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC9" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">link</span> <span class="pl-c1">href</span>=&quot;<span class="pl-s">css/style.css</span>&quot; <span class="pl-c1">rel</span>=&quot;<span class="pl-s">stylesheet</span>&quot; <span class="pl-c1">type</span>=&quot;<span class="pl-s">text/css</span>&quot; /&gt;</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L11"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="11"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC11"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;body&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC10" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;/</span><span class="pl-ent">head</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L12"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="12"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC12"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;h1&gt;Summer 2019&lt;/h1&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC11" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;</span><span class="pl-ent">body</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L13"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="13"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC13"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;p&gt;I created this site as part of my
+																			summer project at Iolani.&lt;/p&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC12" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">h1</span><span class="pl-kos">&gt;</span>Summer 2019<span class="pl-kos">&lt;/</span><span class="pl-ent">h1</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L14"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="14"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC14"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;ul&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC13" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>I created this site as part of my summer project at Iolani.<span class="pl-kos">&lt;/</span><span class="pl-ent">p</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L15"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="15"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC15"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;li&gt;This is an Unordered List
+																			Item&lt;/li&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC14" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">ul</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L16"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="16"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC16"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;li&gt;This is an Unordered List
+																			Item&lt;/li&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC15" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>This is an Unordered List Item<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L17"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="17"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC17"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;li&gt;This is an Unordered List
+																			Item&lt;/li&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC16" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>This is an Unordered List Item<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L18"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="18"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC18"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;/ul&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC17" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>This is an Unordered List Item<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L19"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="19"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC19"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;/body&gt;</td>
 																	</tr>
 																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC18" class="blob-code blob-code-inner js-file-line"> <span class="pl-kos">&lt;/</span><span class="pl-ent">ul</span><span class="pl-kos">&gt;</span>
-																		</td>
-																	</tr>
-																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC19" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;/</span><span class="pl-ent">body</span><span class="pl-kos">&gt;</span>
-																		</td>
-																	</tr>
-																	<tr>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC20" class="blob-code blob-code-inner js-file-line">
-																			<span class="pl-kos">&lt;/</span><span class="pl-ent">html</span><span class="pl-kos">&gt;</span>
-																		</td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-L20"
+																			class="blob-num js-line-number js-blob-rnum"
+																			data-line-number="20"></td>
+																		<td id="file-bare-bones-essentials-html-css-summer-2019-html-LC20"
+																			class="blob-code blob-code-inner js-file-line">
+																			&lt;/html&gt;</td>
 																	</tr>
 																</table>
 															</div>
@@ -3860,15 +5018,19 @@ flexibility(document.documentElement);
 														</div>
 
 													</div>
+
 												</div>
 
 											</div>
 											<div class="gist-meta">
-												<a href="https://gist.github.com/kccnma/7f409cd8739c36026d93225595255ed7/raw/11bb4be4788096dc0af5ca1320709922e2c02563/bare-bones-essentials-html-css-summer-2019.html" style="float:right">view raw</a>
-												<a href="https://gist.github.com/kccnma/7f409cd8739c36026d93225595255ed7#file-bare-bones-essentials-html-css-summer-2019-html">
+												<a href="https://gist.github.com/kccnma/7f409cd8739c36026d93225595255ed7/raw/11bb4be4788096dc0af5ca1320709922e2c02563/bare-bones-essentials-html-css-summer-2019.html"
+													style="float:right" class="Link--inTextBlock">view raw</a>
+												<a href="https://gist.github.com/kccnma/7f409cd8739c36026d93225595255ed7#file-bare-bones-essentials-html-css-summer-2019-html"
+													class="Link--inTextBlock">
 													bare-bones-essentials-html-css-summer-2019.html
 												</a>
-												hosted with &#10084; by <a class="Link--inTextBlock" href="https://github.com/">GitHub</a>
+												hosted with ❤ by <a class="Link--inTextBlock"
+													href="https://github.com/index.html">GitHub</a>
 											</div>
 										</div>
 									</div>
@@ -3876,14 +5038,21 @@ flexibility(document.documentElement);
 
 
 
-									<ul>
-										<li>Next, check to see if you successfully linked the two files (index.html + style.css) by opening your local index.html file in a browser.</li>
+									<ul class="wp-block-list">
+										<li>Next, check to see if you successfully linked the two files (index.html +
+											style.css) by opening your local index.html file in a browser.</li>
 									</ul>
 
 
 
-									<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&#038;ssl=1" alt class="wp-image-3064 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?w=2400&amp;ssl=1 2400w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,..//lesson/styling-with-style-css/R0lGODlhAQABAIAAAAAAAP/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" decoding="async" width="1024" height="576" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-3064" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?w=2400&amp;ssl=1 2400w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1"></noscript>
-										<figcaption>Tip: Split your text editor into two panes: HTML on the left, CSS on the right. Also, keep a browser window open as you code.</figcaption>
+									<figure class="wp-block-image size-large"><img data-recalc-dims="1" decoding="async"
+											width="1024" height="576"
+											src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&amp;ssl=1"
+											alt="" class="wp-image-3064"
+											srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/vscode-style.css-split-view-linkedcss.gif?w=2400&amp;ssl=1 2400w"
+											sizes="(max-width: 1024px) 100vw, 1024px">
+										<figcaption>Tip: Split your text editor into two panes: HTML on the left, CSS on
+											the right. Also, keep a browser window open as you code.</figcaption>
 									</figure>
 
 
@@ -3892,7 +5061,8 @@ flexibility(document.documentElement);
 
 
 
-									<div class="wp-block-uagb-advanced-heading uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d step-heading" id="uagb-adv-heading-3e87ac5a-5499-409d-9225-53598413fdda">
+									<div class="wp-block-uagb-advanced-heading uagb-block-605b0430-4947-4f33-9964-5aeb19ffa08d step-heading"
+										id="uagb-adv-heading-3e87ac5a-5499-409d-9225-53598413fdda">
 										<h2 class="uagb-heading-text">Step</h2>
 										<div class="uagb-separator-wrap">
 											<div class="uagb-separator"></div>
@@ -3906,12 +5076,18 @@ flexibility(document.documentElement);
 
 
 
-									<h3 class="wp-block-heading">Tip: Write One (1) Line of Code at a Time and Test it <em>Locally</em>
+									<h3 class="wp-block-heading">Tip: Write One (1) Line of Code at a Time and Test it
+										<em>Locally</em>
 									</h3>
 
 
 
-									<p><em>Remember: <strong>Do not try to code all of the CSS at once</strong>.</em> Instead, get in the habit of coding one line at a time, hitting save, then viewing your changes locally in the browser. To do this quickly and efficiently, be sure to have two windows/apps open: 1) your editor (VS Code) and 2) your browser (viewing your local index.html file). Then follow the 2-step &#8220;one-line-at-a-time&#8221; local coding process.</p>
+									<p class="wp-block-paragraph"><em>Remember: <strong>Do not try to code all of the
+												CSS at once</strong>.</em> Instead, get in the habit of coding one line
+										at a time, hitting save, then viewing your changes locally in the browser. To do
+										this quickly and efficiently, be sure to have two windows/apps open: 1) your
+										editor (VS Code) and 2) your browser (viewing your local index.html file). Then
+										follow the 2-step “one-line-at-a-time” local coding process.</p>
 
 
 
@@ -3919,16 +5095,19 @@ flexibility(document.documentElement);
 
 
 
-									<ol>
-										<li>In <em>VS Code</em>, write one (1) line of code at a time, then hit <strong>Save</strong>
+									<ol class="wp-block-list">
+										<li>In <em>VS Code</em>, write one (1) line of code at a time, then hit
+											<strong>Save</strong>
 										</li>
-										<li>In your <em>browser</em>, hit <strong>Refresh</strong> to see your changes. </li>
+										<li>In your <em>browser</em>, hit <strong>Refresh</strong> to see your changes.
+										</li>
 										<li>Repeat (go back to step 1).</li>
 									</ol>
 
 
 
-									<p>Example CSS Code that we did previously, plus a few new changes (e.g. to <em>center</em> the list):</p>
+									<p class="wp-block-paragraph">Example CSS Code that we did previously, plus a few
+										new changes (e.g. to <em>center</em> the list):</p>
 
 
 
@@ -3965,7 +5144,12 @@ li {
 
 
 
-									<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&#038;ssl=1" alt class="wp-image-3065 jetpack-lazy-image" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?w=2400&amp;ssl=1 2400w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,..//lesson/styling-with-style-css/R0lGODlhAQABAIAAAAAAAP/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" decoding="async" width="1024" height="576" src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&#038;ssl=1" alt="" class="wp-image-3065" srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?w=2400&amp;ssl=1 2400w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1"></noscript></figure>
+									<figure class="wp-block-image size-large"><img data-recalc-dims="1" decoding="async"
+											width="1024" height="576"
+											src="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&amp;ssl=1"
+											alt="" class="wp-image-3065"
+											srcset="https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/creativemedia.space/wp-content/uploads/2019/06/screenshot-html-with-css-summer2019.gif?w=2400&amp;ssl=1 2400w"
+											sizes="(max-width: 1024px) 100vw, 1024px"></figure>
 
 
 
@@ -3973,7 +5157,9 @@ li {
 
 
 
-									<p>Now is a good time to start experimenting with CSS. Start by changing the colors. Then maybe adjust the text. What else would you like to try to do? Go for it, have fun, and play around learning CSS. </p>
+									<p class="wp-block-paragraph">Now is a good time to start experimenting with CSS.
+										Start by changing the colors. Then maybe adjust the text. What else would you
+										like to try to do? Go for it, have fun, and play around learning CSS. </p>
 
 
 
@@ -3981,7 +5167,8 @@ li {
 
 
 
-									<div class="wp-block-uagb-advanced-heading uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462 step-heading" id="uagb-adv-heading-7d78226b-8d0f-4488-b694-2e9c61eab479">
+									<div class="wp-block-uagb-advanced-heading uagb-block-b5003055-a308-4bb0-8ab1-8d1e8319f462 step-heading"
+										id="uagb-adv-heading-7d78226b-8d0f-4488-b694-2e9c61eab479">
 										<h2 class="uagb-heading-text">Step</h2>
 										<div class="uagb-separator-wrap">
 											<div class="uagb-separator"></div>
@@ -3991,11 +5178,14 @@ li {
 
 
 
-									<h3 class="wp-block-heading">Save (commit) your local changes to the server (Github)</h3>
+									<h3 class="wp-block-heading">Save (commit) your local changes to the server (Github)
+									</h3>
 
 
 
-									<p>By now you should know the drill: in VS Code, navigate to the &#8220;Source Control&#8221; (a.k.a. &#8220;Git&#8221;) tab on the left, then do a commit (with a comment of your change) followed by a push (sync).</p>
+									<p class="wp-block-paragraph">By now you should know the drill: in VS Code, navigate
+										to the “Source Control” (a.k.a. “Git”) tab on the left, then do a commit (with a
+										comment of your change) followed by a push (sync).</p>
 
 
 
@@ -4003,12 +5193,11 @@ li {
 
 
 
-									<ol>
-										<li>
-											<strong>Commit</strong>: add a descriptive comment then hit the checkmark icon (the checkmark will save the changes via a git &#8220;commit&#8221;)
-										</li>
-										<li>
-											<strong>Push</strong>: at the bottom of the interface, hit the sync icon (this sync icon will upload the changes via a git &#8220;push&#8221;)<ul>
+									<ol class="wp-block-list">
+										<li><strong>Commit</strong>: add a descriptive comment then hit the checkmark
+											icon (the checkmark will save the changes via a git “commit”) </li>
+										<li><strong>Push</strong>: at the bottom of the interface, hit the sync icon
+											(this sync icon will upload the changes via a git “push”)<ul>
 												<li>Enter your username and password if/when prompted</li>
 											</ul>
 										</li>
@@ -4020,7 +5209,9 @@ li {
 
 
 
-									<p>Whenever you push changes to your master GitHub repo, be sure to test your live site hosted on Github pages. Congratulations! It&#8217;s back to look good. Having fun again?</p>
+									<p class="wp-block-paragraph">Whenever you push changes to your master GitHub repo,
+										be sure to test your live site hosted on Github pages. Congratulations! It’s
+										back to look good. Having fun again?</p>
 
 
 
@@ -4032,18 +5223,32 @@ li {
 										<div class="llms-course-nav llms-prev-lesson">
 
 											<div class="llms-lesson-preview is-free has-icon">
-												<a class="llms-lesson-link" href="../lesson/css-essentials/">
+												<section>
+													<a class="llms-lesson-link"
+														href="../..//lesson/css-essentials/index.html"
+														aria-label="CSS Essentials Lesson 4 within section Web Development Best Practices.">
 
 
-													<section class="llms-main">
-														<h6 class="llms-pre-text">Previous Lesson</h6>
-														<h5 class="llms-h5 llms-lesson-title">CSS Essentials</h5>
-													</section>
-
-													<div class="clear"></div>
+														<div class="llms-lesson-preview-row">
 
 
-												</a>
+															<div class="llms-main">
+																<div class="llms-pre-text">Previous Lesson</div>
+																<div class="llms-lesson-title">CSS Essentials</div>
+
+															</div>
+
+															<span class="screen-reader-text">Lesson 4 within section Web
+																Development Best Practices.</span>
+
+
+														</div>
+
+													</a>
+													<div class="llms-lesson-meta">
+
+													</div>
+												</section>
 											</div>
 										</div>
 
@@ -4053,18 +5258,33 @@ li {
 										<div class="llms-course-nav llms-next-lesson">
 
 											<div class="llms-lesson-preview is-free has-icon">
-												<a class="llms-lesson-link" href="../lesson/frontend-dev-site-structure/">
+												<section>
+													<a class="llms-lesson-link"
+														href="../..//lesson/frontend-dev-site-structure/index.html"
+														aria-label="Front-end Dev: Site Structure Lesson 1 within section Web Design Foundations.">
 
 
-													<section class="llms-main">
-														<h6 class="llms-pre-text">Next Lesson</h6>
-														<h5 class="llms-h5 llms-lesson-title">Front-end Dev: Site Structure</h5>
-													</section>
-
-													<div class="clear"></div>
+														<div class="llms-lesson-preview-row">
 
 
-												</a>
+															<div class="llms-main">
+																<div class="llms-pre-text">Next Lesson</div>
+																<div class="llms-lesson-title">Front-end Dev: Site
+																	Structure</div>
+
+															</div>
+
+															<span class="screen-reader-text">Lesson 1 within section Web
+																Design Foundations.</span>
+
+
+														</div>
+
+													</a>
+													<div class="llms-lesson-meta">
+
+													</div>
+												</section>
 											</div>
 										</div>
 
@@ -4076,8 +5296,7 @@ li {
 
 
 
-								</div>
-								<!-- .entry-content .clear -->
+								</div><!-- .entry-content .clear -->
 							</div>
 
 
@@ -4086,20 +5305,19 @@ li {
 					</main><!-- #main -->
 
 
-				</div>
-				<!-- #primary -->
+				</div><!-- #primary -->
 
 
 
 			</div> <!-- ast-container -->
 
-		</div>
-		<!-- #content -->
+		</div><!-- #content -->
 
 
 
 
-		<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+		<footer class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope"
+			itemid="#colophon">
 
 
 
@@ -4107,123 +5325,191 @@ li {
 				<div class="footer-adv-overlay">
 					<div class="ast-container">
 						<div class="ast-row">
-							<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-1">
+							<div
+								class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-1">
 								<div id="pages-2" class="widget widget_pages">
 									<h2 class="widget-title">Pages</h2>
 									<nav aria-label="Pages">
 										<ul>
-											<li class="page_item page-item-74 menu-item"><a href="../index.html" class="menu-link">Home</a></li>
-											<li class="page_item page-item-267 menu-item"><a href="../lessons/index.html" class="menu-link">Lessons</a></li>
-											<li class="page_item page-item-3 menu-item"><a href="../privacy-policy/index.html" class="menu-link">Privacy Policy</a></li>
-											<li class="page_item page-item-196 menu-item"><a href="../resources/index.html" class="menu-link">Resources</a></li>
+											<li class="page_item page-item-74 menu-item"><a href="../..//index.html"
+													class="menu-link">Home</a></li>
+											<li class="page_item page-item-267 menu-item"><a
+													href="../..//lessons/index.html" class="menu-link">Lessons</a></li>
+											<li class="page_item page-item-3 menu-item"><a
+													href="../..//privacy-policy/index.html" class="menu-link">Privacy
+													Policy</a></li>
+											<li class="page_item page-item-196 menu-item"><a
+													href="../..//resources/index.html" class="menu-link">Resources</a>
+											</li>
+											<li class="page_item page-item-4633 menu-item"><a
+													href="../..//web-design-studio-2021/index.html"
+													class="menu-link">Web
+													Design
+													Studio 2021</a></li>
 										</ul>
 
 									</nav>
 								</div>
 							</div>
-							<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-2">
+							<div
+								class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-2">
 								<div id="categories-2" class="widget widget_categories">
 									<h2 class="widget-title">Categories</h2>
 									<nav aria-label="Categories">
 										<ul>
-											<li class="cat-item cat-item-2">
-												<a href="../category/assignments/">Assignments</a> (6)
+											<li class="cat-item cat-item-2"><a
+													href="../..//category/assignments/index.html">Assignments</a> (6)
 											</li>
-											<li class="cat-item cat-item-3">
-												<a href="../category/blogs/">Blogs</a> (6)
+											<li class="cat-item cat-item-3"><a
+													href="../..//category/blogs/index.html">Blogs</a> (6)
 											</li>
-											<li class="cat-item cat-item-4">
-												<a href="../category/books/">Books</a> (11)
+											<li class="cat-item cat-item-4"><a
+													href="../..//category/books/index.html">Books</a> (11)
 											</li>
-											<li class="cat-item cat-item-5">
-												<a href="../category/educational/">Educational Resources</a> (4)
+											<li class="cat-item cat-item-5"><a
+													href="../..//category/educational/index.html">Educational
+													Resources</a>
+												(4)
 											</li>
-											<li class="cat-item cat-item-6">
-												<a href="../category/events/">Events</a> (1)
+											<li class="cat-item cat-item-6"><a
+													href="../..//category/events/index.html">Events</a>
+												(1)
 											</li>
-											<li class="cat-item cat-item-7">
-												<a href="../category/exercises/">Exercises</a> (6)
+											<li class="cat-item cat-item-7"><a
+													href="../..//category/exercises/index.html">Exercises</a> (6)
 											</li>
-											<li class="cat-item cat-item-8">
-												<a href="../category/featured/">Featured</a> (5)
+											<li class="cat-item cat-item-8"><a
+													href="../..//category/featured/index.html">Featured</a> (5)
 											</li>
-											<li class="cat-item cat-item-9">
-												<a href="../category/front-end-tools/">Front-end Tools</a> (5)
+											<li class="cat-item cat-item-9"><a
+													href="../..//category/front-end-tools/index.html">Front-end
+													Tools</a>
+												(5)
 											</li>
-											<li class="cat-item cat-item-10">
-												<a href="../category/front-end-web-development/">Front-end Web Development</a> (4)
+											<li class="cat-item cat-item-10"><a
+													href="../..//category/front-end-web-development/index.html">Front-end
+													Web
+													Development</a> (4)
 											</li>
-											<li class="cat-item cat-item-11">
-												<a href="../category/inspiration/">Inspiration</a> (5)
+											<li class="cat-item cat-item-11"><a
+													href="../..//category/inspiration/index.html">Inspiration</a> (5)
 											</li>
-											<li class="cat-item cat-item-12">
-												<a href="../category/lessons/">Lessons</a> (23)
+											<li class="cat-item cat-item-12"><a
+													href="../..//category/lessons/index.html">Lessons</a>
+												(24)
 											</li>
-											<li class="cat-item cat-item-13">
-												<a href="../category/newsletters/">Newsletters</a> (4)
+											<li class="cat-item cat-item-13"><a
+													href="../..//category/newsletters/index.html">Newsletters</a> (5)
 											</li>
-											<li class="cat-item cat-item-14">
-												<a href="../category/notes/">Notes</a> (1)
+											<li class="cat-item cat-item-14"><a
+													href="../..//category/notes/index.html">Notes</a> (1)
 											</li>
-											<li class="cat-item cat-item-15">
-												<a href="../category/other/">Other</a> (30)
+											<li class="cat-item cat-item-15"><a
+													href="../..//category/other/index.html">Other</a>
+												(30)
 											</li>
-											<li class="cat-item cat-item-16">
-												<a href="../category/people/">People</a> (7)
+											<li class="cat-item cat-item-16"><a
+													href="../..//category/people/index.html">People</a>
+												(7)
 											</li>
-											<li class="cat-item cat-item-17">
-												<a href="../category/podcasts/">Podcasts</a> (5)
+											<li class="cat-item cat-item-17"><a
+													href="../..//category/podcasts/index.html">Podcasts</a> (5)
 											</li>
-											<li class="cat-item cat-item-18">
-												<a href="../category/stock-assets/">Stock Assets</a> (6)
+											<li class="cat-item cat-item-18"><a
+													href="../..//category/stock-assets/index.html">Stock
+													Assets</a> (6)
 											</li>
-											<li class="cat-item cat-item-19">
-												<a href="../category/web-design/">Web Design</a> (1)
+											<li class="cat-item cat-item-19"><a
+													href="../..//category/web-design/index.html">Web
+													Design</a> (1)
 											</li>
 										</ul>
 
 									</nav>
 								</div>
 							</div>
-							<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-3">
+							<div
+								class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-3">
 								<div id="tag_cloud-2" class="widget widget_tag_cloud">
 									<h2 class="widget-title">Tags</h2>
 									<nav aria-label="Tags">
-										<div class="tagcloud">
-											<a href="../tag/css/" class="tag-cloud-link tag-link-20 tag-link-position-1" style="font-size: 17.189655172414px;" aria-label="CSS (10 items)">CSS<span class="tag-link-count"> (10)</span></a>
-											<a href="../tag/frontendwebdev/" class="tag-cloud-link tag-link-21 tag-link-position-2" style="font-size: 19px;" aria-label="Front-end Web Development (28 items)">Front-end Web Development<span class="tag-link-count"> (28)</span></a>
-											<a href="../tag/graphic-design/" class="tag-cloud-link tag-link-23 tag-link-position-3" style="font-size: 15.293103448276px;" aria-label="Graphic Design (3 items)">Graphic Design<span class="tag-link-count"> (3)</span></a>
-											<a href="../tag/hosting/" class="tag-cloud-link tag-link-56 tag-link-position-4" style="font-size: 14px;" aria-label="Hosting (1 item)">Hosting<span class="tag-link-count"> (1)</span></a>
-											<a href="../tag/html/" class="tag-cloud-link tag-link-24 tag-link-position-5" style="font-size: 17.01724137931px;" aria-label="HTML (9 items)">HTML<span class="tag-link-count"> (9)</span></a>
-											<a href="../tag/javascript/" class="tag-cloud-link tag-link-25 tag-link-position-6" style="font-size: 15.293103448276px;" aria-label="Javascript (3 items)">Javascript<span class="tag-link-count"> (3)</span></a>
-											<a href="../tag/print-design/" class="tag-cloud-link tag-link-27 tag-link-position-7" style="font-size: 14px;" aria-label="Print Design (1 item)">Print Design<span class="tag-link-count"> (1)</span></a>
-											<a href="../tag/typography/" class="tag-cloud-link tag-link-29 tag-link-position-8" style="font-size: 17.01724137931px;" aria-label="Typography (9 items)">Typography<span class="tag-link-count"> (9)</span></a>
-											<a href="../tag/ui/" class="tag-cloud-link tag-link-30 tag-link-position-9" style="font-size: 16.068965517241px;" aria-label="UI (5 items)">UI<span class="tag-link-count"> (5)</span></a>
-											<a href="../tag/user-centered-design/" class="tag-cloud-link tag-link-31 tag-link-position-10" style="font-size: 15.724137931034px;" aria-label="User-centered Design (4 items)">User-centered Design<span class="tag-link-count"> (4)</span></a>
-											<a href="../tag/ux/" class="tag-cloud-link tag-link-32 tag-link-position-11" style="font-size: 16.586206896552px;" aria-label="UX (7 items)">UX<span class="tag-link-count"> (7)</span></a>
+										<div class="tagcloud"><a href="../..//tag/css/index.html"
+												class="tag-cloud-link tag-link-20 tag-link-position-1"
+												style="font-size: 17.135593220339px;"
+												aria-label="CSS (10 items)">CSS<span class="tag-link-count">
+													(10)</span></a>
+											<a href="../..//tag/frontendwebdev/index.html"
+												class="tag-cloud-link tag-link-21 tag-link-position-2"
+												style="font-size: 19px;"
+												aria-label="Front-end Web Development (29 items)">Front-end Web
+												Development<span class="tag-link-count"> (29)</span></a>
+											<a href="../..//tag/graphic-design/index.html"
+												class="tag-cloud-link tag-link-23 tag-link-position-3"
+												style="font-size: 15.694915254237px;"
+												aria-label="Graphic Design (4 items)">Graphic Design<span
+													class="tag-link-count"> (4)</span></a>
+											<a href="../..//tag/hosting/index.html"
+												class="tag-cloud-link tag-link-56 tag-link-position-4"
+												style="font-size: 14px;" aria-label="Hosting (1 item)">Hosting<span
+													class="tag-link-count"> (1)</span></a>
+											<a href="../..//tag/html/index.html"
+												class="tag-cloud-link tag-link-24 tag-link-position-5"
+												style="font-size: 16.966101694915px;"
+												aria-label="HTML (9 items)">HTML<span class="tag-link-count">
+													(9)</span></a>
+											<a href="../..//tag/javascript/index.html"
+												class="tag-cloud-link tag-link-25 tag-link-position-6"
+												style="font-size: 15.271186440678px;"
+												aria-label="Javascript (3 items)">Javascript<span
+													class="tag-link-count"> (3)</span></a>
+											<a href="../..//tag/print-design/index.html"
+												class="tag-cloud-link tag-link-27 tag-link-position-7"
+												style="font-size: 14px;" aria-label="Print Design (1 item)">Print
+												Design<span class="tag-link-count"> (1)</span></a>
+											<a href="../..//tag/typography/index.html"
+												class="tag-cloud-link tag-link-29 tag-link-position-8"
+												style="font-size: 16.966101694915px;"
+												aria-label="Typography (9 items)">Typography<span
+													class="tag-link-count"> (9)</span></a>
+											<a href="../..//tag/ui/index.html"
+												class="tag-cloud-link tag-link-30 tag-link-position-9"
+												style="font-size: 16.330508474576px;" aria-label="UI (6 items)">UI<span
+													class="tag-link-count"> (6)</span></a>
+											<a href="../..//tag/user-centered-design/index.html"
+												class="tag-cloud-link tag-link-31 tag-link-position-10"
+												style="font-size: 15.694915254237px;"
+												aria-label="User-centered Design (4 items)">User-centered Design<span
+													class="tag-link-count"> (4)</span></a>
+											<a href="../..//tag/ux/index.html"
+												class="tag-cloud-link tag-link-32 tag-link-position-11"
+												style="font-size: 16.542372881356px;" aria-label="UX (7 items)">UX<span
+													class="tag-link-count"> (7)</span></a>
 										</div>
 									</nav>
 								</div>
 							</div>
-							<div class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-4">
-								<div id="search-2" class="widget widget_search">
-									<form role="search" method="get" class="search-form" action="https://creativemedia.space/">
-										<label>
+							<div
+								class="ast-col-lg-3 ast-col-md-3 ast-col-sm-12 ast-col-xs-12 footer-adv-widget footer-adv-widget-4">
+								<!--
+
+<div id="search-2" class="widget widget_search">
+									<form role="search" method="get" class="search-form"
+										action="https://creativemedia.space/index.html">
+										<label for="search-field">
 											<span class="screen-reader-text">Search for:</span>
-											<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" tabindex="-1">
+											<input type="search" id="search-field-sticky" class="search-field"
+												placeholder="Search..." value="" name="s" tabindex="-1">
 										</label>
 										<input type="submit" class="search-submit" value="Search">
 									</form>
 								</div>
+
+-->
 							</div>
-						</div>
-						<!-- .ast-row -->
-					</div>
-					<!-- .ast-container -->
-				</div>
-				<!-- .footer-adv-overlay-->
-			</div>
-			<!-- .ast-theme-footer .footer-adv-layout-4 -->
+						</div><!-- .ast-row -->
+					</div><!-- .ast-container -->
+				</div><!-- .footer-adv-overlay-->
+			</div><!-- .ast-theme-footer .footer-adv-layout-4 -->
 
 			<div class="ast-small-footer footer-sml-layout-1">
 				<div class="ast-footer-overlay">
@@ -4232,66 +5518,108 @@ li {
 							<div class="ast-small-footer-section ast-small-footer-section-1">
 								<div class="footer-primary-navigation">
 									<ul id="menu-footer-menu" class="nav-menu">
-										<li id="menu-item-3123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3123"><a href="../index.html" class="menu-link">Home</a></li>
-										<li id="menu-item-3133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3133"><a href="../resources/index.html" class="menu-link">Resources</a></li>
-										<li id="menu-item-3132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3132"><a href="../courses/index.html" class="menu-link">Courses</a></li>
-										<li id="menu-item-3124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3124"><a href="../my-dashboard/index.html" class="menu-link">My Account</a></li>
+										<li id="menu-item-3123"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3123">
+											<a href="../..//index.html" class="menu-link">Home</a>
+										</li>
+										<li id="menu-item-3133"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3133">
+											<a href="../..//resources/index.html" class="menu-link">Resources</a>
+										</li>
+										<li id="menu-item-3132"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3132">
+											<a href="../..//courses/index.html" class="menu-link">Courses</a>
+										</li>
+										<!--
+
+<li id="menu-item-3124"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3124">
+											<a href="../..//my-dashboard/index.html" class="menu-link">My Account</a>
+										</li>
+
+-->
 									</ul>
 								</div>
 							</div>
 
 
-						</div>
-						<!-- .ast-row .ast-small-footer-wrap -->
-					</div>
-					<!-- .ast-container -->
-				</div>
-				<!-- .ast-footer-overlay -->
-			</div>
-			<!-- .ast-small-footer-->
+						</div><!-- .ast-row .ast-small-footer-wrap -->
+					</div><!-- .ast-container -->
+				</div><!-- .ast-footer-overlay -->
+			</div><!-- .ast-small-footer-->
 
 
 		</footer><!-- #colophon -->
 
 
-	</div>
-	<!-- #page -->
+	</div><!-- #page -->
 
 
-
-	<link rel="stylesheet" id="jetpack-gist-styling-css" href="https://github.githubassets.com/assets/gist-embed-232d920b3dfe.css?ver=12.7" media="all">
-	<script id="astra-theme-js-js-extra">var astra = { "break_point": "921", "isRtl": "" };</script>
-	<script src="../wp-content/themes/astra/assets/js/minified/style.min.js?ver=3.9.4" id="astra-theme-js-js"></script>
-	<script src="../wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false#038;ver=132249e245926ae3e188" id="jetpack-photon-js"></script>
-	<script id="mkaz-code-syntax-prism-js-js-extra">var prism_settings = { "pluginUrl": "..\/\/wp-content\/plugins\/code-syntax-block\/" };</script>
-	<script src="../wp-content/plugins/code-syntax-block/assets/prism/prism.js?ver=1672772307" id="mkaz-code-syntax-prism-js-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/ui/tooltip.min.js" id="jquery-ui-tooltip-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/ui/datepicker.min.js" id="jquery-ui-datepicker-js"></script>
-	<script id="jquery-ui-datepicker-js-after">jQuery(function (jQuery) { jQuery.datepicker.setDefaults({ "closeText": "Close", "currentText": "Today", "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "nextText": "Next", "prevText": "Previous", "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"], "dateFormat": "MM d, yy", "firstDay": 1, "isRTL": false }); });</script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/ui/mouse.min.js" id="jquery-ui-mouse-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/jquery/ui/slider.min.js" id="jquery-ui-slider-js"></script>
-	<script src="../wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.js?ver=1.2.15" id="webui-popover-js"></script>
-	<script src="../wp-content/plugins/lifterlms/assets/js/vendor/jquery.matchHeight.js?ver=0.7.0" id="llms-jquery-matchheight-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js" id="wp-polyfill-inert-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/dist/vendor/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
-	<script src="https://c0.wp.com/c/6.3.2/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
-
-	<script src="../wp-content/plugins/lifterlms/assets/js/llms.min.js?ver=7.4.2" id="llms-js"></script>
-	<script src="../wp-content/plugins/lifterlms/assets/js/llms-ajax.min.js?ver=7.4.2" id="llms-ajax-js"></script>
-	<script src="../wp-content/plugins/lifterlms/assets/js/llms-form-checkout.min.js?ver=7.4.2" id="llms-form-checkout-js"></script>
-	<script id="superpwa-register-sw-js-extra">var superpwa_sw = { "url": "\/superpwa-sw.js", "disable_addtohome": "0", "enableOnDesktop": "" };</script>
-	<script src="../wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js" id="superpwa-register-sw-js"></script>
-	<script src="../wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false#038;ver=83ec8aa758f883d6da14" id="jetpack-lazy-images-polyfill-intersectionobserver-js"></script>
-	<script id="jetpack-lazy-images-js-extra">var jetpackLazyImagesL10n = { "loading_warning": "Images are still loading. Please cancel your print and try again." };</script>
-	<script src="../wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false#038;ver=de7a5ed9424adbf44f32" id="jetpack-lazy-images-js"></script>
-	<script defer src="https://stats.wp.com/e-202342.js" id="jetpack-stats-js"></script>
-	<script id="jetpack-stats-js-after">_stq = window._stq || [];
-		_stq.push(["view", { v: 'ext', blog: '163816717', post: '3158', tz: '-10', srv: 'creativemedia.space', j: '1:12.7' }]);
-		_stq.push(["clickTrackerInit", "163816717", "3158"]);</script>
-	<script>/(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () { var t, e = location.hash.substring(1); /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus()) }, !1);</script>
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/astra-child-creativemediaspace/*","/wp-content/themes/astra/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script id="llms-inline-footer-scripts"
+		type="text/javascript">window.llms = window.llms || {}; window.llms.ajaxurl = "..//wp-admin/admin-ajax.php"; window.llms.ajax_nonce = "ffd82647e3"; window.llms.tracking = '{"nonce":"34e6f93b59","events":[],"saving_frequency":"minimum"}'; window.LLMS = window.LLMS || {}; window.LLMS.l10n = window.LLMS.l10n || {}; window.LLMS.l10n.strings = { "This is a %2$s %1$s String": "This is a %2$s %1$s String", "You do not have permission to access this content": "You do not have permission to access this content", "There is an issue with your chosen password.": "There is an issue with your chosen password.", "This password includes your name, email, or other information from this form. Choose a password that doesn't include those details.": "This password includes your name, email, or other information from this form. Choose a password that doesn't include those details.", "Too Short": "Too Short", "Very Weak": "Very Weak", "Weak": "Weak", "Medium": "Medium", "Strong": "Strong", "Mismatch": "Mismatch", "Members Only Pricing": "Members Only Pricing", "Are you sure you want to cancel your subscription?": "Are you sure you want to cancel your subscription?", "New Lesson": "New Lesson", "lessons": "lessons", "lesson": "lesson", "Section %1$d: %2$s": "Section %1$d: %2$s", "Lesson %1$d: %2$s": "Lesson %1$d: %2$s", "%1$s Quiz": "%1$s Quiz", "questions": "questions", "question": "question", "New Quiz": "New Quiz", "quizzes": "quizzes", "quiz": "quiz", "New Section": "New Section", "sections": "sections", "section": "section", "Disabled": "Disabled", "Global setting (%s)": "Global setting (%s)", "Course setting (%s)": "Course setting (%s)", "Enabled": "Enabled", "General Settings": "General Settings", "Content": "Content", "Video Embed URL": "Video Embed URL", "Audio Embed URL": "Audio Embed URL", "Free Lesson": "Free Lesson", "Free lessons can be accessed without enrollment.": "Free lessons can be accessed without enrollment.", "Require Passing Grade on Quiz": "Require Passing Grade on Quiz", "When enabled, students must pass this quiz before the lesson can be completed.": "When enabled, students must pass this quiz before the lesson can be completed.", "Require Passing Grade on Assignment": "Require Passing Grade on Assignment", "When enabled, students must pass this assignment before the lesson can be completed.": "When enabled, students must pass this assignment before the lesson can be completed.", "Lesson Weight": "Lesson Weight", "POINTS": "POINTS", "Determines the weight of the lesson when calculating the overall grade of the course.": "Determines the weight of the lesson when calculating the overall grade of the course.", "Minimum Time on Lesson": "Minimum Time on Lesson", "Require students to spend a minimum amount of time on this lesson before they can mark it complete": "Require students to spend a minimum amount of time on this lesson before they can mark it complete", "Hours": "Hours", "Minutes": "Minutes", "Seconds": "Seconds", "Prerequisite": "Prerequisite", "Course Drip Method": "Course Drip Method", "Drip settings are currently set at the course level, under the Restrictions settings tab. Disable to allow lesson level drip settings.": "Drip settings are currently set at the course level, under the Restrictions settings tab. Disable to allow lesson level drip settings.", "Edit Course": "Edit Course", "Drip settings can be set at the course level to release course content at a specified interval, in the Restrictions settings tab.": "Drip settings can be set at the course level to release course content at a specified interval, in the Restrictions settings tab.", "Drip Method": "Drip Method", "None": "None", "On a specific date": "On a specific date", "# of days after course enrollment": "# of days after course enrollment", "# of days after course start date": "# of days after course start date", "# of days after prerequisite lesson completion": "# of days after prerequisite lesson completion", "# of days": "# of days", "Date": "Date", "Time": "Time", "Associated Event(s)": "Associated Event(s)", "Schedule events for your lessons with the LifterLMS Events add-on.": "Schedule events for your lessons with the LifterLMS Events add-on.", "Learn More": "Learn More", "Require Video Completion": "Require Video Completion", "When enabled, students must watch the entire video before they can progress to the next lesson or attempt a quiz associated with the lesson.": "When enabled, students must watch the entire video before they can progress to the next lesson or attempt a quiz associated with the lesson.", "Auto-Advance Videos": "Auto-Advance Videos", "After a student completes the lesson video, a countdown timer is displayed and when the timer expires, the student is automatically redirected to the next lesson, quiz, or assignment.": "After a student completes the lesson video, a countdown timer is displayed and when the timer expires, the student is automatically redirected to the next lesson, quiz, or assignment.", "Require lesson video completion, auto-advance lessons on video completion, customize video player controls, and more with the LifterLMS Advanced Videos add-on.": "Require lesson video completion, auto-advance lessons on video completion, customize video player controls, and more with the LifterLMS Advanced Videos add-on.", "Description": "Description", "Passing Percentage": "Passing Percentage", "Minimum percentage of total points required to pass the quiz": "Minimum percentage of total points required to pass the quiz", "Limit Attempts": "Limit Attempts", "Limit the maximum number of times a student can take this quiz": "Limit the maximum number of times a student can take this quiz", "Time Limit": "Time Limit", "Enforce a maximum number of minutes a student can spend on each attempt": "Enforce a maximum number of minutes a student can spend on each attempt", "Can be resumed": "Can be resumed", "Allow a new attempt on this quiz to be resumed": "Allow a new attempt on this quiz to be resumed", "Show Correct Answers": "Show Correct Answers", "When enabled, students will be shown the correct answer to any question they answered incorrectly.": "When enabled, students will be shown the correct answer to any question they answered incorrectly.", "Randomize Question Order": "Randomize Question Order", "Display questions in a random order for each attempt. Content questions are locked into their defined positions.": "Display questions in a random order for each attempt. Content questions are locked into their defined positions.", "Disable Retake": "Disable Retake", "Prevent quiz retake after student passed the quiz.": "Prevent quiz retake after student passed the quiz.", "Question Bank": "Question Bank", "A question bank helps prevent cheating and reinforces learning by allowing instructors to create assessments with randomized questions pulled from a bank of questions. (Available in Advanced Quizzes addon)": "A question bank helps prevent cheating and reinforces learning by allowing instructors to create assessments with randomized questions pulled from a bank of questions. (Available in Advanced Quizzes addon)", "Get LifterLMS Advanced Quizzes": "Get LifterLMS Advanced Quizzes", "Are you sure you want to detach this %s?": "Are you sure you want to detach this %s?", "Select an image": "Select an image", "Use this image": "Use this image", "Are you sure you want to move this %s to the trash?": "Are you sure you want to move this %s to the trash?", "%1$s Assignment": "%1$s Assignment", "Add Existing Assignment": "Add Existing Assignment", "Search for existing assignments...": "Search for existing assignments...", "Get Your Students Taking Action": "Get Your Students Taking Action", "Get Assignments Now!": "Get Assignments Now!", "Unlock LifterLMS Assignments": "Unlock LifterLMS Assignments", "Close": "Close", "Add Existing Lesson": "Add Existing Lesson", "Search for existing lessons...": "Search for existing lessons...", "Searching...": "Searching...", "Attach": "Attach", "Clone": "Clone", "ID": "ID", "Are you sure you want to delete this question?": "Are you sure you want to delete this question?", "Add Existing Question": "Add Existing Question", "Search for existing questions...": "Search for existing questions...", "An error occurred while trying to load the questions. Please refresh the page and try again.": "An error occurred while trying to load the questions. Please refresh the page and try again.", "Add Existing Quiz": "Add Existing Quiz", "Search for existing quizzes...": "Search for existing quizzes...", "Add a Question": "Add a Question", "Use SoundCloud or Spotify audio URLS.": "Use SoundCloud or Spotify audio URLS.", "Permalink": "Permalink", "Use YouTube, Vimeo, or Wistia video URLS.": "Use YouTube, Vimeo, or Wistia video URLS.", "Select an Image": "Select an Image", "Select Image": "Select Image", "An error was encountered generating the export": "An error was encountered generating the export", "Select a Course\/Membership": "Select a Course\/Membership", "Select a student": "Select a student", "Error: %s": "Error: %s", "Filter by Student(s)": "Filter by Student(s)", "Error": "Error", "Request timed out": "Request timed out", "Retry": "Retry", "Unknown response": "Unknown response", "Launch Course Builder": "Launch Course Builder", "There was an error loading the necessary resources. Please try again.": "There was an error loading the necessary resources. Please try again.", "Restrictions": "Restrictions", "Free": "Free", "Monthly": "Monthly", "Annual": "Annual", "One Time": "One Time", "Lifetime": "Lifetime", "Paid Trial": "Paid Trial", "Free Trial": "Free Trial", "Hidden Access": "Hidden Access", "Pre-sale": "Pre-sale", "After deleting this access plan, any students subscribed to this plan will still have access and will continue to make recurring payments according to the access plan's settings. If you wish to terminate their plans you must do so manually. This action cannot be reversed.": "After deleting this access plan, any students subscribed to this plan will still have access and will continue to make recurring payments according to the access plan's settings. If you wish to terminate their plans you must do so manually. This action cannot be reversed.", "An error was encountered during the save attempt. Please try again.": "An error was encountered during the save attempt. Please try again.", "Please select a student to enroll": "Please select a student to enroll", "Are you sure you want to delete this row? This cannot be undone.": "Are you sure you want to delete this row? This cannot be undone.", "Click okay to enroll all active members into the selected course. Enrollment will take place in the background and you may leave your site after confirmation. This action cannot be undone!": "Click okay to enroll all active members into the selected course. Enrollment will take place in the background and you may leave your site after confirmation. This action cannot be undone!", "\"%s\" is already in the course list.": "&quot;%s&quot; is already in the course list.", "Remove course": "Remove course", "Enroll All Members": "Enroll All Members", "Cancel": "Cancel", "Refund": "Refund", "Record a Manual Payment": "Record a Manual Payment", "Copy this code and paste it into the desired area": "Copy this code and paste it into the desired area", "Edit": "Edit", "View": "View", "Remarks to Student": "Remarks to Student", "points": "points", "Are you sure you wish to quit this quiz attempt?": "Are you sure you wish to quit this quiz attempt?", "Grading Quiz...": "Grading Quiz...", "Loading Question...": "Loading Question...", "An unknown error occurred. Please try again.": "An unknown error occurred. Please try again.", "Loading Quiz...": "Loading Quiz...", "Save & Exit Quiz": "Save &amp; Exit Quiz", "Time Remaining": "Time Remaining", "Next Question": "Next Question", "Complete Quiz": "Complete Quiz", "Previous Question": "Previous Question", "Loading...": "Loading...", "%1$s hours, %2$s minutes remaining": "%1$s hours, %2$s minutes remaining", "1 hour, %2$s minutes remaining": "1 hour, %2$s minutes remaining", "%1$s minutes remaining": "%1$s minutes remaining", "%1$s minute remaining": "%1$s minute remaining", "%1$s seconds remaining": "%1$s seconds remaining", "You must select an answer to continue.": "You must select an answer to continue." };</script>
+	<script>
+		/(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () { var t, e = location.hash.substring(1); /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus()) }, !1);
+	</script>
+	<script id="codepen-embed-script-js" src="https://cpwebassets.codepen.io/assets/embed/ei.js?ver=1.0.1"></script>
+	<script id="astra-theme-js-js-extra">
+		var astra = { "break_point": "921", "isRtl": "", "is_scroll_to_id": "", "is_scroll_to_top": "", "is_header_footer_builder_active": "", "responsive_cart_click": "flyout", "is_dark_palette": "" };
+		//# sourceURL=astra-theme-js-js-extra
+	</script>
+	<script id="astra-theme-js-js"
+		src="../..//wp-content/themes/astra/assets/js/minified/style.min.js?ver=4.12.0"></script>
+	<script id="mkaz-code-syntax-prism-js-js-extra">
+		var prism_settings = { "pluginUrl": "..//wp-content/plugins/code-syntax-block/index.html" };
+		//# sourceURL=mkaz-code-syntax-prism-js-js-extra
+	</script>
+	<script id="mkaz-code-syntax-prism-js-js"
+		src="../..//wp-content/plugins/code-syntax-block/assets/prism/prism.js?ver=1723656164"></script>
+	<script id="jquery-ui-core-js-before">
+		jQuery.uiBackCompat = true;
+		jQuery.uiBackCompat = true;
+		//# sourceURL=jquery-ui-core-js-before
+	</script>
+	<script id="jquery-ui-core-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/core.min.js"></script>
+	<script id="jquery-ui-tooltip-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/tooltip.min.js"></script>
+	<script id="jquery-ui-datepicker-js"
+		src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/datepicker.min.js"></script>
+	<script id="jquery-ui-datepicker-js-after">
+		jQuery(function (jQuery) { jQuery.datepicker.setDefaults({ "closeText": "Close", "currentText": "Today", "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"], "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], "nextText": "Next", "prevText": "Previous", "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"], "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"], "dateFormat": "MM d, yy", "firstDay": 1, "isRTL": false }); });
+		//# sourceURL=jquery-ui-datepicker-js-after
+	</script>
+	<script id="jquery-ui-mouse-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/mouse.min.js"></script>
+	<script id="jquery-ui-slider-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/jquery/ui/slider.min.js"></script>
+	<script id="webui-popover-js"
+		src="../..//wp-content/plugins/lifterlms/assets/vendor/webui-popover/jquery.webui-popover.min.js?ver=1.2.15"></script>
+	<script id="llms-jquery-matchheight-js"
+		src="../..//wp-content/plugins/lifterlms/assets/js/vendor/jquery.matchHeight.js?ver=0.7.0"></script>
+	<script id="wp-hooks-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/dist/hooks.min.js"></script>
+	<script id="wp-i18n-js" src="https://c0.wp.com/c/7.1.4/wp-includes/js/dist/i18n.min.js"></script>
+	<script id="wp-i18n-js-after">
+		wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
+		wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
+		//# sourceURL=wp-i18n-js-after
+	</script>
+	<script id="llms-js" src="../..//wp-content/plugins/lifterlms/assets/js/llms.min.js?ver=11.0.0"></script>
+	<script id="llms-ajax-js" src="../..//wp-content/plugins/lifterlms/assets/js/llms-ajax.min.js?ver=11.0.0"></script>
+	<script id="llms-form-checkout-js"
+		src="../..//wp-content/plugins/lifterlms/assets/js/llms-form-checkout.min.js?ver=11.0.0"></script>
+	<script id="superpwa-register-sw-js-extra">
+		var superpwa_sw = { "url": "/superpwa-sw.js?1793739142", "disable_addtohome": "0", "enableOnDesktop": "", "offline_form_addon_active": "", "ajax_url": "..//wp-admin/admin-ajax.php", "offline_message": "0", "offline_message_txt": "You are currently offline.", "online_message_txt": "You're back online . \u003Ca href=\"javascript:location.reload()\"\u003Erefresh\u003C/a\u003E", "manifest_name": "superpwa-manifest.json", "script_debug": "" };
+		//# sourceURL=superpwa-register-sw-js-extra
+	</script>
+	<script id="superpwa-register-sw-js"
+		src="../..//wp-content/plugins/super-progressive-web-apps/public/js/register-sw.js?ver=2.2.44"></script>
+	<script id="jetpack-stats-js-before">
+		_stq = window._stq || [];
+		_stq.push(["view", { "v": "ext", "blog": "163816717", "post": "3158", "tz": "-10", "srv": "creativemedia.space", "j": "1:16.3.1" }]);
+		_stq.push(["clickTrackerInit", "163816717", "3158"]);
+		//# sourceURL=jetpack-stats-js-before
+	</script>
+	<script data-wp-strategy="defer" defer fetchpriority="low" id="jetpack-stats-js"
+		src="https://stats.wp.com/e-202645.js"></script>
 
 	<script>
 		// WIDOW SLAYER
@@ -4303,7 +5631,7 @@ li {
 			console.log("length is " + mytbs.length + " last textblock is " + lasttbs);
 			if ((mytbs.length > 1) && (lasttbs != ">")) {
 				console.log("widow slayed!");
-				mytbs[mytbs.length - 2] += "&nbsp;" + mytbs[mytbs.length - 1];
+				mytbs[mytbs.length - 2] += " " + mytbs[mytbs.length - 1];
 				mytbs.pop();
 				alltextblocks[i].innerHTML = mytbs.join(' ');
 			}

@@ -6,13 +6,13 @@
  Author:       CMS
  Author URI:   http://creativemedia.space
  Template:     astra
- Version:      1.0.0
+ Version:      1.0.1
  License:      Open Source Public Domain
  Tags:         
  Text Domain:  astra-child
 */
 
-/* @import url("..//wp-content/themes/astra-child-creativemediaspace/astra-theme-inline-styles.css"); */
+/* @import url("../wp-content/themes/astra-child-creativemediaspace/astra-theme-inline-styles.css"); */
 
 /* ADOBE FONTS 
 font-family: 'Acumin-Pro-Condensed',acumin-pro-condensed,'Oswald',Arial Narrow,Arial,sans-serif; 
@@ -376,11 +376,13 @@ margin-right: auto;
 }
 
 /* LIFTER LMS SPECIFIC */
+/*
 .llms-loop-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
+*/
 
 body .llms-syllabus-wrapper .llms-section-title {
   background-color: transparent;
